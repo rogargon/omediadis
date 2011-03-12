@@ -1,0 +1,199 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://rhizomik.net/ontologies/2008/05/copyrightonto.owl#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="http://www.w3.org/1999/02/22-rdf-syntax-ns#first">
+    <rdfs:label>first</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2000/01/rdf-schema#label">
+    <rdfs:label>label</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://rhizomik.net/ontologies/2008/05/copyrightonto.owl#agent">
+    <rdfs:label xml:lang="en">agent</rdfs:label>
+  </rdf:Description>
+  <j.0:Agree rdf:about="http://omediadis.udl.cat/audio/segre/20112006-15/license/">
+    <j.0:agent>
+      <rdf:Description rdf:about="http://www.segre.com">
+        <rdfs:label>Segre.com</rdfs:label>
+      </rdf:Description>
+    </j.0:agent>
+    <rdfs:comment xml:lang="en">This license is equivalent to Creative Commons Attribution-ShareAlike license.</rdfs:comment>
+    <rdfs:label>License for Segre's 'Butlletí 15h-20/11/2006'</rdfs:label>
+    <j.0:theme>
+      <owl:Class>
+        <owl:equivalentClass>
+          <owl:Restriction>
+            <owl:onProperty>
+              <rdf:Description rdf:about="http://rhizomik.net/ontologies/2008/05/copyrightonto.owl#theme">
+                <rdfs:label xml:lang="en">theme</rdfs:label>
+              </rdf:Description>
+            </owl:onProperty>
+            <owl:someValuesFrom>
+              <rdf:Description rdf:about="http://omediadis.udl.cat/audio/segre/20112006-15/derivations/">
+                <rdfs:label>Derivations of Butlletí 15h-20/11/2006</rdfs:label>
+              </rdf:Description>
+            </owl:someValuesFrom>
+          </owl:Restriction>
+        </owl:equivalentClass>
+        <rdfs:subClassOf>
+          <owl:Class>
+            <owl:unionOf rdf:parseType="Collection">
+              <rdf:Description rdf:about="http://rhizomik.net/ontologies/2008/05/copyrightonto.owl#Communicate">
+                <rdfs:label>communicate\s</rdfs:label>
+                <rdfs:label xml:lang="en">Communicate</rdfs:label>
+              </rdf:Description>
+              <rdf:Description rdf:about="http://rhizomik.net/ontologies/2008/05/copyrightonto.owl#Copy">
+                <rdfs:label xml:lang="en">Copy</rdfs:label>
+                <rdfs:label>copy\ies</rdfs:label>
+              </rdf:Description>
+              <rdf:Description rdf:about="http://rhizomik.net/ontologies/2008/05/copyrightonto.owl#Distribute">
+                <rdfs:label>distribute\s</rdfs:label>
+                <rdfs:label xml:lang="en">Distribute</rdfs:label>
+              </rdf:Description>
+              <rdf:Description rdf:about="http://rhizomik.net/ontologies/2008/05/copyrightonto.owl#MakeAvailable">
+                <rdfs:label>make\s available</rdfs:label>
+                <rdfs:label xml:lang="en">Make Available</rdfs:label>
+              </rdf:Description>
+            </owl:unionOf>
+          </owl:Class>
+        </rdfs:subClassOf>
+        <j.0:condition>
+          <owl:Class>
+            <rdfs:subClassOf>
+              <rdf:Description rdf:about="http://rhizomik.net/ontologies/2008/05/copyrightonto.owl#Attribute">
+                <rdfs:label>attribute\s</rdfs:label>
+              </rdf:Description>
+            </rdfs:subClassOf>
+            <owl:intersectionOf rdf:parseType="Collection">
+              <owl:Restriction>
+                <owl:onProperty rdf:resource="http://rhizomik.net/ontologies/2008/05/copyrightonto.owl#theme"/>
+                <owl:hasValue>
+                  <rdf:Description rdf:about="http://omediadis.udl.cat/audio/segre/20112006-15/">
+                    <rdfs:label>Butlletí 15h-20/11/2006</rdfs:label>
+                  </rdf:Description>
+                </owl:hasValue>
+              </owl:Restriction>
+              <owl:Restriction>
+                <owl:onProperty>
+                  <rdf:Description rdf:about="http://rhizomik.net/ontologies/2008/05/copyrightonto.owl#recipient">
+                    <rdfs:label xml:lang="en">recipient</rdfs:label>
+                  </rdf:Description>
+                </owl:onProperty>
+                <owl:hasValue rdf:resource="http://www.segre.com"/>
+              </owl:Restriction>
+            </owl:intersectionOf>
+          </owl:Class>
+        </j.0:condition>
+      </owl:Class>
+    </j.0:theme>
+    <j.0:theme>
+      <owl:Class>
+        <owl:equivalentClass>
+          <owl:Restriction>
+            <owl:hasValue rdf:resource="http://omediadis.udl.cat/audio/segre/20112006-15/"/>
+            <owl:onProperty rdf:resource="http://rhizomik.net/ontologies/2008/05/copyrightonto.owl#theme"/>
+          </owl:Restriction>
+        </owl:equivalentClass>
+        <j.0:condition>
+          <owl:Class>
+            <rdfs:subClassOf rdf:resource="http://rhizomik.net/ontologies/2008/05/copyrightonto.owl#Attribute"/>
+            <owl:intersectionOf rdf:parseType="Collection">
+              <owl:Restriction>
+                <owl:onProperty rdf:resource="http://rhizomik.net/ontologies/2008/05/copyrightonto.owl#theme"/>
+                <owl:hasValue rdf:resource="http://omediadis.udl.cat/audio/segre/20112006-15/"/>
+              </owl:Restriction>
+              <owl:Restriction>
+                <owl:onProperty rdf:resource="http://rhizomik.net/ontologies/2008/05/copyrightonto.owl#recipient"/>
+                <owl:hasValue rdf:resource="http://www.segre.com"/>
+              </owl:Restriction>
+            </owl:intersectionOf>
+          </owl:Class>
+        </j.0:condition>
+        <rdfs:subClassOf>
+          <owl:Class>
+            <owl:unionOf rdf:parseType="Collection">
+              <rdf:Description rdf:about="http://rhizomik.net/ontologies/2008/05/copyrightonto.owl#Communicate"/>
+              <rdf:Description rdf:about="http://rhizomik.net/ontologies/2008/05/copyrightonto.owl#Copy"/>
+              <rdf:Description rdf:about="http://rhizomik.net/ontologies/2008/05/copyrightonto.owl#Distribute"/>
+              <rdf:Description rdf:about="http://rhizomik.net/ontologies/2008/05/copyrightonto.owl#MakeAvailable"/>
+            </owl:unionOf>
+          </owl:Class>
+        </rdfs:subClassOf>
+      </owl:Class>
+    </j.0:theme>
+    <j.0:theme>
+      <owl:Class>
+        <owl:equivalentClass>
+          <owl:Restriction>
+            <owl:onProperty rdf:resource="http://rhizomik.net/ontologies/2008/05/copyrightonto.owl#theme"/>
+            <owl:hasValue rdf:resource="http://omediadis.udl.cat/audio/segre/20112006-15/"/>
+          </owl:Restriction>
+        </owl:equivalentClass>
+        <rdfs:subClassOf>
+          <rdf:Description rdf:about="http://rhizomik.net/ontologies/2008/05/copyrightonto.owl#Derive">
+            <rdfs:label>derive\s</rdfs:label>
+            <rdfs:label xml:lang="en">Derive</rdfs:label>
+          </rdf:Description>
+        </rdfs:subClassOf>
+        <owl:equivalentClass>
+          <owl:Restriction>
+            <owl:onProperty>
+              <rdf:Description rdf:about="http://rhizomik.net/ontologies/2008/05/copyrightonto.owl#result">
+                <rdfs:label xml:lang="en">result</rdfs:label>
+              </rdf:Description>
+            </owl:onProperty>
+            <owl:someValuesFrom rdf:resource="http://omediadis.udl.cat/audio/segre/20112006-15/derivations/"/>
+          </owl:Restriction>
+        </owl:equivalentClass>
+      </owl:Class>
+    </j.0:theme>
+  </j.0:Agree>
+  <rdf:Description rdf:about="http://www.w3.org/2000/01/rdf-schema#comment">
+    <rdfs:label>comment</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2002/07/owl#equivalentClass">
+    <rdfs:label>equivalentClass</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2002/07/owl#onProperty">
+    <rdfs:label>onProperty</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/1999/02/22-rdf-syntax-ns#rest">
+    <rdfs:label>rest</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://rhizomik.net/ontologies/2008/05/copyrightonto.owl#condition">
+    <rdfs:label xml:lang="en">condition</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2002/07/owl#someValuesFrom">
+    <rdfs:label>someValuesFrom</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2002/07/owl#unionOf">
+    <rdfs:label>unionOf</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2000/01/rdf-schema#subClassOf">
+    <rdfs:label>subClassOf</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/1999/02/22-rdf-syntax-ns#type">
+    <rdfs:label>type</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2002/07/owl#hasValue">
+    <rdfs:label>hasValue</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2002/07/owl#intersectionOf">
+    <rdfs:label>intersectionOf</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2002/07/owl#Restriction">
+    <rdfs:label>Restriction</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil">
+    <rdfs:label>nil</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://rhizomik.net/ontologies/2008/05/copyrightonto.owl#Agree">
+    <rdfs:label>agree\s</rdfs:label>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Agreement</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2002/07/owl#Class">
+    <rdfs:label>Class</rdfs:label>
+  </rdf:Description>
+</rdf:RDF>

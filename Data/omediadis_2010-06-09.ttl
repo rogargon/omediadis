@@ -1,0 +1,476 @@
+# Dump of graph <http://omediadis.udl.cat/>, as of 2010-06-09 02:06:06.000002
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+<http://omediadis.udl.cat/audio/segre/06022007-Migdia/derivations/>	rdf:type	owl:Class ,
+		owl:Class .
+<>	rdf:type	owl:Class .
+<>	rdf:type	owl:Class .
+<>	rdf:type	owl:Class .
+<>	rdf:type	owl:Class .
+<>	rdf:type	owl:Class .
+<>	rdf:type	owl:Class .
+<>	rdf:type	owl:Class .
+<>	rdf:type	owl:Class .
+<>	rdf:type	owl:Class .
+<>	rdf:type	owl:Class .
+<>	rdf:type	owl:Class .
+<>	rdf:type	owl:Class .
+<>	rdf:type	owl:Class .
+<>	rdf:type	owl:Class .
+<>	rdf:type	owl:Class .
+<>	rdf:type	owl:Class .
+<>	rdf:type	owl:Class .
+<>	rdf:type	owl:Restriction .
+<>	rdf:type	owl:Restriction .
+<>	rdf:type	owl:Restriction .
+<>	rdf:type	owl:Restriction .
+<>	rdf:type	owl:Restriction .
+<>	rdf:type	owl:Restriction .
+<>	rdf:type	owl:Restriction .
+<>	rdf:type	owl:Restriction .
+<>	rdf:type	owl:Restriction .
+<>	rdf:type	owl:Restriction .
+<>	rdf:type	owl:Restriction .
+<>	rdf:type	owl:Restriction .
+<>	rdf:type	owl:Restriction .
+<>	rdf:type	owl:Restriction .
+<>	rdf:type	owl:Restriction .
+<>	rdf:type	owl:Restriction .
+<>	rdf:type	owl:Restriction .
+<>	rdf:type	owl:Restriction .
+<>	rdf:type	owl:Restriction .
+<>	rdf:type	owl:Restriction .
+<>	rdf:type	owl:Restriction .
+@prefix ns2:	<http://purl.org/rss/1.0/> .
+<http://omediadis.udl.cat/blog/2010/01/25/omediadis-first-prototype/>	rdf:type	ns2:item ,
+		ns2:item .
+@prefix ns3:	<http://swrc.ontoware.org/ontology#> .
+<http://omediadis.udl.cat/deliverables/215-Modelos_Metadatos_Contenidos_Multimedia/>	rdf:type	ns3:Report ,
+		ns3:Report ,
+		ns3:Report ,
+		ns3:Report ,
+		ns3:Report ,
+		ns3:Report ,
+		ns3:Report ,
+		ns3:Report ,
+		ns3:Report ,
+		ns3:Report ,
+		ns3:Report .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+@prefix ns5:	<http://dbpedia.org/ontology/City#> .
+dbpedia:Lleida	rdf:type	ns5:Class .
+@prefix ns6:	<http://rhizomik.net/s5t/s5t.owl#> .
+<http://omediadis.udl.cat/audio/segre/01032007-Migdia/>	rdf:type	ns6:Audio ,
+		ns6:Audio ,
+		ns6:Audio ,
+		ns6:Audio ,
+		ns6:Audio ,
+		ns6:Audio ,
+		ns6:Audio ,
+		ns6:Audio ,
+		ns6:Audio ,
+		ns6:Audio ,
+		ns6:Audio ,
+		ns6:Audio ,
+		ns6:Audio ,
+		ns6:Audio ,
+		ns6:Audio ,
+		ns6:Audio ,
+		ns6:Audio .
+@prefix ns7:	<http://rhizomik.net/ontologies/2008/05/copyrightonto.owl#> .
+<http://omediadis.udl.cat/audio/segre/01032007-Migdia/license/>	rdf:type	ns7:Agree ,
+		ns7:Agree ,
+		ns7:Agree .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+<http://rhizomik.net/~roberto/>	rdfs:label	"Roberto Garc\u00EDa" ,
+		"Informe Modelos Metadatos Contenidos Multimedia" ,
+		"Informe Accesibilidad Sistemas Gesti\u00F3n Contenidos Multimedia" .
+dbpedia:Lleida	rdfs:label	"Lleida"@ca .
+<http://omediadis.udl.cat/blog/2010/01/25/omediadis-first-prototype/>	rdfs:label	"OMediaDis first prototype" ,
+		"OMediaDis Kick-off" ,
+		"Butllet\u00ED 16h - 20/11/2006" ,
+		"Segre R\u00E0dio" ,
+		"Informe Sistemas Gesti\u00F3n Contenidos Multimedia" ,
+		"Informe Web Sem\u00E1ntica y DRM" ,
+		"Informe Watermarking y Fingerprinting" ,
+		"Informe Anotaci\u00F3n Contenidos Multimedia" ,
+		"Informe Sistemas B\u00FAsqueda Contenidos Multimedia" ,
+		"Informe Sistemas Recomendaci\u00F3n Contenidos Multimedia" ,
+		"Informe Accesibilidad y Web Sem\u00E1ntica" ,
+		"Informe Interfaces Basadas Modelos Sem\u00E1nticos" ,
+		"Informe Patrones Interacci\u00F3n Web Sem\u00E1ntica" ,
+		"Butllet\u00ED 21h - 20/11/2006" ,
+		"Derivations of Butllet\u00ED 15h-20/11/2006" .
+ns7:Communicate	rdfs:label	"communicate\\s" .
+ns7:Distribute	rdfs:label	"distribute\\s" .
+ns7:Copy	rdfs:label	"copy\\ies" .
+<http://www.segre.com>	rdfs:label	"Segre.com" .
+ns7:Attribute	rdfs:label	"attribute\\s" .
+ns7:MakeAvailable	rdfs:label	"make\\s available" .
+ns7:Derive	rdfs:label	"derive\\s" .
+ns7:Agree	rdfs:label	"agree\\s" .
+<http://omediadis.udl.cat/audio/segre/20112006-15/>	rdfs:label	"Butllet\u00ED 15h-20/11/2006" ,
+		"License for Segre's 'Butllet\u00ED 15h-20/11/2006'" .
+ns7:hasFixation	rdfs:label	"recording"@en .
+<http://omediadis.udl.cat/audio/segre/01032007-Migdia/>	rdfs:label	"Butllet\u00ED Migdia-1/03/2007" ,
+		"License for Segre's 'Butllet\u00ED Migdia-1/03/2007'"@en ,
+		"Butllet\u00ED Migdia-6/2/2007" ,
+		"Butllet\u00ED 10h-8/1/2007" ,
+		"Butllet\u00ED 9h-8/1/2007" ,
+		"Butllet\u00ED 15h-9/1/2007" ,
+		"Butllet\u00ED 16h-9/1/2007" ,
+		"Butllet\u00ED 17h-9/1/2007" ,
+		"Butllet\u00ED Migdia-11/1/2007" ,
+		"Butllet\u00ED Migdia-13/2/2007" ,
+		"Butllet\u00ED Migdia-16/4/2007" ,
+		"Butllet\u00ED Migdia-17/1/2007" ,
+		"Butllet\u00ED Migdia-18/1/2007" ,
+		"Butllet\u00ED Migdia-20/2/2007" ,
+		"Butllet\u00ED 22h - 20/11/2006" ,
+		"License for Segre's 'Butllet\u00ED Migdia-6/2/2007'"@en ,
+		"Derivations of Butllet\u00ED Migdia-6/2/2007" .
+<>	rdf:first	ns7:Distribute .
+<>	rdf:first	ns7:Distribute .
+<>	rdf:first	ns7:Distribute .
+<>	rdf:first	ns7:Distribute .
+<>	rdf:first	ns7:Distribute .
+<>	rdf:first	ns7:MakeAvailable .
+<>	rdf:first	ns7:MakeAvailable .
+<>	rdf:first	ns7:MakeAvailable .
+<>	rdf:first	ns7:MakeAvailable .
+<>	rdf:first	ns7:MakeAvailable .
+<>	rdf:first	ns7:Communicate .
+<>	rdf:first	ns7:Communicate .
+<>	rdf:first	ns7:Communicate .
+<>	rdf:first	ns7:Communicate .
+<>	rdf:first	ns7:Communicate .
+<>	rdf:first	ns7:Copy .
+<>	rdf:first	ns7:Copy .
+<>	rdf:first	ns7:Copy .
+<>	rdf:first	ns7:Copy .
+<>	rdf:first	ns7:Copy .
+<>	rdf:first	<> .
+<>	rdf:first	<> .
+<>	rdf:first	<> .
+<>	rdf:first	<> .
+<>	rdf:first	<> .
+<>	rdf:first	<> .
+<>	rdf:first	<> .
+<>	rdf:first	<> .
+<>	rdf:first	<> .
+<>	rdf:first	<> .
+<>	rdf:rest	rdf:nil .
+<>	rdf:rest	rdf:nil .
+<>	rdf:rest	rdf:nil .
+<>	rdf:rest	rdf:nil .
+<>	rdf:rest	rdf:nil .
+<>	rdf:rest	rdf:nil .
+<>	rdf:rest	rdf:nil .
+<>	rdf:rest	rdf:nil .
+<>	rdf:rest	rdf:nil .
+<>	rdf:rest	rdf:nil .
+<>	rdf:rest	<> .
+<>	rdf:rest	<> .
+<>	rdf:rest	<> .
+<>	rdf:rest	<> .
+<>	rdf:rest	<> .
+<>	rdf:rest	<> .
+<>	rdf:rest	<> .
+<>	rdf:rest	<> .
+<>	rdf:rest	<> .
+<>	rdf:rest	<> .
+<>	rdf:rest	<> .
+<>	rdf:rest	<> .
+<>	rdf:rest	<> .
+<>	rdf:rest	<> .
+<>	rdf:rest	<> .
+<>	rdf:rest	<> .
+<>	rdf:rest	<> .
+<>	rdf:rest	<> .
+<>	rdf:rest	<> .
+<>	rdf:rest	<> .
+<>	owl:unionOf	<> .
+<>	owl:unionOf	<> .
+<>	owl:unionOf	<> .
+<>	owl:unionOf	<> .
+<>	owl:unionOf	<> .
+dbpedia:Lleida	rdfs:comment	"Lleida (Standard Central Catalan or North-Western Catalan ; Castillian L\u00E9rida , though officially referred as Lleida) is a city in the west of Catalonia, Spain. It had 127.314 inhabitants as of 2007, including the attached municipalities of Ra\u00EFmat and Sucs. It is the central city of the province of the same name"@en .
+<http://omediadis.udl.cat/audio/segre/06022007-Migdia/license/>	rdfs:comment	"This license is equivalent to Creative Commons Attribution-ShareAlike license."@en ,
+		"This license is equivalent to Creative Commons Attribution-ShareAlike license."@en ,
+		"This license is equivalent to Creative Commons Attribution-NoDerivs license."@en .
+<>	rdfs:subClassOf	ns7:Attribute .
+<>	rdfs:subClassOf	ns7:Attribute .
+<>	rdfs:subClassOf	ns7:Attribute .
+<>	rdfs:subClassOf	ns7:Attribute .
+<>	rdfs:subClassOf	ns7:Attribute .
+<>	rdfs:subClassOf	ns7:Derive .
+<>	rdfs:subClassOf	ns7:Derive .
+<http://omediadis.udl.cat/audio/segre/06022007-Migdia/derivations/>	rdfs:subClassOf	ns7:Work ,
+		ns7:Work .
+<>	rdfs:subClassOf	<> .
+<>	rdfs:subClassOf	<> .
+<>	rdfs:subClassOf	<> .
+<>	rdfs:subClassOf	<> .
+<>	rdfs:subClassOf	<> .
+<http://omediadis.udl.cat/audio/segre/20112006-15/derivations/>	owl:equivalentClass	<> .
+<>	owl:equivalentClass	<> .
+<>	owl:equivalentClass	<> .
+<>	owl:equivalentClass	<> .
+<>	owl:equivalentClass	<> .
+<>	owl:equivalentClass	<> .
+<>	owl:equivalentClass	<> .
+<>	owl:equivalentClass	<> .
+<>	owl:equivalentClass	<> .
+<http://omediadis.udl.cat/audio/segre/06022007-Migdia/derivations/>	owl:equivalentClass	<> .
+<>	owl:equivalentClass	<> .
+<>	owl:intersectionOf	<> .
+<>	owl:intersectionOf	<> .
+<>	owl:intersectionOf	<> .
+<>	owl:intersectionOf	<> .
+<>	owl:intersectionOf	<> .
+<>	owl:onProperty	ns7:theme .
+<>	owl:onProperty	ns7:theme .
+<>	owl:onProperty	ns7:theme .
+<>	owl:onProperty	ns7:theme .
+<>	owl:onProperty	ns7:theme .
+<>	owl:onProperty	ns7:theme .
+<>	owl:onProperty	ns7:theme .
+<>	owl:onProperty	ns7:theme .
+<>	owl:onProperty	ns7:theme .
+<>	owl:onProperty	ns7:theme .
+<>	owl:onProperty	ns7:theme .
+<>	owl:onProperty	ns7:theme .
+<>	owl:onProperty	ns7:result .
+<>	owl:onProperty	ns7:result .
+<>	owl:onProperty	ns7:recipient .
+<>	owl:onProperty	ns7:recipient .
+<>	owl:onProperty	ns7:recipient .
+<>	owl:onProperty	ns7:recipient .
+<>	owl:onProperty	ns7:recipient .
+<>	owl:onProperty	ns7:isDerivationOf .
+<>	owl:onProperty	ns7:isDerivationOf .
+<>	owl:hasValue	<http://omediadis.udl.cat/audio/segre/01032007-Migdia/> .
+<>	owl:hasValue	<http://omediadis.udl.cat/audio/segre/01032007-Migdia/> .
+<>	owl:hasValue	<http://omediadis.udl.cat/audio/segre/06022007-Migdia/> .
+<>	owl:hasValue	<http://omediadis.udl.cat/audio/segre/06022007-Migdia/> .
+<>	owl:hasValue	<http://omediadis.udl.cat/audio/segre/06022007-Migdia/> .
+<>	owl:hasValue	<http://omediadis.udl.cat/audio/segre/06022007-Migdia/> .
+<>	owl:hasValue	<http://omediadis.udl.cat/audio/segre/06022007-Migdia/> .
+<>	owl:hasValue	<http://omediadis.udl.cat/audio/segre/20112006-15/> .
+<>	owl:hasValue	<http://omediadis.udl.cat/audio/segre/20112006-15/> .
+<>	owl:hasValue	<http://omediadis.udl.cat/audio/segre/20112006-15/> .
+<>	owl:hasValue	<http://omediadis.udl.cat/audio/segre/20112006-15/> .
+<>	owl:hasValue	<http://omediadis.udl.cat/audio/segre/20112006-15/> .
+<>	owl:hasValue	<http://www.segre.com> .
+<>	owl:hasValue	<http://www.segre.com> .
+<>	owl:hasValue	<http://www.segre.com> .
+<>	owl:hasValue	<http://www.segre.com> .
+<>	owl:hasValue	<http://www.segre.com> .
+<>	owl:someValuesFrom	<http://omediadis.udl.cat/audio/segre/06022007-Migdia/derivations/> .
+<>	owl:someValuesFrom	<http://omediadis.udl.cat/audio/segre/06022007-Migdia/derivations/> .
+<>	owl:someValuesFrom	<http://omediadis.udl.cat/audio/segre/20112006-15/derivations/> .
+<>	owl:someValuesFrom	<http://omediadis.udl.cat/audio/segre/20112006-15/derivations/> .
+@prefix dc:	<http://purl.org/dc/elements/1.1/> .
+<http://omediadis.udl.cat/deliverables/215-Modelos_Metadatos_Contenidos_Multimedia/>	dc:title	"Entregable 2.1.5 - Informe Modelos de Metadatos para Contenidos Multimedia" ,
+		"Entregable 2.1.2 - Informe Accesibilidad de Sistemas Gesti\u00F3n Contenidos Multimedia" ,
+		"Butllet\u00ED de les 15h del 20 de Novembre de 2006" ,
+		"Butllet\u00ED de les 16h del 20 de Novembre de 2006" ,
+		"Entregable 2.1.1 - Informe Sistemas Gesti\u00F3n Contenidos Multimedia" ,
+		"Entregable 2.1.3 - Informe Informe Web Sem\u00E1ntica y DRM" ,
+		"Entregable 2.1.4 - Informe Watermarking y Fingerprinting" ,
+		"Entregable 2.1.6 - Informe Sistemas de Anotaci\u00F3n de Contenidos Multimedia" ,
+		"Entregable 2.1.7 - Informe Sistemas de B\u00FAsqueda de Contenidos Multimedia" ,
+		"Entregable 2.1.8 - Informe Sistemas de Recomendaci\u00F3n de Contenidos Multimedia" ,
+		"Entregable 2.1.9 - Informe Accesibilidad y Web Sem\u00E1ntica" ,
+		"Entregable 2.1.10 - Informe Interfaces Basadas en Modelos Sem\u00E1nticos" ,
+		"Entregable 2.1.11 - Informe Patrones de Interacci\u00F3n en la Web Sem\u00E1ntica" ,
+		"Butllet\u00ED de les 21h del 20 de Novembre de 2006" ,
+		"Butllet\u00ED del migdia del 1 de mar\u00E7 de 2007" ,
+		"Butllet\u00ED del migdia del 6 de febrer de 2007" ,
+		"Butllet\u00ED de les 10h del 8 de gener de 2007" ,
+		"Butllet\u00ED de les 9h del 8 de gener de 2007" ,
+		"Butllet\u00ED de les 15h del 9 de gener de 2007" ,
+		"Butllet\u00ED de les 16h del 9 de gener de 2007" ,
+		"Butllet\u00ED de les 17h del 9 de gener de 2007" ,
+		"Butllet\u00ED del migdia del 11 de gener de 2007" ,
+		"Butllet\u00ED del migdia del 13 de febrer de 2007" ,
+		"Butllet\u00ED del migdia del 16 d'abril de 2007" ,
+		"Butllet\u00ED del migdia del 17 de gener de 2007" ,
+		"Butllet\u00ED del migdia del 18 de gener de 2007" ,
+		"Butllet\u00ED del migdia del 20 de febrer de 2007" ,
+		"Butllet\u00ED de les 22h del 20 de novembre de 2006" ;
+	dc:date	"2009-01-01" ,
+		"2010-01-25" ,
+		"2010-03-01" ,
+		"2010-03-01" ,
+		"2010-03-01" ,
+		"2010-03-01" ,
+		"2010-03-01" ,
+		"2010-03-01" ,
+		"2010-03-01" ,
+		"2010-03-01" ,
+		"2010-03-01" ,
+		"2010-03-01" ,
+		"2010-03-01" ,
+		"2007-03-01" ,
+		"2007-04-16" ,
+		"2007-01-17" ,
+		"2007-02-13" ,
+		"2007-01-08" ,
+		"2007-01-08" ,
+		"2007-02-06" ,
+		"2007-01-09" ,
+		"2007-01-09" ,
+		"2007-01-09" ,
+		"2007-02-20" ,
+		"2007-01-18" ,
+		"2006-11-20" ,
+		"2006-11-20" ,
+		"2006-11-20" ,
+		"2006-11-20" ,
+		"2006-11-20" ,
+		"2006-11-20" ,
+		"2007-01-11" ;
+	ns2:description	"OMediaDis releases the first prototype of its web-based platform, which currently integrates a specialised view for audio content." ,
+		"The Open Platform for Multichannel Content Distribution Management reserach project (OMediaDis, TIN2008-06228), supported by the Spanish Ministry of Science and Innovation, starts on 2009 with a duration of 3 years." ;
+	ns2:link	"http://omediadis.udl.cat/blog/2010/01/25/omediadis-first-prototype/" ,
+		"http://omediadis.udl.cat/blog/2000/01/01/omediadis-kickoff/" .
+@prefix ns10:	<http://www.w3.org/2002/12/cal/icaltzd#> .
+<http://omediadis.udl.cat/blog/2000/01/01/omediadis-kickoff/>	ns10:dtstart	"2009-01-01" .
+@prefix ns11:	<http://www.w3.org/2002/12/cal/tzd/Europe/Madrid#> .
+<http://omediadis.udl.cat/audio/Boleto15_20112006/>	ns10:dtstart	"2006-11-20T15:00:00"^^ns11:tz ,
+		"2006-11-20T16:00:00"^^ns11:tz ,
+		"2006-11-20T15:00:00" ,
+		"2006-11-20T16:00:00" ,
+		"2006-11-20T21:00:00" ,
+		"2007-03-01T12:00:00" ,
+		"2007-02-06T12:00:00" ,
+		"2007-01-08T10:00:00" ,
+		"2007-01-08T09:00:00" ,
+		"2007-01-09T15:00:00" ,
+		"2007-01-09T16:00:00" ,
+		"2007-01-09T17:00:00" ,
+		"2007-01-11T12:00:00" ,
+		"2007-02-13T12:00:00" ,
+		"2007-04-16T12:00:00" ,
+		"2007-01-17T12:00:00" ,
+		"2007-01-18T12:00:00" ,
+		"2007-02-20T12:00:00" ,
+		"2006-11-20T22:00:00" .
+@prefix geo:	<http://www.w3.org/2003/01/geo/wgs84_pos#> .
+dbpedia:Lleida	geo:lat	"41.6166666667" .
+<http://omediadis.udl.cat/blog/2000/01/01/omediadis-kickoff/>	geo:lat	"41.6081848415776" ,
+		"41.617488" .
+dbpedia:Lleida	geo:long	"0.633333333333" .
+<http://omediadis.udl.cat/blog/2000/01/01/omediadis-kickoff/>	geo:long	"0.623323917388916" ,
+		"0.632618" ;
+	dc:creator	<http://rhizomik.net/~roberto/> ,
+		<http://rhizomik.net/~roberto/> ;
+	ns2:title	"OMediaDis first prototype" ,
+		"OMediaDis Kick-off" ;
+	ns10:dtend	"2011-12-31" ,
+		"2006-11-20T15:01:30"^^ns11:tz ,
+		"2006-11-20T16:01:30"^^ns11:tz ,
+		"2006-11-20T15:01:30" ,
+		"2006-11-20T16:01:30" ,
+		"2006-11-20T21:01:30" ,
+		"2007-03-01T12:06:25" ,
+		"2007-02-06T12:06:30" ,
+		"2007-01-08T10:01:30" ,
+		"2007-01-08T09:01:30" ,
+		"2007-01-09T15:01:30" ,
+		"2007-01-09T16:01:30" ,
+		"2007-01-09T17:01:30" ,
+		"2007-01-11T12:06:30" ,
+		"2007-02-13T12:06:30" ,
+		"2007-04-16T12:06:30" ,
+		"2007-01-17T12:06:30" ,
+		"2007-01-18T12:06:30" ,
+		"2007-02-20T12:06:30" ,
+		"2006-11-20T22:01:30" ;
+	ns3:homepage	"http://omediadis.udl.cat/html/deliverables/215-Modelos_Metadatos_Contenidos_Multimedia/" ,
+		"http://omediadis.udl.cat/html/deliverables/212-Accesibilidad_Sistemas_Gestion_Contenidos_Multimedia/" ,
+		"http://omediadis.udl.cat/html/deliverables/213-Web_Semantica_y_DRM/" ,
+		"http://omediadis.udl.cat/html/deliverables/211-Sistemas_Gestion_Contenidos_Multimedia/" ,
+		"http://omediadis.udl.cat/html/deliverables/214-Watermarking_y_Fingerprinting/" ,
+		"http://omediadis.udl.cat/html/deliverables/216-Anotacion_Contenidos_Multimedia/" ,
+		"http://omediadis.udl.cat/html/deliverables/217-Busqueda_Contenidos_Multimedia/" ,
+		"http://omediadis.udl.cat/html/deliverables/2110-Interfaces_Basadas_Modelos_Semanticos/" ,
+		"http://omediadis.udl.cat/html/deliverables/2111-Patrones_Interaccion_Web_Semantica/" ,
+		"http://omediadis.udl.cat/html/deliverables/218-Sistemas_Recomendacion_Contenidos_Multimedia/" ,
+		"http://omediadis.udl.cat/html/deliverables/219-Accesibilidad_y_Web_Semantica/" .
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+dbpedia:Lleida	dbpprop:population	127 .
+@prefix ns14:	<http://www.georss.org/georss#> .
+dbpedia:Lleida	ns14:point	"41.6166666667 0.633333333333" .
+<http://omediadis.udl.cat/audio/segre/01032007-Migdia/>	ns7:hasFixation	<http://omediadis.udl.cat/audio/segre/01032007-Migdia.mp3> ,
+		<http://omediadis.udl.cat/audio/segre/06022007-Migdia.mp3> ,
+		<http://omediadis.udl.cat/audio/segre/08012007-10.mp3> ,
+		<http://omediadis.udl.cat/audio/segre/08012007-9.mp3> ,
+		<http://omediadis.udl.cat/audio/segre/09012007-15.mp3> ,
+		<http://omediadis.udl.cat/audio/segre/09012007-16.mp3> ,
+		<http://omediadis.udl.cat/audio/segre/09012007-17.mp3> ,
+		<http://omediadis.udl.cat/audio/segre/11012007-Migdia.mp3> ,
+		<http://omediadis.udl.cat/audio/segre/13022007-Migdia.mp3> ,
+		<http://omediadis.udl.cat/audio/segre/16042007-Migdia.mp3> ,
+		<http://omediadis.udl.cat/audio/segre/17012007-Migdia.mp3> ,
+		<http://omediadis.udl.cat/audio/segre/18012007-Migdia.mp3> ,
+		<http://omediadis.udl.cat/audio/segre/20022007-Migdia.mp3> ,
+		<http://omediadis.udl.cat/audio/segre/20112006-22.mp3> ,
+		<http://omediadis.udl.cat/audio/segre/20112006-15.mp3> ,
+		<http://omediadis.udl.cat/audio/segre/20112006-16.mp3> ,
+		<http://omediadis.udl.cat/audio/segre/20112006-21.mp3> ;
+	ns6:transcriptionResource	"http://omediadis.udl.cat/audio/segre/20112006-15.html" ,
+		"http://omediadis.udl.cat/audio/segre/20112006-16.html" ,
+		"http://omediadis.udl.cat/audio/segre/20112006-21.html" ,
+		"http://omediadis.udl.cat/audio/segre/01032007-Migdia.html" ,
+		"http://omediadis.udl.cat/audio/segre/06022007-Migdia.html" ,
+		"http://omediadis.udl.cat/audio/segre/08012007-10.html" ,
+		"http://omediadis.udl.cat/audio/segre/08012007-9.html" ,
+		"http://omediadis.udl.cat/audio/segre/09012007-15.html" ,
+		"http://omediadis.udl.cat/audio/segre/09012007-16.html" ,
+		"http://omediadis.udl.cat/audio/segre/09012007-17.html" ,
+		"http://omediadis.udl.cat/audio/segre/11012007-Migdia.html" ,
+		"http://omediadis.udl.cat/audio/segre/13022007-Migdia.html" ,
+		"http://omediadis.udl.cat/audio/segre/16042007-Migdia.html" ,
+		"http://omediadis.udl.cat/audio/segre/17012007-Migdia.html" ,
+		"http://omediadis.udl.cat/audio/segre/18012007-Migdia.html" ,
+		"http://omediadis.udl.cat/audio/segre/20022007-Migdia.html" ,
+		"http://omediadis.udl.cat/audio/segre/20112006-22.html" ;
+	dc:author	<http://www.segreradio.com> ,
+		<http://www.segreradio.com> ,
+		<http://www.segreradio.com> ,
+		<http://www.segreradio.com> ,
+		<http://www.segreradio.com> ,
+		<http://www.segreradio.com> ,
+		<http://www.segreradio.com> ,
+		<http://www.segreradio.com> ,
+		<http://www.segreradio.com> ,
+		<http://www.segreradio.com> ,
+		<http://www.segreradio.com> ,
+		<http://www.segreradio.com> ,
+		<http://www.segreradio.com> ,
+		<http://www.segreradio.com> ,
+		<http://www.segreradio.com> ,
+		<http://www.segreradio.com> ,
+		<http://www.segreradio.com> .
+<>	ns7:condition	<> .
+<>	ns7:condition	<> .
+<>	ns7:condition	<> .
+<>	ns7:condition	<> .
+<>	ns7:condition	<> .
+<http://omediadis.udl.cat/audio/segre/20112006-15/license/>	ns7:theme	<> ,
+		<> ,
+		<> ,
+		<> ,
+		<> ,
+		<> ,
+		<> ;
+	ns7:agent	<http://www.segre.com> ,
+		<http://www.segre.com> ,
+		<http://www.segre.com> .
+@prefix ns15:	<hhttp://www.w3.org/1999/xhtml/vocab#> .
+<http://omediadis.udl.cat/audio/segre/06022007-Migdia/>	ns15:license	<http://omediadis.udl.cat/audio/segre/06022007-Migdia/license/> .
+@prefix ns16:	<http://www.w3.org/1999/xhtml/vocab#> .
+<http://omediadis.udl.cat/audio/segre/01032007-Migdia/>	ns16:license	<http://omediadis.udl.cat/audio/segre/01032007-Migdia/license/> ,
+		<http://omediadis.udl.cat/audio/segre/20112006-15/license/> .
