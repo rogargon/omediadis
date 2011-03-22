@@ -1,0 +1,672 @@
+<http://omediadis.udl.cat/segre/radio/bulletin/01032007-Migdia/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rhizomik.net/ontologies/2009/09/copyrightonto.owl#Communication>.
+<http://omediadis.udl.cat/segre/radio/bulletin/01032007-Migdia/> <http://www.w3.org/2000/01/rdf-schema#label> "Radio Bulletin 12h - March 1st 2007".
+<http://omediadis.udl.cat/segre/radio/bulletin/01032007-Migdia/> <http://purl.org/dc/elements/1.1/title> "Radio Bulletin 12h - March 1st 2007".
+<http://omediadis.udl.cat/segre/radio/bulletin/01032007-Migdia/> <http://purl.org/dc/elements/1.1/date> "2007".
+<http://omediadis.udl.cat/segre/radio/bulletin/01032007-Migdia/> <http://purl.org/dc/elements/1.1/creator> <http://www.segre.com>.
+<http://omediadis.udl.cat/segre/radio/bulletin/01032007-Migdia/> <http://purl.org/dc/elements/1.1/language> "ca".
+<http://omediadis.udl.cat/segre/radio/bulletin/01032007-Migdia/> <http://rhizomik.net/ontologies/2009/09/copyrightonto.owl#hasRecording> <http://omediadis.udl.cat/segre/recording/bulletin/01032007-Migdia/>.
+<http://omediadis.udl.cat/segre/recording/bulletin/01032007-Migdia/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rhizomik.net/ontologies/2009/09/copyrightonto.owl#Recording>.
+<http://omediadis.udl.cat/segre/recording/bulletin/01032007-Migdia/> <http://www.w3.org/2000/01/rdf-schema#label> "Recording of Radio Bulletin 12h - March 1st 2007".
+<http://omediadis.udl.cat/segre/recording/bulletin/01032007-Migdia/> <http://purl.org/dc/elements/1.1/title> "Recording of Radio Bulletin 12h - March 1st 2007".
+<http://omediadis.udl.cat/segre/recording/bulletin/01032007-Migdia/> <http://purl.org/dc/elements/1.1/creator> <http://www.segre.com>.
+<http://omediadis.udl.cat/segre/recording/bulletin/01032007-Migdia/> <http://purl.org/dc/elements/1.1/language> "ca".
+<http://omediadis.udl.cat/segre/recording/bulletin/01032007-Migdia/> <http://www.w3.org/ns/ma-ont#hasAudioDescription> <http://omediadis.udl.cat/segre/text/bulletin/01032007-Migdia.xml>.
+<http://omediadis.udl.cat/segre/recording/bulletin/01032007-Migdia/> <http://rhizomik.net/ontologies/2009/09/copyrightonto.owl#hasInstance> <http://omediadis.udl.cat/segre/audio/bulletin/01032007-Migdia.mp3>.
+<http://omediadis.udl.cat/segre/text/bulletin/01032007-Migdia.xml> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/ma-ont#DataTrack>.
+<http://omediadis.udl.cat/segre/text/bulletin/01032007-Migdia.xml> <http://www.w3.org/2000/01/rdf-schema#label> "Transcript of Radio Bulletin 12h - March 1st 2007".
+<http://omediadis.udl.cat/segre/text/bulletin/01032007-Migdia.xml> <http://purl.org/dc/elements/1.1/title> "Transcript of Radio Bulletin 12h - March 1st 2007".
+<http://omediadis.udl.cat/segre/text/bulletin/01032007-Migdia.xml> <http://purl.org/dc/elements/1.1/creator> <http://www.segre.com>.
+<http://omediadis.udl.cat/segre/text/bulletin/01032007-Migdia.xml> <http://purl.org/dc/elements/1.1/language> "ca".
+<http://omediadis.udl.cat/segre/audio/bulletin/01032007-Migdia.mp3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/ma-ont#AudioTrack>.
+<http://omediadis.udl.cat/segre/audio/bulletin/01032007-Migdia.mp3> <http://www.w3.org/2000/01/rdf-schema#label> "MP3 Copy of Radio Bulletin 12h - March 1st 2007".
+<http://omediadis.udl.cat/segre/audio/bulletin/01032007-Migdia.mp3> <http://purl.org/dc/elements/1.1/title> "MP3 Copy of Radio Bulletin 12h - March 1st 2007".
+<http://omediadis.udl.cat/segre/audio/bulletin/01032007-Migdia.mp3> <http://purl.org/dc/elements/1.1/creator> <http://www.segre.com>.
+<http://omediadis.udl.cat/segre/audio/bulletin/01032007-Migdia.mp3> <http://purl.org/dc/elements/1.1/language> "ca".
+<http://omediadis.udl.cat/segre/audio/bulletin/01032007-Migdia.mp3> <http://purl.org/dc/elements/1.1/format> "audio/mpeg".
+<http://omediadis.udl.cat/segre/audio/bulletin/01032007-Migdia.mp3> <http://www.w3.org/ns/ma-ont#bitrate> "128".
+<http://omediadis.udl.cat/segre/audio/bulletin/01032007-Migdia.mp3> <http://www.w3.org/ns/ma-ont#duration> "PT00:06:26".
+<http://omediadis.udl.cat/segre/audio/bulletin/01032007-Migdia.mp3> <http://www.w3.org/ns/ma-ont#samplingrate> "48000".
+<http://omediadis.udl.cat/segre/radio/bulletin/06022007-Migdia/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rhizomik.net/ontologies/2009/09/copyrightonto.owl#Communication>.
+<http://omediadis.udl.cat/segre/radio/bulletin/06022007-Migdia/> <http://www.w3.org/2000/01/rdf-schema#label> "Radio Bulletin 12h - February 6th 2007".
+<http://omediadis.udl.cat/segre/radio/bulletin/06022007-Migdia/> <http://purl.org/dc/elements/1.1/title> "Radio Bulletin 12h - February 6th 2007".
+<http://omediadis.udl.cat/segre/radio/bulletin/06022007-Migdia/> <http://purl.org/dc/elements/1.1/date> "2007".
+<http://omediadis.udl.cat/segre/radio/bulletin/06022007-Migdia/> <http://purl.org/dc/elements/1.1/creator> <http://www.segre.com>.
+<http://omediadis.udl.cat/segre/radio/bulletin/06022007-Migdia/> <http://purl.org/dc/elements/1.1/language> "ca".
+<http://omediadis.udl.cat/segre/radio/bulletin/06022007-Migdia/> <http://rhizomik.net/ontologies/2009/09/copyrightonto.owl#hasRecording> <http://omediadis.udl.cat/segre/recording/bulletin/06022007-Migdia/>.
+<http://omediadis.udl.cat/segre/recording/bulletin/06022007-Migdia/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rhizomik.net/ontologies/2009/09/copyrightonto.owl#Recording>.
+<http://omediadis.udl.cat/segre/recording/bulletin/06022007-Migdia/> <http://www.w3.org/2000/01/rdf-schema#label> "Recording of Radio Bulletin 12h - February 6th 2007".
+<http://omediadis.udl.cat/segre/recording/bulletin/06022007-Migdia/> <http://purl.org/dc/elements/1.1/title> "Recording of Radio Bulletin 12h - February 6th 2007".
+<http://omediadis.udl.cat/segre/recording/bulletin/06022007-Migdia/> <http://purl.org/dc/elements/1.1/creator> <http://www.segre.com>.
+<http://omediadis.udl.cat/segre/recording/bulletin/06022007-Migdia/> <http://purl.org/dc/elements/1.1/language> "ca".
+<http://omediadis.udl.cat/segre/recording/bulletin/06022007-Migdia/> <http://www.w3.org/ns/ma-ont#hasAudioDescription> <http://omediadis.udl.cat/segre/text/bulletin/06022007-Migdia.xml>.
+<http://omediadis.udl.cat/segre/recording/bulletin/06022007-Migdia/> <http://rhizomik.net/ontologies/2009/09/copyrightonto.owl#hasInstance> <http://omediadis.udl.cat/segre/audio/bulletin/06022007-Migdia.mp3>.
+<http://omediadis.udl.cat/segre/text/bulletin/06022007-Migdia.xml> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/ma-ont#DataTrack>.
+<http://omediadis.udl.cat/segre/text/bulletin/06022007-Migdia.xml> <http://www.w3.org/2000/01/rdf-schema#label> "Transcript of Radio Bulletin 12h - February 6th 2007".
+<http://omediadis.udl.cat/segre/text/bulletin/06022007-Migdia.xml> <http://purl.org/dc/elements/1.1/title> "Transcript of Radio Bulletin 12h - February 6th 2007".
+<http://omediadis.udl.cat/segre/text/bulletin/06022007-Migdia.xml> <http://purl.org/dc/elements/1.1/creator> <http://www.segre.com>.
+<http://omediadis.udl.cat/segre/text/bulletin/06022007-Migdia.xml> <http://purl.org/dc/elements/1.1/language> "ca".
+<http://omediadis.udl.cat/segre/audio/bulletin/06022007-Migdia.mp3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/ma-ont#AudioTrack>.
+<http://omediadis.udl.cat/segre/audio/bulletin/06022007-Migdia.mp3> <http://www.w3.org/2000/01/rdf-schema#label> "MP3 Copy of Radio Bulletin 12h - February 6th 2007".
+<http://omediadis.udl.cat/segre/audio/bulletin/06022007-Migdia.mp3> <http://purl.org/dc/elements/1.1/title> "MP3 Copy of Radio Bulletin 12h - February 6th 2007".
+<http://omediadis.udl.cat/segre/audio/bulletin/06022007-Migdia.mp3> <http://purl.org/dc/elements/1.1/creator> <http://www.segre.com>.
+<http://omediadis.udl.cat/segre/audio/bulletin/06022007-Migdia.mp3> <http://purl.org/dc/elements/1.1/language> "ca".
+<http://omediadis.udl.cat/segre/audio/bulletin/06022007-Migdia.mp3> <http://purl.org/dc/elements/1.1/format> "audio/mpeg".
+<http://omediadis.udl.cat/segre/audio/bulletin/06022007-Migdia.mp3> <http://www.w3.org/ns/ma-ont#bitrate> "128".
+<http://omediadis.udl.cat/segre/audio/bulletin/06022007-Migdia.mp3> <http://www.w3.org/ns/ma-ont#duration> "PT00:06:44".
+<http://omediadis.udl.cat/segre/audio/bulletin/06022007-Migdia.mp3> <http://www.w3.org/ns/ma-ont#samplingrate> "48000".
+<http://omediadis.udl.cat/segre/radio/bulletin/08012007-10/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rhizomik.net/ontologies/2009/09/copyrightonto.owl#Communication>.
+<http://omediadis.udl.cat/segre/radio/bulletin/08012007-10/> <http://www.w3.org/2000/01/rdf-schema#label> "Radio Bulletin 10h - January 8th 2007".
+<http://omediadis.udl.cat/segre/radio/bulletin/08012007-10/> <http://purl.org/dc/elements/1.1/title> "Radio Bulletin 10h - January 8th 2007".
+<http://omediadis.udl.cat/segre/radio/bulletin/08012007-10/> <http://purl.org/dc/elements/1.1/date> "2007".
+<http://omediadis.udl.cat/segre/radio/bulletin/08012007-10/> <http://purl.org/dc/elements/1.1/creator> <http://www.segre.com>.
+<http://omediadis.udl.cat/segre/radio/bulletin/08012007-10/> <http://purl.org/dc/elements/1.1/language> "ca".
+<http://omediadis.udl.cat/segre/radio/bulletin/08012007-10/> <http://rhizomik.net/ontologies/2009/09/copyrightonto.owl#hasRecording> <http://omediadis.udl.cat/segre/recording/bulletin/08012007-10/>.
+<http://omediadis.udl.cat/segre/recording/bulletin/08012007-10/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rhizomik.net/ontologies/2009/09/copyrightonto.owl#Recording>.
+<http://omediadis.udl.cat/segre/recording/bulletin/08012007-10/> <http://www.w3.org/2000/01/rdf-schema#label> "Recording of Radio Bulletin 10h - January 8th 2007".
+<http://omediadis.udl.cat/segre/recording/bulletin/08012007-10/> <http://purl.org/dc/elements/1.1/title> "Recording of Radio Bulletin 10h - January 8th 2007".
+<http://omediadis.udl.cat/segre/recording/bulletin/08012007-10/> <http://purl.org/dc/elements/1.1/creator> <http://www.segre.com>.
+<http://omediadis.udl.cat/segre/recording/bulletin/08012007-10/> <http://purl.org/dc/elements/1.1/language> "ca".
+<http://omediadis.udl.cat/segre/recording/bulletin/08012007-10/> <http://www.w3.org/ns/ma-ont#hasAudioDescription> <http://omediadis.udl.cat/segre/text/bulletin/08012007-10.xml>.
+<http://omediadis.udl.cat/segre/recording/bulletin/08012007-10/> <http://rhizomik.net/ontologies/2009/09/copyrightonto.owl#hasInstance> <http://omediadis.udl.cat/segre/audio/bulletin/08012007-10.mp3>.
+<http://omediadis.udl.cat/segre/text/bulletin/08012007-10.xml> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/ma-ont#DataTrack>.
+<http://omediadis.udl.cat/segre/text/bulletin/08012007-10.xml> <http://www.w3.org/2000/01/rdf-schema#label> "Transcript of Radio Bulletin 10h - January 8th 2007".
+<http://omediadis.udl.cat/segre/text/bulletin/08012007-10.xml> <http://purl.org/dc/elements/1.1/title> "Transcript of Radio Bulletin 10h - January 8th 2007".
+<http://omediadis.udl.cat/segre/text/bulletin/08012007-10.xml> <http://purl.org/dc/elements/1.1/creator> <http://www.segre.com>.
+<http://omediadis.udl.cat/segre/text/bulletin/08012007-10.xml> <http://purl.org/dc/elements/1.1/language> "ca".
+<http://omediadis.udl.cat/segre/audio/bulletin/08012007-10.mp3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/ma-ont#AudioTrack>.
+<http://omediadis.udl.cat/segre/audio/bulletin/08012007-10.mp3> <http://www.w3.org/2000/01/rdf-schema#label> "MP3 Copy of Radio Bulletin 10h - January 8th 2007".
+<http://omediadis.udl.cat/segre/audio/bulletin/08012007-10.mp3> <http://purl.org/dc/elements/1.1/title> "MP3 Copy of Radio Bulletin 10h - January 8th 2007".
+<http://omediadis.udl.cat/segre/audio/bulletin/08012007-10.mp3> <http://purl.org/dc/elements/1.1/creator> <http://www.segre.com>.
+<http://omediadis.udl.cat/segre/audio/bulletin/08012007-10.mp3> <http://purl.org/dc/elements/1.1/language> "ca".
+<http://omediadis.udl.cat/segre/audio/bulletin/08012007-10.mp3> <http://purl.org/dc/elements/1.1/format> "audio/mpeg".
+<http://omediadis.udl.cat/segre/audio/bulletin/08012007-10.mp3> <http://www.w3.org/ns/ma-ont#bitrate> "128".
+<http://omediadis.udl.cat/segre/audio/bulletin/08012007-10.mp3> <http://www.w3.org/ns/ma-ont#duration> "PT00:01:28".
+<http://omediadis.udl.cat/segre/audio/bulletin/08012007-10.mp3> <http://www.w3.org/ns/ma-ont#samplingrate> "48000".
+<http://omediadis.udl.cat/segre/radio/bulletin/08012007-9/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rhizomik.net/ontologies/2009/09/copyrightonto.owl#Communication>.
+<http://omediadis.udl.cat/segre/radio/bulletin/08012007-9/> <http://www.w3.org/2000/01/rdf-schema#label> "Radio Bulletin 9h - January 8th 2007".
+<http://omediadis.udl.cat/segre/radio/bulletin/08012007-9/> <http://purl.org/dc/elements/1.1/title> "Radio Bulletin 9h - January 8th 2007".
+<http://omediadis.udl.cat/segre/radio/bulletin/08012007-9/> <http://purl.org/dc/elements/1.1/date> "2007".
+<http://omediadis.udl.cat/segre/radio/bulletin/08012007-9/> <http://purl.org/dc/elements/1.1/creator> <http://www.segre.com>.
+<http://omediadis.udl.cat/segre/radio/bulletin/08012007-9/> <http://purl.org/dc/elements/1.1/language> "ca".
+<http://omediadis.udl.cat/segre/radio/bulletin/08012007-9/> <http://rhizomik.net/ontologies/2009/09/copyrightonto.owl#hasRecording> <http://omediadis.udl.cat/segre/recording/bulletin/08012007-9/>.
+<http://omediadis.udl.cat/segre/recording/bulletin/08012007-9/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rhizomik.net/ontologies/2009/09/copyrightonto.owl#Recording>.
+<http://omediadis.udl.cat/segre/recording/bulletin/08012007-9/> <http://www.w3.org/2000/01/rdf-schema#label> "Recording of Radio Bulletin 9h - January 8th 2007".
+<http://omediadis.udl.cat/segre/recording/bulletin/08012007-9/> <http://purl.org/dc/elements/1.1/title> "Recording of Radio Bulletin 9h - January 8th 2007".
+<http://omediadis.udl.cat/segre/recording/bulletin/08012007-9/> <http://purl.org/dc/elements/1.1/creator> <http://www.segre.com>.
+<http://omediadis.udl.cat/segre/recording/bulletin/08012007-9/> <http://purl.org/dc/elements/1.1/language> "ca".
+<http://omediadis.udl.cat/segre/recording/bulletin/08012007-9/> <http://www.w3.org/ns/ma-ont#hasAudioDescription> <http://omediadis.udl.cat/segre/text/bulletin/08012007-9.xml>.
+<http://omediadis.udl.cat/segre/recording/bulletin/08012007-9/> <http://rhizomik.net/ontologies/2009/09/copyrightonto.owl#hasInstance> <http://omediadis.udl.cat/segre/audio/bulletin/08012007-9.mp3>.
+<http://omediadis.udl.cat/segre/text/bulletin/08012007-9.xml> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/ma-ont#DataTrack>.
+<http://omediadis.udl.cat/segre/text/bulletin/08012007-9.xml> <http://www.w3.org/2000/01/rdf-schema#label> "Transcript of Radio Bulletin 9h - January 8th 2007".
+<http://omediadis.udl.cat/segre/text/bulletin/08012007-9.xml> <http://purl.org/dc/elements/1.1/title> "Transcript of Radio Bulletin 9h - January 8th 2007".
+<http://omediadis.udl.cat/segre/text/bulletin/08012007-9.xml> <http://purl.org/dc/elements/1.1/creator> <http://www.segre.com>.
+<http://omediadis.udl.cat/segre/text/bulletin/08012007-9.xml> <http://purl.org/dc/elements/1.1/language> "ca".
+<http://omediadis.udl.cat/segre/audio/bulletin/08012007-9.mp3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/ma-ont#AudioTrack>.
+<http://omediadis.udl.cat/segre/audio/bulletin/08012007-9.mp3> <http://www.w3.org/2000/01/rdf-schema#label> "MP3 Copy of Radio Bulletin 9h - January 8th 2007".
+<http://omediadis.udl.cat/segre/audio/bulletin/08012007-9.mp3> <http://purl.org/dc/elements/1.1/title> "MP3 Copy of Radio Bulletin 9h - January 8th 2007".
+<http://omediadis.udl.cat/segre/audio/bulletin/08012007-9.mp3> <http://purl.org/dc/elements/1.1/creator> <http://www.segre.com>.
+<http://omediadis.udl.cat/segre/audio/bulletin/08012007-9.mp3> <http://purl.org/dc/elements/1.1/language> "ca".
+<http://omediadis.udl.cat/segre/audio/bulletin/08012007-9.mp3> <http://purl.org/dc/elements/1.1/format> "audio/mpeg".
+<http://omediadis.udl.cat/segre/audio/bulletin/08012007-9.mp3> <http://www.w3.org/ns/ma-ont#bitrate> "128".
+<http://omediadis.udl.cat/segre/audio/bulletin/08012007-9.mp3> <http://www.w3.org/ns/ma-ont#duration> "PT00:01:25".
+<http://omediadis.udl.cat/segre/audio/bulletin/08012007-9.mp3> <http://www.w3.org/ns/ma-ont#samplingrate> "48000".
+<http://omediadis.udl.cat/segre/radio/bulletin/09012007-15/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rhizomik.net/ontologies/2009/09/copyrightonto.owl#Communication>.
+<http://omediadis.udl.cat/segre/radio/bulletin/09012007-15/> <http://www.w3.org/2000/01/rdf-schema#label> "Radio Bulletin 15h - January 9th 2007".
+<http://omediadis.udl.cat/segre/radio/bulletin/09012007-15/> <http://purl.org/dc/elements/1.1/title> "Radio Bulletin 15h - January 9th 2007".
+<http://omediadis.udl.cat/segre/radio/bulletin/09012007-15/> <http://purl.org/dc/elements/1.1/date> "2007".
+<http://omediadis.udl.cat/segre/radio/bulletin/09012007-15/> <http://purl.org/dc/elements/1.1/creator> <http://www.segre.com>.
+<http://omediadis.udl.cat/segre/radio/bulletin/09012007-15/> <http://purl.org/dc/elements/1.1/language> "ca".
+<http://omediadis.udl.cat/segre/radio/bulletin/09012007-15/> <http://rhizomik.net/ontologies/2009/09/copyrightonto.owl#hasRecording> <http://omediadis.udl.cat/segre/recording/bulletin/09012007-15/>.
+<http://omediadis.udl.cat/segre/recording/bulletin/09012007-15/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rhizomik.net/ontologies/2009/09/copyrightonto.owl#Recording>.
+<http://omediadis.udl.cat/segre/recording/bulletin/09012007-15/> <http://www.w3.org/2000/01/rdf-schema#label> "Recording of Radio Bulletin 15h - January 9th 2007".
+<http://omediadis.udl.cat/segre/recording/bulletin/09012007-15/> <http://purl.org/dc/elements/1.1/title> "Recording of Radio Bulletin 15h - January 9th 2007".
+<http://omediadis.udl.cat/segre/recording/bulletin/09012007-15/> <http://purl.org/dc/elements/1.1/creator> <http://www.segre.com>.
+<http://omediadis.udl.cat/segre/recording/bulletin/09012007-15/> <http://purl.org/dc/elements/1.1/language> "ca".
+<http://omediadis.udl.cat/segre/recording/bulletin/09012007-15/> <http://www.w3.org/ns/ma-ont#hasAudioDescription> <http://omediadis.udl.cat/segre/text/bulletin/09012007-15.xml>.
+<http://omediadis.udl.cat/segre/recording/bulletin/09012007-15/> <http://rhizomik.net/ontologies/2009/09/copyrightonto.owl#hasInstance> <http://omediadis.udl.cat/segre/audio/bulletin/09012007-15.mp3>.
+<http://omediadis.udl.cat/segre/text/bulletin/09012007-15.xml> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/ma-ont#DataTrack>.
+<http://omediadis.udl.cat/segre/text/bulletin/09012007-15.xml> <http://www.w3.org/2000/01/rdf-schema#label> "Transcript of Radio Bulletin 15h - January 9th 2007".
+<http://omediadis.udl.cat/segre/text/bulletin/09012007-15.xml> <http://purl.org/dc/elements/1.1/title> "Transcript of Radio Bulletin 15h - January 9th 2007".
+<http://omediadis.udl.cat/segre/text/bulletin/09012007-15.xml> <http://purl.org/dc/elements/1.1/creator> <http://www.segre.com>.
+<http://omediadis.udl.cat/segre/text/bulletin/09012007-15.xml> <http://purl.org/dc/elements/1.1/language> "ca".
+<http://omediadis.udl.cat/segre/audio/bulletin/09012007-15.mp3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/ma-ont#AudioTrack>.
+<http://omediadis.udl.cat/segre/audio/bulletin/09012007-15.mp3> <http://www.w3.org/2000/01/rdf-schema#label> "MP3 Copy of Radio Bulletin 15h - January 9th 2007".
+<http://omediadis.udl.cat/segre/audio/bulletin/09012007-15.mp3> <http://purl.org/dc/elements/1.1/title> "MP3 Copy of Radio Bulletin 15h - January 9th 2007".
+<http://omediadis.udl.cat/segre/audio/bulletin/09012007-15.mp3> <http://purl.org/dc/elements/1.1/creator> <http://www.segre.com>.
+<http://omediadis.udl.cat/segre/audio/bulletin/09012007-15.mp3> <http://purl.org/dc/elements/1.1/language> "ca".
+<http://omediadis.udl.cat/segre/audio/bulletin/09012007-15.mp3> <http://purl.org/dc/elements/1.1/format> "audio/mpeg".
+<http://omediadis.udl.cat/segre/audio/bulletin/09012007-15.mp3> <http://www.w3.org/ns/ma-ont#bitrate> "128".
+<http://omediadis.udl.cat/segre/audio/bulletin/09012007-15.mp3> <http://www.w3.org/ns/ma-ont#duration> "PT00:01:09".
+<http://omediadis.udl.cat/segre/audio/bulletin/09012007-15.mp3> <http://www.w3.org/ns/ma-ont#samplingrate> "48000".
+<http://omediadis.udl.cat/segre/radio/bulletin/09012007-16/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rhizomik.net/ontologies/2009/09/copyrightonto.owl#Communication>.
+<http://omediadis.udl.cat/segre/radio/bulletin/09012007-16/> <http://www.w3.org/2000/01/rdf-schema#label> "Radio Bulletin 16h - January 9th 2007".
+<http://omediadis.udl.cat/segre/radio/bulletin/09012007-16/> <http://purl.org/dc/elements/1.1/title> "Radio Bulletin 16h - January 9th 2007".
+<http://omediadis.udl.cat/segre/radio/bulletin/09012007-16/> <http://purl.org/dc/elements/1.1/date> "2007".
+<http://omediadis.udl.cat/segre/radio/bulletin/09012007-16/> <http://purl.org/dc/elements/1.1/creator> <http://www.segre.com>.
+<http://omediadis.udl.cat/segre/radio/bulletin/09012007-16/> <http://purl.org/dc/elements/1.1/language> "ca".
+<http://omediadis.udl.cat/segre/radio/bulletin/09012007-16/> <http://rhizomik.net/ontologies/2009/09/copyrightonto.owl#hasRecording> <http://omediadis.udl.cat/segre/recording/bulletin/09012007-16/>.
+<http://omediadis.udl.cat/segre/recording/bulletin/09012007-16/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rhizomik.net/ontologies/2009/09/copyrightonto.owl#Recording>.
+<http://omediadis.udl.cat/segre/recording/bulletin/09012007-16/> <http://www.w3.org/2000/01/rdf-schema#label> "Recording of Radio Bulletin 16h - January 9th 2007".
+<http://omediadis.udl.cat/segre/recording/bulletin/09012007-16/> <http://purl.org/dc/elements/1.1/title> "Recording of Radio Bulletin 16h - January 9th 2007".
+<http://omediadis.udl.cat/segre/recording/bulletin/09012007-16/> <http://purl.org/dc/elements/1.1/creator> <http://www.segre.com>.
+<http://omediadis.udl.cat/segre/recording/bulletin/09012007-16/> <http://purl.org/dc/elements/1.1/language> "ca".
+<http://omediadis.udl.cat/segre/recording/bulletin/09012007-16/> <http://www.w3.org/ns/ma-ont#hasAudioDescription> <http://omediadis.udl.cat/segre/text/bulletin/09012007-16.xml>.
+<http://omediadis.udl.cat/segre/recording/bulletin/09012007-16/> <http://rhizomik.net/ontologies/2009/09/copyrightonto.owl#hasInstance> <http://omediadis.udl.cat/segre/audio/bulletin/09012007-16.mp3>.
+<http://omediadis.udl.cat/segre/text/bulletin/09012007-16.xml> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/ma-ont#DataTrack>.
+<http://omediadis.udl.cat/segre/text/bulletin/09012007-16.xml> <http://www.w3.org/2000/01/rdf-schema#label> "Transcript of Radio Bulletin 16h - January 9th 2007".
+<http://omediadis.udl.cat/segre/text/bulletin/09012007-16.xml> <http://purl.org/dc/elements/1.1/title> "Transcript of Radio Bulletin 16h - January 9th 2007".
+<http://omediadis.udl.cat/segre/text/bulletin/09012007-16.xml> <http://purl.org/dc/elements/1.1/creator> <http://www.segre.com>.
+<http://omediadis.udl.cat/segre/text/bulletin/09012007-16.xml> <http://purl.org/dc/elements/1.1/language> "ca".
+<http://omediadis.udl.cat/segre/audio/bulletin/09012007-16.mp3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/ma-ont#AudioTrack>.
+<http://omediadis.udl.cat/segre/audio/bulletin/09012007-16.mp3> <http://www.w3.org/2000/01/rdf-schema#label> "MP3 Copy of Radio Bulletin 16h - January 9th 2007".
+<http://omediadis.udl.cat/segre/audio/bulletin/09012007-16.mp3> <http://purl.org/dc/elements/1.1/title> "MP3 Copy of Radio Bulletin 16h - January 9th 2007".
+<http://omediadis.udl.cat/segre/audio/bulletin/09012007-16.mp3> <http://purl.org/dc/elements/1.1/creator> <http://www.segre.com>.
+<http://omediadis.udl.cat/segre/audio/bulletin/09012007-16.mp3> <http://purl.org/dc/elements/1.1/language> "ca".
+<http://omediadis.udl.cat/segre/audio/bulletin/09012007-16.mp3> <http://purl.org/dc/elements/1.1/format> "audio/mpeg".
+<http://omediadis.udl.cat/segre/audio/bulletin/09012007-16.mp3> <http://www.w3.org/ns/ma-ont#bitrate> "128".
+<http://omediadis.udl.cat/segre/audio/bulletin/09012007-16.mp3> <http://www.w3.org/ns/ma-ont#duration> "PT00:01:15".
+<http://omediadis.udl.cat/segre/audio/bulletin/09012007-16.mp3> <http://www.w3.org/ns/ma-ont#samplingrate> "48000".
+<http://omediadis.udl.cat/segre/radio/bulletin/09012007-17/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rhizomik.net/ontologies/2009/09/copyrightonto.owl#Communication>.
+<http://omediadis.udl.cat/segre/radio/bulletin/09012007-17/> <http://www.w3.org/2000/01/rdf-schema#label> "Radio Bulletin 17h - January 9th 2007".
+<http://omediadis.udl.cat/segre/radio/bulletin/09012007-17/> <http://purl.org/dc/elements/1.1/title> "Radio Bulletin 17h - January 9th 2007".
+<http://omediadis.udl.cat/segre/radio/bulletin/09012007-17/> <http://purl.org/dc/elements/1.1/date> "2007".
+<http://omediadis.udl.cat/segre/radio/bulletin/09012007-17/> <http://purl.org/dc/elements/1.1/creator> <http://www.segre.com>.
+<http://omediadis.udl.cat/segre/radio/bulletin/09012007-17/> <http://purl.org/dc/elements/1.1/language> "ca".
+<http://omediadis.udl.cat/segre/radio/bulletin/09012007-17/> <http://rhizomik.net/ontologies/2009/09/copyrightonto.owl#hasRecording> <http://omediadis.udl.cat/segre/recording/bulletin/09012007-17/>.
+<http://omediadis.udl.cat/segre/recording/bulletin/09012007-17/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rhizomik.net/ontologies/2009/09/copyrightonto.owl#Recording>.
+<http://omediadis.udl.cat/segre/recording/bulletin/09012007-17/> <http://www.w3.org/2000/01/rdf-schema#label> "Recording of Radio Bulletin 17h - January 9th 2007".
+<http://omediadis.udl.cat/segre/recording/bulletin/09012007-17/> <http://purl.org/dc/elements/1.1/title> "Recording of Radio Bulletin 17h - January 9th 2007".
+<http://omediadis.udl.cat/segre/recording/bulletin/09012007-17/> <http://purl.org/dc/elements/1.1/creator> <http://www.segre.com>.
+<http://omediadis.udl.cat/segre/recording/bulletin/09012007-17/> <http://purl.org/dc/elements/1.1/language> "ca".
+<http://omediadis.udl.cat/segre/recording/bulletin/09012007-17/> <http://www.w3.org/ns/ma-ont#hasAudioDescription> <http://omediadis.udl.cat/segre/text/bulletin/09012007-17.xml>.
+<http://omediadis.udl.cat/segre/recording/bulletin/09012007-17/> <http://rhizomik.net/ontologies/2009/09/copyrightonto.owl#hasInstance> <http://omediadis.udl.cat/segre/audio/bulletin/09012007-17.mp3>.
+<http://omediadis.udl.cat/segre/text/bulletin/09012007-17.xml> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/ma-ont#DataTrack>.
+<http://omediadis.udl.cat/segre/text/bulletin/09012007-17.xml> <http://www.w3.org/2000/01/rdf-schema#label> "Transcript of Radio Bulletin 17h - January 9th 2007".
+<http://omediadis.udl.cat/segre/text/bulletin/09012007-17.xml> <http://purl.org/dc/elements/1.1/title> "Transcript of Radio Bulletin 17h - January 9th 2007".
+<http://omediadis.udl.cat/segre/text/bulletin/09012007-17.xml> <http://purl.org/dc/elements/1.1/creator> <http://www.segre.com>.
+<http://omediadis.udl.cat/segre/text/bulletin/09012007-17.xml> <http://purl.org/dc/elements/1.1/language> "ca".
+<http://omediadis.udl.cat/segre/audio/bulletin/09012007-17.mp3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/ma-ont#AudioTrack>.
+<http://omediadis.udl.cat/segre/audio/bulletin/09012007-17.mp3> <http://www.w3.org/2000/01/rdf-schema#label> "MP3 Copy of Radio Bulletin 17h - January 9th 2007".
+<http://omediadis.udl.cat/segre/audio/bulletin/09012007-17.mp3> <http://purl.org/dc/elements/1.1/title> "MP3 Copy of Radio Bulletin 17h - January 9th 2007".
+<http://omediadis.udl.cat/segre/audio/bulletin/09012007-17.mp3> <http://purl.org/dc/elements/1.1/creator> <http://www.segre.com>.
+<http://omediadis.udl.cat/segre/audio/bulletin/09012007-17.mp3> <http://purl.org/dc/elements/1.1/language> "ca".
+<http://omediadis.udl.cat/segre/audio/bulletin/09012007-17.mp3> <http://purl.org/dc/elements/1.1/format> "audio/mpeg".
+<http://omediadis.udl.cat/segre/audio/bulletin/09012007-17.mp3> <http://www.w3.org/ns/ma-ont#bitrate> "128".
+<http://omediadis.udl.cat/segre/audio/bulletin/09012007-17.mp3> <http://www.w3.org/ns/ma-ont#duration> "PT00:01:20".
+<http://omediadis.udl.cat/segre/audio/bulletin/09012007-17.mp3> <http://www.w3.org/ns/ma-ont#samplingrate> "48000".
+<http://omediadis.udl.cat/segre/radio/bulletin/11012007-Migdia/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rhizomik.net/ontologies/2009/09/copyrightonto.owl#Communication>.
+<http://omediadis.udl.cat/segre/radio/bulletin/11012007-Migdia/> <http://www.w3.org/2000/01/rdf-schema#label> "Radio Bulletin 12h - January 11th 2007".
+<http://omediadis.udl.cat/segre/radio/bulletin/11012007-Migdia/> <http://purl.org/dc/elements/1.1/title> "Radio Bulletin 12h - January 11th 2007".
+<http://omediadis.udl.cat/segre/radio/bulletin/11012007-Migdia/> <http://purl.org/dc/elements/1.1/date> "2007".
+<http://omediadis.udl.cat/segre/radio/bulletin/11012007-Migdia/> <http://purl.org/dc/elements/1.1/creator> <http://www.segre.com>.
+<http://omediadis.udl.cat/segre/radio/bulletin/11012007-Migdia/> <http://purl.org/dc/elements/1.1/language> "ca".
+<http://omediadis.udl.cat/segre/radio/bulletin/11012007-Migdia/> <http://rhizomik.net/ontologies/2009/09/copyrightonto.owl#hasRecording> <http://omediadis.udl.cat/segre/recording/bulletin/11012007-Migdia/>.
+<http://omediadis.udl.cat/segre/recording/bulletin/11012007-Migdia/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rhizomik.net/ontologies/2009/09/copyrightonto.owl#Recording>.
+<http://omediadis.udl.cat/segre/recording/bulletin/11012007-Migdia/> <http://www.w3.org/2000/01/rdf-schema#label> "Recording of Radio Bulletin 12h - January 11th 2007".
+<http://omediadis.udl.cat/segre/recording/bulletin/11012007-Migdia/> <http://purl.org/dc/elements/1.1/title> "Recording of Radio Bulletin 12h - January 11th 2007".
+<http://omediadis.udl.cat/segre/recording/bulletin/11012007-Migdia/> <http://purl.org/dc/elements/1.1/creator> <http://www.segre.com>.
+<http://omediadis.udl.cat/segre/recording/bulletin/11012007-Migdia/> <http://purl.org/dc/elements/1.1/language> "ca".
+<http://omediadis.udl.cat/segre/recording/bulletin/11012007-Migdia/> <http://www.w3.org/ns/ma-ont#hasAudioDescription> <http://omediadis.udl.cat/segre/text/bulletin/11012007-Migdia.xml>.
+<http://omediadis.udl.cat/segre/recording/bulletin/11012007-Migdia/> <http://rhizomik.net/ontologies/2009/09/copyrightonto.owl#hasInstance> <http://omediadis.udl.cat/segre/audio/bulletin/11012007-Migdia.mp3>.
+<http://omediadis.udl.cat/segre/text/bulletin/11012007-Migdia.xml> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/ma-ont#DataTrack>.
+<http://omediadis.udl.cat/segre/text/bulletin/11012007-Migdia.xml> <http://www.w3.org/2000/01/rdf-schema#label> "Transcript of Radio Bulletin 12h - January 11th 2007".
+<http://omediadis.udl.cat/segre/text/bulletin/11012007-Migdia.xml> <http://purl.org/dc/elements/1.1/title> "Transcript of Radio Bulletin 12h - January 11th 2007".
+<http://omediadis.udl.cat/segre/text/bulletin/11012007-Migdia.xml> <http://purl.org/dc/elements/1.1/creator> <http://www.segre.com>.
+<http://omediadis.udl.cat/segre/text/bulletin/11012007-Migdia.xml> <http://purl.org/dc/elements/1.1/language> "ca".
+<http://omediadis.udl.cat/segre/audio/bulletin/11012007-Migdia.mp3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/ma-ont#AudioTrack>.
+<http://omediadis.udl.cat/segre/audio/bulletin/11012007-Migdia.mp3> <http://www.w3.org/2000/01/rdf-schema#label> "MP3 Copy of Radio Bulletin 12h - January 11th 2007".
+<http://omediadis.udl.cat/segre/audio/bulletin/11012007-Migdia.mp3> <http://purl.org/dc/elements/1.1/title> "MP3 Copy of Radio Bulletin 12h - January 11th 2007".
+<http://omediadis.udl.cat/segre/audio/bulletin/11012007-Migdia.mp3> <http://purl.org/dc/elements/1.1/creator> <http://www.segre.com>.
+<http://omediadis.udl.cat/segre/audio/bulletin/11012007-Migdia.mp3> <http://purl.org/dc/elements/1.1/language> "ca".
+<http://omediadis.udl.cat/segre/audio/bulletin/11012007-Migdia.mp3> <http://purl.org/dc/elements/1.1/format> "audio/mpeg".
+<http://omediadis.udl.cat/segre/audio/bulletin/11012007-Migdia.mp3> <http://www.w3.org/ns/ma-ont#bitrate> "128".
+<http://omediadis.udl.cat/segre/audio/bulletin/11012007-Migdia.mp3> <http://www.w3.org/ns/ma-ont#duration> "PT00:10:25".
+<http://omediadis.udl.cat/segre/audio/bulletin/11012007-Migdia.mp3> <http://www.w3.org/ns/ma-ont#samplingrate> "48000".
+<http://omediadis.udl.cat/segre/radio/bulletin/13022007-Migdia/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rhizomik.net/ontologies/2009/09/copyrightonto.owl#Communication>.
+<http://omediadis.udl.cat/segre/radio/bulletin/13022007-Migdia/> <http://www.w3.org/2000/01/rdf-schema#label> "Radio Bulletin 12h - February 13th 2007".
+<http://omediadis.udl.cat/segre/radio/bulletin/13022007-Migdia/> <http://purl.org/dc/elements/1.1/title> "Radio Bulletin 12h - February 13th 2007".
+<http://omediadis.udl.cat/segre/radio/bulletin/13022007-Migdia/> <http://purl.org/dc/elements/1.1/date> "2007".
+<http://omediadis.udl.cat/segre/radio/bulletin/13022007-Migdia/> <http://purl.org/dc/elements/1.1/creator> <http://www.segre.com>.
+<http://omediadis.udl.cat/segre/radio/bulletin/13022007-Migdia/> <http://purl.org/dc/elements/1.1/language> "ca".
+<http://omediadis.udl.cat/segre/radio/bulletin/13022007-Migdia/> <http://rhizomik.net/ontologies/2009/09/copyrightonto.owl#hasRecording> <http://omediadis.udl.cat/segre/recording/bulletin/13022007-Migdia/>.
+<http://omediadis.udl.cat/segre/recording/bulletin/13022007-Migdia/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rhizomik.net/ontologies/2009/09/copyrightonto.owl#Recording>.
+<http://omediadis.udl.cat/segre/recording/bulletin/13022007-Migdia/> <http://www.w3.org/2000/01/rdf-schema#label> "Recording of Radio Bulletin 12h - February 13th 2007".
+<http://omediadis.udl.cat/segre/recording/bulletin/13022007-Migdia/> <http://purl.org/dc/elements/1.1/title> "Recording of Radio Bulletin 12h - February 13th 2007".
+<http://omediadis.udl.cat/segre/recording/bulletin/13022007-Migdia/> <http://purl.org/dc/elements/1.1/creator> <http://www.segre.com>.
+<http://omediadis.udl.cat/segre/recording/bulletin/13022007-Migdia/> <http://purl.org/dc/elements/1.1/language> "ca".
+<http://omediadis.udl.cat/segre/recording/bulletin/13022007-Migdia/> <http://www.w3.org/ns/ma-ont#hasAudioDescription> <http://omediadis.udl.cat/segre/text/bulletin/13022007-Migdia.xml>.
+<http://omediadis.udl.cat/segre/recording/bulletin/13022007-Migdia/> <http://rhizomik.net/ontologies/2009/09/copyrightonto.owl#hasInstance> <http://omediadis.udl.cat/segre/audio/bulletin/13022007-Migdia.mp3>.
+<http://omediadis.udl.cat/segre/text/bulletin/13022007-Migdia.xml> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/ma-ont#DataTrack>.
+<http://omediadis.udl.cat/segre/text/bulletin/13022007-Migdia.xml> <http://www.w3.org/2000/01/rdf-schema#label> "Transcript of Radio Bulletin 12h - February 13th 2007".
+<http://omediadis.udl.cat/segre/text/bulletin/13022007-Migdia.xml> <http://purl.org/dc/elements/1.1/title> "Transcript of Radio Bulletin 12h - February 13th 2007".
+<http://omediadis.udl.cat/segre/text/bulletin/13022007-Migdia.xml> <http://purl.org/dc/elements/1.1/creator> <http://www.segre.com>.
+<http://omediadis.udl.cat/segre/text/bulletin/13022007-Migdia.xml> <http://purl.org/dc/elements/1.1/language> "ca".
+<http://omediadis.udl.cat/segre/audio/bulletin/13022007-Migdia.mp3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/ma-ont#AudioTrack>.
+<http://omediadis.udl.cat/segre/audio/bulletin/13022007-Migdia.mp3> <http://www.w3.org/2000/01/rdf-schema#label> "MP3 Copy of Radio Bulletin 12h - February 13th 2007".
+<http://omediadis.udl.cat/segre/audio/bulletin/13022007-Migdia.mp3> <http://purl.org/dc/elements/1.1/title> "MP3 Copy of Radio Bulletin 12h - February 13th 2007".
+<http://omediadis.udl.cat/segre/audio/bulletin/13022007-Migdia.mp3> <http://purl.org/dc/elements/1.1/creator> <http://www.segre.com>.
+<http://omediadis.udl.cat/segre/audio/bulletin/13022007-Migdia.mp3> <http://purl.org/dc/elements/1.1/language> "ca".
+<http://omediadis.udl.cat/segre/audio/bulletin/13022007-Migdia.mp3> <http://purl.org/dc/elements/1.1/format> "audio/mpeg".
+<http://omediadis.udl.cat/segre/audio/bulletin/13022007-Migdia.mp3> <http://www.w3.org/ns/ma-ont#bitrate> "128".
+<http://omediadis.udl.cat/segre/audio/bulletin/13022007-Migdia.mp3> <http://www.w3.org/ns/ma-ont#duration> "PT00:07:25".
+<http://omediadis.udl.cat/segre/audio/bulletin/13022007-Migdia.mp3> <http://www.w3.org/ns/ma-ont#samplingrate> "48000".
+<http://omediadis.udl.cat/segre/radio/bulletin/16042007-Migdia/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rhizomik.net/ontologies/2009/09/copyrightonto.owl#Communication>.
+<http://omediadis.udl.cat/segre/radio/bulletin/16042007-Migdia/> <http://www.w3.org/2000/01/rdf-schema#label> "Radio Bulletin 12h - April 16th 2007".
+<http://omediadis.udl.cat/segre/radio/bulletin/16042007-Migdia/> <http://purl.org/dc/elements/1.1/title> "Radio Bulletin 12h - April 16th 2007".
+<http://omediadis.udl.cat/segre/radio/bulletin/16042007-Migdia/> <http://purl.org/dc/elements/1.1/date> "2007".
+<http://omediadis.udl.cat/segre/radio/bulletin/16042007-Migdia/> <http://purl.org/dc/elements/1.1/creator> <http://www.segre.com>.
+<http://omediadis.udl.cat/segre/radio/bulletin/16042007-Migdia/> <http://purl.org/dc/elements/1.1/language> "ca".
+<http://omediadis.udl.cat/segre/radio/bulletin/16042007-Migdia/> <http://rhizomik.net/ontologies/2009/09/copyrightonto.owl#hasRecording> <http://omediadis.udl.cat/segre/recording/bulletin/16042007-Migdia/>.
+<http://omediadis.udl.cat/segre/recording/bulletin/16042007-Migdia/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rhizomik.net/ontologies/2009/09/copyrightonto.owl#Recording>.
+<http://omediadis.udl.cat/segre/recording/bulletin/16042007-Migdia/> <http://www.w3.org/2000/01/rdf-schema#label> "Recording of Radio Bulletin 12h - April 16th 2007".
+<http://omediadis.udl.cat/segre/recording/bulletin/16042007-Migdia/> <http://purl.org/dc/elements/1.1/title> "Recording of Radio Bulletin 12h - April 16th 2007".
+<http://omediadis.udl.cat/segre/recording/bulletin/16042007-Migdia/> <http://purl.org/dc/elements/1.1/creator> <http://www.segre.com>.
+<http://omediadis.udl.cat/segre/recording/bulletin/16042007-Migdia/> <http://purl.org/dc/elements/1.1/language> "ca".
+<http://omediadis.udl.cat/segre/recording/bulletin/16042007-Migdia/> <http://www.w3.org/ns/ma-ont#hasAudioDescription> <http://omediadis.udl.cat/segre/text/bulletin/16042007-Migdia.xml>.
+<http://omediadis.udl.cat/segre/recording/bulletin/16042007-Migdia/> <http://rhizomik.net/ontologies/2009/09/copyrightonto.owl#hasInstance> <http://omediadis.udl.cat/segre/audio/bulletin/16042007-Migdia.mp3>.
+<http://omediadis.udl.cat/segre/text/bulletin/16042007-Migdia.xml> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/ma-ont#DataTrack>.
+<http://omediadis.udl.cat/segre/text/bulletin/16042007-Migdia.xml> <http://www.w3.org/2000/01/rdf-schema#label> "Transcript of Radio Bulletin 12h - April 16th 2007".
+<http://omediadis.udl.cat/segre/text/bulletin/16042007-Migdia.xml> <http://purl.org/dc/elements/1.1/title> "Transcript of Radio Bulletin 12h - April 16th 2007".
+<http://omediadis.udl.cat/segre/text/bulletin/16042007-Migdia.xml> <http://purl.org/dc/elements/1.1/creator> <http://www.segre.com>.
+<http://omediadis.udl.cat/segre/text/bulletin/16042007-Migdia.xml> <http://purl.org/dc/elements/1.1/language> "ca".
+<http://omediadis.udl.cat/segre/audio/bulletin/16042007-Migdia.mp3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/ma-ont#AudioTrack>.
+<http://omediadis.udl.cat/segre/audio/bulletin/16042007-Migdia.mp3> <http://www.w3.org/2000/01/rdf-schema#label> "MP3 Copy of Radio Bulletin 12h - April 16th 2007".
+<http://omediadis.udl.cat/segre/audio/bulletin/16042007-Migdia.mp3> <http://purl.org/dc/elements/1.1/title> "MP3 Copy of Radio Bulletin 12h - April 16th 2007".
+<http://omediadis.udl.cat/segre/audio/bulletin/16042007-Migdia.mp3> <http://purl.org/dc/elements/1.1/creator> <http://www.segre.com>.
+<http://omediadis.udl.cat/segre/audio/bulletin/16042007-Migdia.mp3> <http://purl.org/dc/elements/1.1/language> "ca".
+<http://omediadis.udl.cat/segre/audio/bulletin/16042007-Migdia.mp3> <http://purl.org/dc/elements/1.1/format> "audio/mpeg".
+<http://omediadis.udl.cat/segre/audio/bulletin/16042007-Migdia.mp3> <http://www.w3.org/ns/ma-ont#bitrate> "128".
+<http://omediadis.udl.cat/segre/audio/bulletin/16042007-Migdia.mp3> <http://www.w3.org/ns/ma-ont#duration> "PT00:07:43".
+<http://omediadis.udl.cat/segre/audio/bulletin/16042007-Migdia.mp3> <http://www.w3.org/ns/ma-ont#samplingrate> "48000".
+<http://omediadis.udl.cat/segre/radio/bulletin/17012007-Migdia/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rhizomik.net/ontologies/2009/09/copyrightonto.owl#Communication>.
+<http://omediadis.udl.cat/segre/radio/bulletin/17012007-Migdia/> <http://www.w3.org/2000/01/rdf-schema#label> "Radio Bulletin 12h - January 17th 2007".
+<http://omediadis.udl.cat/segre/radio/bulletin/17012007-Migdia/> <http://purl.org/dc/elements/1.1/title> "Radio Bulletin 12h - January 17th 2007".
+<http://omediadis.udl.cat/segre/radio/bulletin/17012007-Migdia/> <http://purl.org/dc/elements/1.1/date> "2007".
+<http://omediadis.udl.cat/segre/radio/bulletin/17012007-Migdia/> <http://purl.org/dc/elements/1.1/creator> <http://www.segre.com>.
+<http://omediadis.udl.cat/segre/radio/bulletin/17012007-Migdia/> <http://purl.org/dc/elements/1.1/language> "ca".
+<http://omediadis.udl.cat/segre/radio/bulletin/17012007-Migdia/> <http://rhizomik.net/ontologies/2009/09/copyrightonto.owl#hasRecording> <http://omediadis.udl.cat/segre/recording/bulletin/17012007-Migdia/>.
+<http://omediadis.udl.cat/segre/recording/bulletin/17012007-Migdia/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rhizomik.net/ontologies/2009/09/copyrightonto.owl#Recording>.
+<http://omediadis.udl.cat/segre/recording/bulletin/17012007-Migdia/> <http://www.w3.org/2000/01/rdf-schema#label> "Recording of Radio Bulletin 12h - January 17th 2007".
+<http://omediadis.udl.cat/segre/recording/bulletin/17012007-Migdia/> <http://purl.org/dc/elements/1.1/title> "Recording of Radio Bulletin 12h - January 17th 2007".
+<http://omediadis.udl.cat/segre/recording/bulletin/17012007-Migdia/> <http://purl.org/dc/elements/1.1/creator> <http://www.segre.com>.
+<http://omediadis.udl.cat/segre/recording/bulletin/17012007-Migdia/> <http://purl.org/dc/elements/1.1/language> "ca".
+<http://omediadis.udl.cat/segre/recording/bulletin/17012007-Migdia/> <http://www.w3.org/ns/ma-ont#hasAudioDescription> <http://omediadis.udl.cat/segre/text/bulletin/17012007-Migdia.xml>.
+<http://omediadis.udl.cat/segre/recording/bulletin/17012007-Migdia/> <http://rhizomik.net/ontologies/2009/09/copyrightonto.owl#hasInstance> <http://omediadis.udl.cat/segre/audio/bulletin/17012007-Migdia.mp3>.
+<http://omediadis.udl.cat/segre/text/bulletin/17012007-Migdia.xml> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/ma-ont#DataTrack>.
+<http://omediadis.udl.cat/segre/text/bulletin/17012007-Migdia.xml> <http://www.w3.org/2000/01/rdf-schema#label> "Transcript of Radio Bulletin 12h - January 17th 2007".
+<http://omediadis.udl.cat/segre/text/bulletin/17012007-Migdia.xml> <http://purl.org/dc/elements/1.1/title> "Transcript of Radio Bulletin 12h - January 17th 2007".
+<http://omediadis.udl.cat/segre/text/bulletin/17012007-Migdia.xml> <http://purl.org/dc/elements/1.1/creator> <http://www.segre.com>.
+<http://omediadis.udl.cat/segre/text/bulletin/17012007-Migdia.xml> <http://purl.org/dc/elements/1.1/language> "ca".
+<http://omediadis.udl.cat/segre/audio/bulletin/17012007-Migdia.mp3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/ma-ont#AudioTrack>.
+<http://omediadis.udl.cat/segre/audio/bulletin/17012007-Migdia.mp3> <http://www.w3.org/2000/01/rdf-schema#label> "MP3 Copy of Radio Bulletin 12h - January 17th 2007".
+<http://omediadis.udl.cat/segre/audio/bulletin/17012007-Migdia.mp3> <http://purl.org/dc/elements/1.1/title> "MP3 Copy of Radio Bulletin 12h - January 17th 2007".
+<http://omediadis.udl.cat/segre/audio/bulletin/17012007-Migdia.mp3> <http://purl.org/dc/elements/1.1/creator> <http://www.segre.com>.
+<http://omediadis.udl.cat/segre/audio/bulletin/17012007-Migdia.mp3> <http://purl.org/dc/elements/1.1/language> "ca".
+<http://omediadis.udl.cat/segre/audio/bulletin/17012007-Migdia.mp3> <http://purl.org/dc/elements/1.1/format> "audio/mpeg".
+<http://omediadis.udl.cat/segre/audio/bulletin/17012007-Migdia.mp3> <http://www.w3.org/ns/ma-ont#bitrate> "128".
+<http://omediadis.udl.cat/segre/audio/bulletin/17012007-Migdia.mp3> <http://www.w3.org/ns/ma-ont#duration> "PT00:11:10".
+<http://omediadis.udl.cat/segre/audio/bulletin/17012007-Migdia.mp3> <http://www.w3.org/ns/ma-ont#samplingrate> "48000".
+<http://omediadis.udl.cat/segre/radio/bulletin/18012007-Migdia/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rhizomik.net/ontologies/2009/09/copyrightonto.owl#Communication>.
+<http://omediadis.udl.cat/segre/radio/bulletin/18012007-Migdia/> <http://www.w3.org/2000/01/rdf-schema#label> "Radio Bulletin 12h - January 18th 2007".
+<http://omediadis.udl.cat/segre/radio/bulletin/18012007-Migdia/> <http://purl.org/dc/elements/1.1/title> "Radio Bulletin 12h - January 18th 2007".
+<http://omediadis.udl.cat/segre/radio/bulletin/18012007-Migdia/> <http://purl.org/dc/elements/1.1/date> "2007".
+<http://omediadis.udl.cat/segre/radio/bulletin/18012007-Migdia/> <http://purl.org/dc/elements/1.1/creator> <http://www.segre.com>.
+<http://omediadis.udl.cat/segre/radio/bulletin/18012007-Migdia/> <http://purl.org/dc/elements/1.1/language> "ca".
+<http://omediadis.udl.cat/segre/radio/bulletin/18012007-Migdia/> <http://rhizomik.net/ontologies/2009/09/copyrightonto.owl#hasRecording> <http://omediadis.udl.cat/segre/recording/bulletin/18012007-Migdia/>.
+<http://omediadis.udl.cat/segre/recording/bulletin/18012007-Migdia/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rhizomik.net/ontologies/2009/09/copyrightonto.owl#Recording>.
+<http://omediadis.udl.cat/segre/recording/bulletin/18012007-Migdia/> <http://www.w3.org/2000/01/rdf-schema#label> "Recording of Radio Bulletin 12h - January 18th 2007".
+<http://omediadis.udl.cat/segre/recording/bulletin/18012007-Migdia/> <http://purl.org/dc/elements/1.1/title> "Recording of Radio Bulletin 12h - January 18th 2007".
+<http://omediadis.udl.cat/segre/recording/bulletin/18012007-Migdia/> <http://purl.org/dc/elements/1.1/creator> <http://www.segre.com>.
+<http://omediadis.udl.cat/segre/recording/bulletin/18012007-Migdia/> <http://purl.org/dc/elements/1.1/language> "ca".
+<http://omediadis.udl.cat/segre/recording/bulletin/18012007-Migdia/> <http://www.w3.org/ns/ma-ont#hasAudioDescription> <http://omediadis.udl.cat/segre/text/bulletin/18012007-Migdia.xml>.
+<http://omediadis.udl.cat/segre/recording/bulletin/18012007-Migdia/> <http://rhizomik.net/ontologies/2009/09/copyrightonto.owl#hasInstance> <http://omediadis.udl.cat/segre/audio/bulletin/18012007-Migdia.mp3>.
+<http://omediadis.udl.cat/segre/text/bulletin/18012007-Migdia.xml> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/ma-ont#DataTrack>.
+<http://omediadis.udl.cat/segre/text/bulletin/18012007-Migdia.xml> <http://www.w3.org/2000/01/rdf-schema#label> "Transcript of Radio Bulletin 12h - January 18th 2007".
+<http://omediadis.udl.cat/segre/text/bulletin/18012007-Migdia.xml> <http://purl.org/dc/elements/1.1/title> "Transcript of Radio Bulletin 12h - January 18th 2007".
+<http://omediadis.udl.cat/segre/text/bulletin/18012007-Migdia.xml> <http://purl.org/dc/elements/1.1/creator> <http://www.segre.com>.
+<http://omediadis.udl.cat/segre/text/bulletin/18012007-Migdia.xml> <http://purl.org/dc/elements/1.1/language> "ca".
+<http://omediadis.udl.cat/segre/audio/bulletin/18012007-Migdia.mp3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/ma-ont#AudioTrack>.
+<http://omediadis.udl.cat/segre/audio/bulletin/18012007-Migdia.mp3> <http://www.w3.org/2000/01/rdf-schema#label> "MP3 Copy of Radio Bulletin 12h - January 18th 2007".
+<http://omediadis.udl.cat/segre/audio/bulletin/18012007-Migdia.mp3> <http://purl.org/dc/elements/1.1/title> "MP3 Copy of Radio Bulletin 12h - January 18th 2007".
+<http://omediadis.udl.cat/segre/audio/bulletin/18012007-Migdia.mp3> <http://purl.org/dc/elements/1.1/creator> <http://www.segre.com>.
+<http://omediadis.udl.cat/segre/audio/bulletin/18012007-Migdia.mp3> <http://purl.org/dc/elements/1.1/language> "ca".
+<http://omediadis.udl.cat/segre/audio/bulletin/18012007-Migdia.mp3> <http://purl.org/dc/elements/1.1/format> "audio/mpeg".
+<http://omediadis.udl.cat/segre/audio/bulletin/18012007-Migdia.mp3> <http://www.w3.org/ns/ma-ont#bitrate> "128".
+<http://omediadis.udl.cat/segre/audio/bulletin/18012007-Migdia.mp3> <http://www.w3.org/ns/ma-ont#duration> "PT00:12:04".
+<http://omediadis.udl.cat/segre/audio/bulletin/18012007-Migdia.mp3> <http://www.w3.org/ns/ma-ont#samplingrate> "48000".
+<http://omediadis.udl.cat/segre/radio/bulletin/20022007-Migdia/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rhizomik.net/ontologies/2009/09/copyrightonto.owl#Communication>.
+<http://omediadis.udl.cat/segre/radio/bulletin/20022007-Migdia/> <http://www.w3.org/2000/01/rdf-schema#label> "Radio Bulletin 12h - February 20th 2007".
+<http://omediadis.udl.cat/segre/radio/bulletin/20022007-Migdia/> <http://purl.org/dc/elements/1.1/title> "Radio Bulletin 12h - February 20th 2007".
+<http://omediadis.udl.cat/segre/radio/bulletin/20022007-Migdia/> <http://purl.org/dc/elements/1.1/date> "2007".
+<http://omediadis.udl.cat/segre/radio/bulletin/20022007-Migdia/> <http://purl.org/dc/elements/1.1/creator> <http://www.segre.com>.
+<http://omediadis.udl.cat/segre/radio/bulletin/20022007-Migdia/> <http://purl.org/dc/elements/1.1/language> "ca".
+<http://omediadis.udl.cat/segre/radio/bulletin/20022007-Migdia/> <http://rhizomik.net/ontologies/2009/09/copyrightonto.owl#hasRecording> <http://omediadis.udl.cat/segre/recording/bulletin/20022007-Migdia/>.
+<http://omediadis.udl.cat/segre/recording/bulletin/20022007-Migdia/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rhizomik.net/ontologies/2009/09/copyrightonto.owl#Recording>.
+<http://omediadis.udl.cat/segre/recording/bulletin/20022007-Migdia/> <http://www.w3.org/2000/01/rdf-schema#label> "Recording of Radio Bulletin 12h - February 20th 2007".
+<http://omediadis.udl.cat/segre/recording/bulletin/20022007-Migdia/> <http://purl.org/dc/elements/1.1/title> "Recording of Radio Bulletin 12h - February 20th 2007".
+<http://omediadis.udl.cat/segre/recording/bulletin/20022007-Migdia/> <http://purl.org/dc/elements/1.1/creator> <http://www.segre.com>.
+<http://omediadis.udl.cat/segre/recording/bulletin/20022007-Migdia/> <http://purl.org/dc/elements/1.1/language> "ca".
+<http://omediadis.udl.cat/segre/recording/bulletin/20022007-Migdia/> <http://www.w3.org/ns/ma-ont#hasAudioDescription> <http://omediadis.udl.cat/segre/text/bulletin/20022007-Migdia.xml>.
+<http://omediadis.udl.cat/segre/recording/bulletin/20022007-Migdia/> <http://rhizomik.net/ontologies/2009/09/copyrightonto.owl#hasInstance> <http://omediadis.udl.cat/segre/audio/bulletin/20022007-Migdia.mp3>.
+<http://omediadis.udl.cat/segre/text/bulletin/20022007-Migdia.xml> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/ma-ont#DataTrack>.
+<http://omediadis.udl.cat/segre/text/bulletin/20022007-Migdia.xml> <http://www.w3.org/2000/01/rdf-schema#label> "Transcript of Radio Bulletin 12h - February 20th 2007".
+<http://omediadis.udl.cat/segre/text/bulletin/20022007-Migdia.xml> <http://purl.org/dc/elements/1.1/title> "Transcript of Radio Bulletin 12h - February 20th 2007".
+<http://omediadis.udl.cat/segre/text/bulletin/20022007-Migdia.xml> <http://purl.org/dc/elements/1.1/creator> <http://www.segre.com>.
+<http://omediadis.udl.cat/segre/text/bulletin/20022007-Migdia.xml> <http://purl.org/dc/elements/1.1/language> "ca".
+<http://omediadis.udl.cat/segre/audio/bulletin/20022007-Migdia.mp3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/ma-ont#AudioTrack>.
+<http://omediadis.udl.cat/segre/audio/bulletin/20022007-Migdia.mp3> <http://www.w3.org/2000/01/rdf-schema#label> "MP3 Copy of Radio Bulletin 12h - February 20th 2007".
+<http://omediadis.udl.cat/segre/audio/bulletin/20022007-Migdia.mp3> <http://purl.org/dc/elements/1.1/title> "MP3 Copy of Radio Bulletin 12h - February 20th 2007".
+<http://omediadis.udl.cat/segre/audio/bulletin/20022007-Migdia.mp3> <http://purl.org/dc/elements/1.1/creator> <http://www.segre.com>.
+<http://omediadis.udl.cat/segre/audio/bulletin/20022007-Migdia.mp3> <http://purl.org/dc/elements/1.1/language> "ca".
+<http://omediadis.udl.cat/segre/audio/bulletin/20022007-Migdia.mp3> <http://purl.org/dc/elements/1.1/format> "audio/mpeg".
+<http://omediadis.udl.cat/segre/audio/bulletin/20022007-Migdia.mp3> <http://www.w3.org/ns/ma-ont#bitrate> "128".
+<http://omediadis.udl.cat/segre/audio/bulletin/20022007-Migdia.mp3> <http://www.w3.org/ns/ma-ont#duration> "PT00:08:55".
+<http://omediadis.udl.cat/segre/audio/bulletin/20022007-Migdia.mp3> <http://www.w3.org/ns/ma-ont#samplingrate> "48000".
+<http://omediadis.udl.cat/segre/radio/bulletin/20112006-15/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rhizomik.net/ontologies/2009/09/copyrightonto.owl#Communication>.
+<http://omediadis.udl.cat/segre/radio/bulletin/20112006-15/> <http://www.w3.org/2000/01/rdf-schema#label> "Radio Bulletin 15h - November 20th 2006".
+<http://omediadis.udl.cat/segre/radio/bulletin/20112006-15/> <http://purl.org/dc/elements/1.1/title> "Radio Bulletin 15h - November 20th 2006".
+<http://omediadis.udl.cat/segre/radio/bulletin/20112006-15/> <http://purl.org/dc/elements/1.1/date> "2006".
+<http://omediadis.udl.cat/segre/radio/bulletin/20112006-15/> <http://purl.org/dc/elements/1.1/creator> <http://www.segre.com>.
+<http://omediadis.udl.cat/segre/radio/bulletin/20112006-15/> <http://purl.org/dc/elements/1.1/language> "ca".
+<http://omediadis.udl.cat/segre/radio/bulletin/20112006-15/> <http://rhizomik.net/ontologies/2009/09/copyrightonto.owl#hasRecording> <http://omediadis.udl.cat/segre/recording/bulletin/20112006-15/>.
+<http://omediadis.udl.cat/segre/recording/bulletin/20112006-15/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rhizomik.net/ontologies/2009/09/copyrightonto.owl#Recording>.
+<http://omediadis.udl.cat/segre/recording/bulletin/20112006-15/> <http://www.w3.org/2000/01/rdf-schema#label> "Recording of Radio Bulletin 15h - November 20th 2006".
+<http://omediadis.udl.cat/segre/recording/bulletin/20112006-15/> <http://purl.org/dc/elements/1.1/title> "Recording of Radio Bulletin 15h - November 20th 2006".
+<http://omediadis.udl.cat/segre/recording/bulletin/20112006-15/> <http://purl.org/dc/elements/1.1/creator> <http://www.segre.com>.
+<http://omediadis.udl.cat/segre/recording/bulletin/20112006-15/> <http://purl.org/dc/elements/1.1/language> "ca".
+<http://omediadis.udl.cat/segre/recording/bulletin/20112006-15/> <http://www.w3.org/ns/ma-ont#hasAudioDescription> <http://omediadis.udl.cat/segre/text/bulletin/20112006-15.xml>.
+<http://omediadis.udl.cat/segre/recording/bulletin/20112006-15/> <http://rhizomik.net/ontologies/2009/09/copyrightonto.owl#hasInstance> <http://omediadis.udl.cat/segre/audio/bulletin/20112006-15.mp3>.
+<http://omediadis.udl.cat/segre/text/bulletin/20112006-15.xml> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/ma-ont#DataTrack>.
+<http://omediadis.udl.cat/segre/text/bulletin/20112006-15.xml> <http://www.w3.org/2000/01/rdf-schema#label> "Transcript of Radio Bulletin 15h - November 20th 2006".
+<http://omediadis.udl.cat/segre/text/bulletin/20112006-15.xml> <http://purl.org/dc/elements/1.1/title> "Transcript of Radio Bulletin 15h - November 20th 2006".
+<http://omediadis.udl.cat/segre/text/bulletin/20112006-15.xml> <http://purl.org/dc/elements/1.1/creator> <http://www.segre.com>.
+<http://omediadis.udl.cat/segre/text/bulletin/20112006-15.xml> <http://purl.org/dc/elements/1.1/language> "ca".
+<http://omediadis.udl.cat/segre/audio/bulletin/20112006-15.mp3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/ma-ont#AudioTrack>.
+<http://omediadis.udl.cat/segre/audio/bulletin/20112006-15.mp3> <http://www.w3.org/2000/01/rdf-schema#label> "MP3 Copy of Radio Bulletin 15h - November 20th 2006".
+<http://omediadis.udl.cat/segre/audio/bulletin/20112006-15.mp3> <http://purl.org/dc/elements/1.1/title> "MP3 Copy of Radio Bulletin 15h - November 20th 2006".
+<http://omediadis.udl.cat/segre/audio/bulletin/20112006-15.mp3> <http://purl.org/dc/elements/1.1/creator> <http://www.segre.com>.
+<http://omediadis.udl.cat/segre/audio/bulletin/20112006-15.mp3> <http://purl.org/dc/elements/1.1/language> "ca".
+<http://omediadis.udl.cat/segre/audio/bulletin/20112006-15.mp3> <http://purl.org/dc/elements/1.1/format> "audio/mpeg".
+<http://omediadis.udl.cat/segre/audio/bulletin/20112006-15.mp3> <http://www.w3.org/ns/ma-ont#bitrate> "128".
+<http://omediadis.udl.cat/segre/audio/bulletin/20112006-15.mp3> <http://www.w3.org/ns/ma-ont#duration> "PT00:01:42".
+<http://omediadis.udl.cat/segre/audio/bulletin/20112006-15.mp3> <http://www.w3.org/ns/ma-ont#samplingrate> "48000".
+<http://omediadis.udl.cat/segre/radio/bulletin/20112006-16/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rhizomik.net/ontologies/2009/09/copyrightonto.owl#Communication>.
+<http://omediadis.udl.cat/segre/radio/bulletin/20112006-16/> <http://www.w3.org/2000/01/rdf-schema#label> "Radio Bulletin 16h - November 20th 2006".
+<http://omediadis.udl.cat/segre/radio/bulletin/20112006-16/> <http://purl.org/dc/elements/1.1/title> "Radio Bulletin 16h - November 20th 2006".
+<http://omediadis.udl.cat/segre/radio/bulletin/20112006-16/> <http://purl.org/dc/elements/1.1/date> "2006".
+<http://omediadis.udl.cat/segre/radio/bulletin/20112006-16/> <http://purl.org/dc/elements/1.1/creator> <http://www.segre.com>.
+<http://omediadis.udl.cat/segre/radio/bulletin/20112006-16/> <http://purl.org/dc/elements/1.1/language> "ca".
+<http://omediadis.udl.cat/segre/radio/bulletin/20112006-16/> <http://rhizomik.net/ontologies/2009/09/copyrightonto.owl#hasRecording> <http://omediadis.udl.cat/segre/recording/bulletin/20112006-16/>.
+<http://omediadis.udl.cat/segre/recording/bulletin/20112006-16/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rhizomik.net/ontologies/2009/09/copyrightonto.owl#Recording>.
+<http://omediadis.udl.cat/segre/recording/bulletin/20112006-16/> <http://www.w3.org/2000/01/rdf-schema#label> "Recording of Radio Bulletin 16h - November 20th 2006".
+<http://omediadis.udl.cat/segre/recording/bulletin/20112006-16/> <http://purl.org/dc/elements/1.1/title> "Recording of Radio Bulletin 16h - November 20th 2006".
+<http://omediadis.udl.cat/segre/recording/bulletin/20112006-16/> <http://purl.org/dc/elements/1.1/creator> <http://www.segre.com>.
+<http://omediadis.udl.cat/segre/recording/bulletin/20112006-16/> <http://purl.org/dc/elements/1.1/language> "ca".
+<http://omediadis.udl.cat/segre/recording/bulletin/20112006-16/> <http://www.w3.org/ns/ma-ont#hasAudioDescription> <http://omediadis.udl.cat/segre/text/bulletin/20112006-16.xml>.
+<http://omediadis.udl.cat/segre/recording/bulletin/20112006-16/> <http://rhizomik.net/ontologies/2009/09/copyrightonto.owl#hasInstance> <http://omediadis.udl.cat/segre/audio/bulletin/20112006-16.mp3>.
+<http://omediadis.udl.cat/segre/text/bulletin/20112006-16.xml> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/ma-ont#DataTrack>.
+<http://omediadis.udl.cat/segre/text/bulletin/20112006-16.xml> <http://www.w3.org/2000/01/rdf-schema#label> "Transcript of Radio Bulletin 16h - November 20th 2006".
+<http://omediadis.udl.cat/segre/text/bulletin/20112006-16.xml> <http://purl.org/dc/elements/1.1/title> "Transcript of Radio Bulletin 16h - November 20th 2006".
+<http://omediadis.udl.cat/segre/text/bulletin/20112006-16.xml> <http://purl.org/dc/elements/1.1/creator> <http://www.segre.com>.
+<http://omediadis.udl.cat/segre/text/bulletin/20112006-16.xml> <http://purl.org/dc/elements/1.1/language> "ca".
+<http://omediadis.udl.cat/segre/audio/bulletin/20112006-16.mp3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/ma-ont#AudioTrack>.
+<http://omediadis.udl.cat/segre/audio/bulletin/20112006-16.mp3> <http://www.w3.org/2000/01/rdf-schema#label> "MP3 Copy of Radio Bulletin 16h - November 20th 2006".
+<http://omediadis.udl.cat/segre/audio/bulletin/20112006-16.mp3> <http://purl.org/dc/elements/1.1/title> "MP3 Copy of Radio Bulletin 16h - November 20th 2006".
+<http://omediadis.udl.cat/segre/audio/bulletin/20112006-16.mp3> <http://purl.org/dc/elements/1.1/creator> <http://www.segre.com>.
+<http://omediadis.udl.cat/segre/audio/bulletin/20112006-16.mp3> <http://purl.org/dc/elements/1.1/language> "ca".
+<http://omediadis.udl.cat/segre/audio/bulletin/20112006-16.mp3> <http://purl.org/dc/elements/1.1/format> "audio/mpeg".
+<http://omediadis.udl.cat/segre/audio/bulletin/20112006-16.mp3> <http://www.w3.org/ns/ma-ont#bitrate> "128".
+<http://omediadis.udl.cat/segre/audio/bulletin/20112006-16.mp3> <http://www.w3.org/ns/ma-ont#duration> "PT00:01:46".
+<http://omediadis.udl.cat/segre/audio/bulletin/20112006-16.mp3> <http://www.w3.org/ns/ma-ont#samplingrate> "48000".
+<http://omediadis.udl.cat/segre/radio/bulletin/20112006-21/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rhizomik.net/ontologies/2009/09/copyrightonto.owl#Communication>.
+<http://omediadis.udl.cat/segre/radio/bulletin/20112006-21/> <http://www.w3.org/2000/01/rdf-schema#label> "Radio Bulletin 21h - November 20th 2006".
+<http://omediadis.udl.cat/segre/radio/bulletin/20112006-21/> <http://purl.org/dc/elements/1.1/title> "Radio Bulletin 21h - November 20th 2006".
+<http://omediadis.udl.cat/segre/radio/bulletin/20112006-21/> <http://purl.org/dc/elements/1.1/date> "2006".
+<http://omediadis.udl.cat/segre/radio/bulletin/20112006-21/> <http://purl.org/dc/elements/1.1/creator> <http://www.segre.com>.
+<http://omediadis.udl.cat/segre/radio/bulletin/20112006-21/> <http://purl.org/dc/elements/1.1/language> "ca".
+<http://omediadis.udl.cat/segre/radio/bulletin/20112006-21/> <http://rhizomik.net/ontologies/2009/09/copyrightonto.owl#hasRecording> <http://omediadis.udl.cat/segre/recording/bulletin/20112006-21/>.
+<http://omediadis.udl.cat/segre/recording/bulletin/20112006-21/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rhizomik.net/ontologies/2009/09/copyrightonto.owl#Recording>.
+<http://omediadis.udl.cat/segre/recording/bulletin/20112006-21/> <http://www.w3.org/2000/01/rdf-schema#label> "Recording of Radio Bulletin 21h - November 20th 2006".
+<http://omediadis.udl.cat/segre/recording/bulletin/20112006-21/> <http://purl.org/dc/elements/1.1/title> "Recording of Radio Bulletin 21h - November 20th 2006".
+<http://omediadis.udl.cat/segre/recording/bulletin/20112006-21/> <http://purl.org/dc/elements/1.1/creator> <http://www.segre.com>.
+<http://omediadis.udl.cat/segre/recording/bulletin/20112006-21/> <http://purl.org/dc/elements/1.1/language> "ca".
+<http://omediadis.udl.cat/segre/recording/bulletin/20112006-21/> <http://www.w3.org/ns/ma-ont#hasAudioDescription> <http://omediadis.udl.cat/segre/text/bulletin/20112006-21.xml>.
+<http://omediadis.udl.cat/segre/recording/bulletin/20112006-21/> <http://rhizomik.net/ontologies/2009/09/copyrightonto.owl#hasInstance> <http://omediadis.udl.cat/segre/audio/bulletin/20112006-21.mp3>.
+<http://omediadis.udl.cat/segre/text/bulletin/20112006-21.xml> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/ma-ont#DataTrack>.
+<http://omediadis.udl.cat/segre/text/bulletin/20112006-21.xml> <http://www.w3.org/2000/01/rdf-schema#label> "Transcript of Radio Bulletin 21h - November 20th 2006".
+<http://omediadis.udl.cat/segre/text/bulletin/20112006-21.xml> <http://purl.org/dc/elements/1.1/title> "Transcript of Radio Bulletin 21h - November 20th 2006".
+<http://omediadis.udl.cat/segre/text/bulletin/20112006-21.xml> <http://purl.org/dc/elements/1.1/creator> <http://www.segre.com>.
+<http://omediadis.udl.cat/segre/text/bulletin/20112006-21.xml> <http://purl.org/dc/elements/1.1/language> "ca".
+<http://omediadis.udl.cat/segre/audio/bulletin/20112006-21.mp3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/ma-ont#AudioTrack>.
+<http://omediadis.udl.cat/segre/audio/bulletin/20112006-21.mp3> <http://www.w3.org/2000/01/rdf-schema#label> "MP3 Copy of Radio Bulletin 21h - November 20th 2006".
+<http://omediadis.udl.cat/segre/audio/bulletin/20112006-21.mp3> <http://purl.org/dc/elements/1.1/title> "MP3 Copy of Radio Bulletin 21h - November 20th 2006".
+<http://omediadis.udl.cat/segre/audio/bulletin/20112006-21.mp3> <http://purl.org/dc/elements/1.1/creator> <http://www.segre.com>.
+<http://omediadis.udl.cat/segre/audio/bulletin/20112006-21.mp3> <http://purl.org/dc/elements/1.1/language> "ca".
+<http://omediadis.udl.cat/segre/audio/bulletin/20112006-21.mp3> <http://purl.org/dc/elements/1.1/format> "audio/mpeg".
+<http://omediadis.udl.cat/segre/audio/bulletin/20112006-21.mp3> <http://www.w3.org/ns/ma-ont#bitrate> "128".
+<http://omediadis.udl.cat/segre/audio/bulletin/20112006-21.mp3> <http://www.w3.org/ns/ma-ont#duration> "PT00:01:27".
+<http://omediadis.udl.cat/segre/audio/bulletin/20112006-21.mp3> <http://www.w3.org/ns/ma-ont#samplingrate> "48000".
+<http://omediadis.udl.cat/segre/radio/bulletin/20112006-22/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rhizomik.net/ontologies/2009/09/copyrightonto.owl#Communication>.
+<http://omediadis.udl.cat/segre/radio/bulletin/20112006-22/> <http://www.w3.org/2000/01/rdf-schema#label> "Radio Bulletin 22h - November 20th 2006".
+<http://omediadis.udl.cat/segre/radio/bulletin/20112006-22/> <http://purl.org/dc/elements/1.1/title> "Radio Bulletin 22h - November 20th 2006".
+<http://omediadis.udl.cat/segre/radio/bulletin/20112006-22/> <http://purl.org/dc/elements/1.1/date> "2006".
+<http://omediadis.udl.cat/segre/radio/bulletin/20112006-22/> <http://purl.org/dc/elements/1.1/creator> <http://www.segre.com>.
+<http://omediadis.udl.cat/segre/radio/bulletin/20112006-22/> <http://purl.org/dc/elements/1.1/language> "ca".
+<http://omediadis.udl.cat/segre/radio/bulletin/20112006-22/> <http://rhizomik.net/ontologies/2009/09/copyrightonto.owl#hasRecording> <http://omediadis.udl.cat/segre/recording/bulletin/20112006-22/>.
+<http://omediadis.udl.cat/segre/recording/bulletin/20112006-22/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rhizomik.net/ontologies/2009/09/copyrightonto.owl#Recording>.
+<http://omediadis.udl.cat/segre/recording/bulletin/20112006-22/> <http://www.w3.org/2000/01/rdf-schema#label> "Recording of Radio Bulletin 22h - November 20th 2006".
+<http://omediadis.udl.cat/segre/recording/bulletin/20112006-22/> <http://purl.org/dc/elements/1.1/title> "Recording of Radio Bulletin 22h - November 20th 2006".
+<http://omediadis.udl.cat/segre/recording/bulletin/20112006-22/> <http://purl.org/dc/elements/1.1/creator> <http://www.segre.com>.
+<http://omediadis.udl.cat/segre/recording/bulletin/20112006-22/> <http://purl.org/dc/elements/1.1/language> "ca".
+<http://omediadis.udl.cat/segre/recording/bulletin/20112006-22/> <http://www.w3.org/ns/ma-ont#hasAudioDescription> <http://omediadis.udl.cat/segre/text/bulletin/20112006-22.xml>.
+<http://omediadis.udl.cat/segre/recording/bulletin/20112006-22/> <http://rhizomik.net/ontologies/2009/09/copyrightonto.owl#hasInstance> <http://omediadis.udl.cat/segre/audio/bulletin/20112006-22.mp3>.
+<http://omediadis.udl.cat/segre/text/bulletin/20112006-22.xml> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/ma-ont#DataTrack>.
+<http://omediadis.udl.cat/segre/text/bulletin/20112006-22.xml> <http://www.w3.org/2000/01/rdf-schema#label> "Transcript of Radio Bulletin 22h - November 20th 2006".
+<http://omediadis.udl.cat/segre/text/bulletin/20112006-22.xml> <http://purl.org/dc/elements/1.1/title> "Transcript of Radio Bulletin 22h - November 20th 2006".
+<http://omediadis.udl.cat/segre/text/bulletin/20112006-22.xml> <http://purl.org/dc/elements/1.1/creator> <http://www.segre.com>.
+<http://omediadis.udl.cat/segre/text/bulletin/20112006-22.xml> <http://purl.org/dc/elements/1.1/language> "ca".
+<http://omediadis.udl.cat/segre/audio/bulletin/20112006-22.mp3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/ma-ont#AudioTrack>.
+<http://omediadis.udl.cat/segre/audio/bulletin/20112006-22.mp3> <http://www.w3.org/2000/01/rdf-schema#label> "MP3 Copy of Radio Bulletin 22h - November 20th 2006".
+<http://omediadis.udl.cat/segre/audio/bulletin/20112006-22.mp3> <http://purl.org/dc/elements/1.1/title> "MP3 Copy of Radio Bulletin 22h - November 20th 2006".
+<http://omediadis.udl.cat/segre/audio/bulletin/20112006-22.mp3> <http://purl.org/dc/elements/1.1/creator> <http://www.segre.com>.
+<http://omediadis.udl.cat/segre/audio/bulletin/20112006-22.mp3> <http://purl.org/dc/elements/1.1/language> "ca".
+<http://omediadis.udl.cat/segre/audio/bulletin/20112006-22.mp3> <http://purl.org/dc/elements/1.1/format> "audio/mpeg".
+<http://omediadis.udl.cat/segre/audio/bulletin/20112006-22.mp3> <http://www.w3.org/ns/ma-ont#bitrate> "128".
+<http://omediadis.udl.cat/segre/audio/bulletin/20112006-22.mp3> <http://www.w3.org/ns/ma-ont#duration> "PT00:01:24".
+<http://omediadis.udl.cat/segre/audio/bulletin/20112006-22.mp3> <http://www.w3.org/ns/ma-ont#samplingrate> "48000".
+<http://omediadis.udl.cat/segre/radio/bulletin/21022907-Migdia/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rhizomik.net/ontologies/2009/09/copyrightonto.owl#Communication>.
+<http://omediadis.udl.cat/segre/radio/bulletin/21022907-Migdia/> <http://www.w3.org/2000/01/rdf-schema#label> "Radio Bulletin 12h - February 21th 2007".
+<http://omediadis.udl.cat/segre/radio/bulletin/21022907-Migdia/> <http://purl.org/dc/elements/1.1/title> "Radio Bulletin 12h - February 21th 2007".
+<http://omediadis.udl.cat/segre/radio/bulletin/21022907-Migdia/> <http://purl.org/dc/elements/1.1/date> "2007".
+<http://omediadis.udl.cat/segre/radio/bulletin/21022907-Migdia/> <http://purl.org/dc/elements/1.1/creator> <http://www.segre.com>.
+<http://omediadis.udl.cat/segre/radio/bulletin/21022907-Migdia/> <http://purl.org/dc/elements/1.1/language> "ca".
+<http://omediadis.udl.cat/segre/radio/bulletin/21022907-Migdia/> <http://rhizomik.net/ontologies/2009/09/copyrightonto.owl#hasRecording> <http://omediadis.udl.cat/segre/recording/bulletin/21022907-Migdia/>.
+<http://omediadis.udl.cat/segre/recording/bulletin/21022907-Migdia/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rhizomik.net/ontologies/2009/09/copyrightonto.owl#Recording>.
+<http://omediadis.udl.cat/segre/recording/bulletin/21022907-Migdia/> <http://www.w3.org/2000/01/rdf-schema#label> "Recording of Radio Bulletin 12h - February 21th 2007".
+<http://omediadis.udl.cat/segre/recording/bulletin/21022907-Migdia/> <http://purl.org/dc/elements/1.1/title> "Recording of Radio Bulletin 12h - February 21th 2007".
+<http://omediadis.udl.cat/segre/recording/bulletin/21022907-Migdia/> <http://purl.org/dc/elements/1.1/creator> <http://www.segre.com>.
+<http://omediadis.udl.cat/segre/recording/bulletin/21022907-Migdia/> <http://purl.org/dc/elements/1.1/language> "ca".
+<http://omediadis.udl.cat/segre/recording/bulletin/21022907-Migdia/> <http://www.w3.org/ns/ma-ont#hasAudioDescription> <http://omediadis.udl.cat/segre/text/bulletin/21022907-Migdia.xml>.
+<http://omediadis.udl.cat/segre/recording/bulletin/21022907-Migdia/> <http://rhizomik.net/ontologies/2009/09/copyrightonto.owl#hasInstance> <http://omediadis.udl.cat/segre/audio/bulletin/21022907-Migdia.mp3>.
+<http://omediadis.udl.cat/segre/text/bulletin/21022907-Migdia.xml> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/ma-ont#DataTrack>.
+<http://omediadis.udl.cat/segre/text/bulletin/21022907-Migdia.xml> <http://www.w3.org/2000/01/rdf-schema#label> "Transcript of Radio Bulletin 12h - February 21th 2007".
+<http://omediadis.udl.cat/segre/text/bulletin/21022907-Migdia.xml> <http://purl.org/dc/elements/1.1/title> "Transcript of Radio Bulletin 12h - February 21th 2007".
+<http://omediadis.udl.cat/segre/text/bulletin/21022907-Migdia.xml> <http://purl.org/dc/elements/1.1/creator> <http://www.segre.com>.
+<http://omediadis.udl.cat/segre/text/bulletin/21022907-Migdia.xml> <http://purl.org/dc/elements/1.1/language> "ca".
+<http://omediadis.udl.cat/segre/audio/bulletin/21022907-Migdia.mp3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/ma-ont#AudioTrack>.
+<http://omediadis.udl.cat/segre/audio/bulletin/21022907-Migdia.mp3> <http://www.w3.org/2000/01/rdf-schema#label> "MP3 Copy of Radio Bulletin 12h - February 21th 2007".
+<http://omediadis.udl.cat/segre/audio/bulletin/21022907-Migdia.mp3> <http://purl.org/dc/elements/1.1/title> "MP3 Copy of Radio Bulletin 12h - February 21th 2007".
+<http://omediadis.udl.cat/segre/audio/bulletin/21022907-Migdia.mp3> <http://purl.org/dc/elements/1.1/creator> <http://www.segre.com>.
+<http://omediadis.udl.cat/segre/audio/bulletin/21022907-Migdia.mp3> <http://purl.org/dc/elements/1.1/language> "ca".
+<http://omediadis.udl.cat/segre/audio/bulletin/21022907-Migdia.mp3> <http://purl.org/dc/elements/1.1/format> "audio/mpeg".
+<http://omediadis.udl.cat/segre/audio/bulletin/21022907-Migdia.mp3> <http://www.w3.org/ns/ma-ont#bitrate> "128".
+<http://omediadis.udl.cat/segre/audio/bulletin/21022907-Migdia.mp3> <http://www.w3.org/ns/ma-ont#duration> "PT00:07:43".
+<http://omediadis.udl.cat/segre/audio/bulletin/21022907-Migdia.mp3> <http://www.w3.org/ns/ma-ont#samplingrate> "48000".
+<http://omediadis.udl.cat/segre/radio/bulletin/22012007-Migdia/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rhizomik.net/ontologies/2009/09/copyrightonto.owl#Communication>.
+<http://omediadis.udl.cat/segre/radio/bulletin/22012007-Migdia/> <http://www.w3.org/2000/01/rdf-schema#label> "Radio Bulletin 12h - January 22th 2007".
+<http://omediadis.udl.cat/segre/radio/bulletin/22012007-Migdia/> <http://purl.org/dc/elements/1.1/title> "Radio Bulletin 12h - January 22th 2007".
+<http://omediadis.udl.cat/segre/radio/bulletin/22012007-Migdia/> <http://purl.org/dc/elements/1.1/date> "2007".
+<http://omediadis.udl.cat/segre/radio/bulletin/22012007-Migdia/> <http://purl.org/dc/elements/1.1/creator> <http://www.segre.com>.
+<http://omediadis.udl.cat/segre/radio/bulletin/22012007-Migdia/> <http://purl.org/dc/elements/1.1/language> "ca".
+<http://omediadis.udl.cat/segre/radio/bulletin/22012007-Migdia/> <http://rhizomik.net/ontologies/2009/09/copyrightonto.owl#hasRecording> <http://omediadis.udl.cat/segre/recording/bulletin/22012007-Migdia/>.
+<http://omediadis.udl.cat/segre/recording/bulletin/22012007-Migdia/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rhizomik.net/ontologies/2009/09/copyrightonto.owl#Recording>.
+<http://omediadis.udl.cat/segre/recording/bulletin/22012007-Migdia/> <http://www.w3.org/2000/01/rdf-schema#label> "Recording of Radio Bulletin 12h - January 22th 2007".
+<http://omediadis.udl.cat/segre/recording/bulletin/22012007-Migdia/> <http://purl.org/dc/elements/1.1/title> "Recording of Radio Bulletin 12h - January 22th 2007".
+<http://omediadis.udl.cat/segre/recording/bulletin/22012007-Migdia/> <http://purl.org/dc/elements/1.1/creator> <http://www.segre.com>.
+<http://omediadis.udl.cat/segre/recording/bulletin/22012007-Migdia/> <http://purl.org/dc/elements/1.1/language> "ca".
+<http://omediadis.udl.cat/segre/recording/bulletin/22012007-Migdia/> <http://www.w3.org/ns/ma-ont#hasAudioDescription> <http://omediadis.udl.cat/segre/text/bulletin/22012007-Migdia.xml>.
+<http://omediadis.udl.cat/segre/recording/bulletin/22012007-Migdia/> <http://rhizomik.net/ontologies/2009/09/copyrightonto.owl#hasInstance> <http://omediadis.udl.cat/segre/audio/bulletin/22012007-Migdia.mp3>.
+<http://omediadis.udl.cat/segre/text/bulletin/22012007-Migdia.xml> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/ma-ont#DataTrack>.
+<http://omediadis.udl.cat/segre/text/bulletin/22012007-Migdia.xml> <http://www.w3.org/2000/01/rdf-schema#label> "Transcript of Radio Bulletin 12h - January 22th 2007".
+<http://omediadis.udl.cat/segre/text/bulletin/22012007-Migdia.xml> <http://purl.org/dc/elements/1.1/title> "Transcript of Radio Bulletin 12h - January 22th 2007".
+<http://omediadis.udl.cat/segre/text/bulletin/22012007-Migdia.xml> <http://purl.org/dc/elements/1.1/creator> <http://www.segre.com>.
+<http://omediadis.udl.cat/segre/text/bulletin/22012007-Migdia.xml> <http://purl.org/dc/elements/1.1/language> "ca".
+<http://omediadis.udl.cat/segre/audio/bulletin/22012007-Migdia.mp3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/ma-ont#AudioTrack>.
+<http://omediadis.udl.cat/segre/audio/bulletin/22012007-Migdia.mp3> <http://www.w3.org/2000/01/rdf-schema#label> "MP3 Copy of Radio Bulletin 12h - January 22th 2007".
+<http://omediadis.udl.cat/segre/audio/bulletin/22012007-Migdia.mp3> <http://purl.org/dc/elements/1.1/title> "MP3 Copy of Radio Bulletin 12h - January 22th 2007".
+<http://omediadis.udl.cat/segre/audio/bulletin/22012007-Migdia.mp3> <http://purl.org/dc/elements/1.1/creator> <http://www.segre.com>.
+<http://omediadis.udl.cat/segre/audio/bulletin/22012007-Migdia.mp3> <http://purl.org/dc/elements/1.1/language> "ca".
+<http://omediadis.udl.cat/segre/audio/bulletin/22012007-Migdia.mp3> <http://purl.org/dc/elements/1.1/format> "audio/mpeg".
+<http://omediadis.udl.cat/segre/audio/bulletin/22012007-Migdia.mp3> <http://www.w3.org/ns/ma-ont#bitrate> "128".
+<http://omediadis.udl.cat/segre/audio/bulletin/22012007-Migdia.mp3> <http://www.w3.org/ns/ma-ont#duration> "PT00:07:32".
+<http://omediadis.udl.cat/segre/audio/bulletin/22012007-Migdia.mp3> <http://www.w3.org/ns/ma-ont#samplingrate> "48000".
+<http://omediadis.udl.cat/segre/radio/bulletin/23012007-Migdia/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rhizomik.net/ontologies/2009/09/copyrightonto.owl#Communication>.
+<http://omediadis.udl.cat/segre/radio/bulletin/23012007-Migdia/> <http://www.w3.org/2000/01/rdf-schema#label> "Radio Bulletin 12h - January 23th 2007".
+<http://omediadis.udl.cat/segre/radio/bulletin/23012007-Migdia/> <http://purl.org/dc/elements/1.1/title> "Radio Bulletin 12h - January 23th 2007".
+<http://omediadis.udl.cat/segre/radio/bulletin/23012007-Migdia/> <http://purl.org/dc/elements/1.1/date> "2007".
+<http://omediadis.udl.cat/segre/radio/bulletin/23012007-Migdia/> <http://purl.org/dc/elements/1.1/creator> <http://www.segre.com>.
+<http://omediadis.udl.cat/segre/radio/bulletin/23012007-Migdia/> <http://purl.org/dc/elements/1.1/language> "ca".
+<http://omediadis.udl.cat/segre/radio/bulletin/23012007-Migdia/> <http://rhizomik.net/ontologies/2009/09/copyrightonto.owl#hasRecording> <http://omediadis.udl.cat/segre/recording/bulletin/23012007-Migdia/>.
+<http://omediadis.udl.cat/segre/recording/bulletin/23012007-Migdia/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rhizomik.net/ontologies/2009/09/copyrightonto.owl#Recording>.
+<http://omediadis.udl.cat/segre/recording/bulletin/23012007-Migdia/> <http://www.w3.org/2000/01/rdf-schema#label> "Recording of Radio Bulletin 12h - January 23th 2007".
+<http://omediadis.udl.cat/segre/recording/bulletin/23012007-Migdia/> <http://purl.org/dc/elements/1.1/title> "Recording of Radio Bulletin 12h - January 23th 2007".
+<http://omediadis.udl.cat/segre/recording/bulletin/23012007-Migdia/> <http://purl.org/dc/elements/1.1/creator> <http://www.segre.com>.
+<http://omediadis.udl.cat/segre/recording/bulletin/23012007-Migdia/> <http://purl.org/dc/elements/1.1/language> "ca".
+<http://omediadis.udl.cat/segre/recording/bulletin/23012007-Migdia/> <http://www.w3.org/ns/ma-ont#hasAudioDescription> <http://omediadis.udl.cat/segre/text/bulletin/23012007-Migdia.xml>.
+<http://omediadis.udl.cat/segre/recording/bulletin/23012007-Migdia/> <http://rhizomik.net/ontologies/2009/09/copyrightonto.owl#hasInstance> <http://omediadis.udl.cat/segre/audio/bulletin/23012007-Migdia.mp3>.
+<http://omediadis.udl.cat/segre/text/bulletin/23012007-Migdia.xml> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/ma-ont#DataTrack>.
+<http://omediadis.udl.cat/segre/text/bulletin/23012007-Migdia.xml> <http://www.w3.org/2000/01/rdf-schema#label> "Transcript of Radio Bulletin 12h - January 23th 2007".
+<http://omediadis.udl.cat/segre/text/bulletin/23012007-Migdia.xml> <http://purl.org/dc/elements/1.1/title> "Transcript of Radio Bulletin 12h - January 23th 2007".
+<http://omediadis.udl.cat/segre/text/bulletin/23012007-Migdia.xml> <http://purl.org/dc/elements/1.1/creator> <http://www.segre.com>.
+<http://omediadis.udl.cat/segre/text/bulletin/23012007-Migdia.xml> <http://purl.org/dc/elements/1.1/language> "ca".
+<http://omediadis.udl.cat/segre/audio/bulletin/23012007-Migdia.mp3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/ma-ont#AudioTrack>.
+<http://omediadis.udl.cat/segre/audio/bulletin/23012007-Migdia.mp3> <http://www.w3.org/2000/01/rdf-schema#label> "MP3 Copy of Radio Bulletin 12h - January 23th 2007".
+<http://omediadis.udl.cat/segre/audio/bulletin/23012007-Migdia.mp3> <http://purl.org/dc/elements/1.1/title> "MP3 Copy of Radio Bulletin 12h - January 23th 2007".
+<http://omediadis.udl.cat/segre/audio/bulletin/23012007-Migdia.mp3> <http://purl.org/dc/elements/1.1/creator> <http://www.segre.com>.
+<http://omediadis.udl.cat/segre/audio/bulletin/23012007-Migdia.mp3> <http://purl.org/dc/elements/1.1/language> "ca".
+<http://omediadis.udl.cat/segre/audio/bulletin/23012007-Migdia.mp3> <http://purl.org/dc/elements/1.1/format> "audio/mpeg".
+<http://omediadis.udl.cat/segre/audio/bulletin/23012007-Migdia.mp3> <http://www.w3.org/ns/ma-ont#bitrate> "128".
+<http://omediadis.udl.cat/segre/audio/bulletin/23012007-Migdia.mp3> <http://www.w3.org/ns/ma-ont#duration> "PT00:06:20".
+<http://omediadis.udl.cat/segre/audio/bulletin/23012007-Migdia.mp3> <http://www.w3.org/ns/ma-ont#samplingrate> "48000".
+<http://omediadis.udl.cat/segre/radio/bulletin/23022007-Migdia/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rhizomik.net/ontologies/2009/09/copyrightonto.owl#Communication>.
+<http://omediadis.udl.cat/segre/radio/bulletin/23022007-Migdia/> <http://www.w3.org/2000/01/rdf-schema#label> "Radio Bulletin 12h - February 23th 2007".
+<http://omediadis.udl.cat/segre/radio/bulletin/23022007-Migdia/> <http://purl.org/dc/elements/1.1/title> "Radio Bulletin 12h - February 23th 2007".
+<http://omediadis.udl.cat/segre/radio/bulletin/23022007-Migdia/> <http://purl.org/dc/elements/1.1/date> "2007".
+<http://omediadis.udl.cat/segre/radio/bulletin/23022007-Migdia/> <http://purl.org/dc/elements/1.1/creator> <http://www.segre.com>.
+<http://omediadis.udl.cat/segre/radio/bulletin/23022007-Migdia/> <http://purl.org/dc/elements/1.1/language> "ca".
+<http://omediadis.udl.cat/segre/radio/bulletin/23022007-Migdia/> <http://rhizomik.net/ontologies/2009/09/copyrightonto.owl#hasRecording> <http://omediadis.udl.cat/segre/recording/bulletin/23022007-Migdia/>.
+<http://omediadis.udl.cat/segre/recording/bulletin/23022007-Migdia/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rhizomik.net/ontologies/2009/09/copyrightonto.owl#Recording>.
+<http://omediadis.udl.cat/segre/recording/bulletin/23022007-Migdia/> <http://www.w3.org/2000/01/rdf-schema#label> "Recording of Radio Bulletin 12h - February 23th 2007".
+<http://omediadis.udl.cat/segre/recording/bulletin/23022007-Migdia/> <http://purl.org/dc/elements/1.1/title> "Recording of Radio Bulletin 12h - February 23th 2007".
+<http://omediadis.udl.cat/segre/recording/bulletin/23022007-Migdia/> <http://purl.org/dc/elements/1.1/creator> <http://www.segre.com>.
+<http://omediadis.udl.cat/segre/recording/bulletin/23022007-Migdia/> <http://purl.org/dc/elements/1.1/language> "ca".
+<http://omediadis.udl.cat/segre/recording/bulletin/23022007-Migdia/> <http://www.w3.org/ns/ma-ont#hasAudioDescription> <http://omediadis.udl.cat/segre/text/bulletin/23022007-Migdia.xml>.
+<http://omediadis.udl.cat/segre/recording/bulletin/23022007-Migdia/> <http://rhizomik.net/ontologies/2009/09/copyrightonto.owl#hasInstance> <http://omediadis.udl.cat/segre/audio/bulletin/23022007-Migdia.mp3>.
+<http://omediadis.udl.cat/segre/text/bulletin/23022007-Migdia.xml> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/ma-ont#DataTrack>.
+<http://omediadis.udl.cat/segre/text/bulletin/23022007-Migdia.xml> <http://www.w3.org/2000/01/rdf-schema#label> "Transcript of Radio Bulletin 12h - February 23th 2007".
+<http://omediadis.udl.cat/segre/text/bulletin/23022007-Migdia.xml> <http://purl.org/dc/elements/1.1/title> "Transcript of Radio Bulletin 12h - February 23th 2007".
+<http://omediadis.udl.cat/segre/text/bulletin/23022007-Migdia.xml> <http://purl.org/dc/elements/1.1/creator> <http://www.segre.com>.
+<http://omediadis.udl.cat/segre/text/bulletin/23022007-Migdia.xml> <http://purl.org/dc/elements/1.1/language> "ca".
+<http://omediadis.udl.cat/segre/audio/bulletin/23022007-Migdia.mp3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/ma-ont#AudioTrack>.
+<http://omediadis.udl.cat/segre/audio/bulletin/23022007-Migdia.mp3> <http://www.w3.org/2000/01/rdf-schema#label> "MP3 Copy of Radio Bulletin 12h - February 23th 2007".
+<http://omediadis.udl.cat/segre/audio/bulletin/23022007-Migdia.mp3> <http://purl.org/dc/elements/1.1/title> "MP3 Copy of Radio Bulletin 12h - February 23th 2007".
+<http://omediadis.udl.cat/segre/audio/bulletin/23022007-Migdia.mp3> <http://purl.org/dc/elements/1.1/creator> <http://www.segre.com>.
+<http://omediadis.udl.cat/segre/audio/bulletin/23022007-Migdia.mp3> <http://purl.org/dc/elements/1.1/language> "ca".
+<http://omediadis.udl.cat/segre/audio/bulletin/23022007-Migdia.mp3> <http://purl.org/dc/elements/1.1/format> "audio/mpeg".
+<http://omediadis.udl.cat/segre/audio/bulletin/23022007-Migdia.mp3> <http://www.w3.org/ns/ma-ont#bitrate> "128".
+<http://omediadis.udl.cat/segre/audio/bulletin/23022007-Migdia.mp3> <http://www.w3.org/ns/ma-ont#duration> "PT00:10:34".
+<http://omediadis.udl.cat/segre/audio/bulletin/23022007-Migdia.mp3> <http://www.w3.org/ns/ma-ont#samplingrate> "48000".
+<http://omediadis.udl.cat/segre/radio/bulletin/24012007-Migdia/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rhizomik.net/ontologies/2009/09/copyrightonto.owl#Communication>.
+<http://omediadis.udl.cat/segre/radio/bulletin/24012007-Migdia/> <http://www.w3.org/2000/01/rdf-schema#label> "Radio Bulletin 12h - January 24th 2007".
+<http://omediadis.udl.cat/segre/radio/bulletin/24012007-Migdia/> <http://purl.org/dc/elements/1.1/title> "Radio Bulletin 12h - January 24th 2007".
+<http://omediadis.udl.cat/segre/radio/bulletin/24012007-Migdia/> <http://purl.org/dc/elements/1.1/date> "2007".
+<http://omediadis.udl.cat/segre/radio/bulletin/24012007-Migdia/> <http://purl.org/dc/elements/1.1/creator> <http://www.segre.com>.
+<http://omediadis.udl.cat/segre/radio/bulletin/24012007-Migdia/> <http://purl.org/dc/elements/1.1/language> "ca".
+<http://omediadis.udl.cat/segre/radio/bulletin/24012007-Migdia/> <http://rhizomik.net/ontologies/2009/09/copyrightonto.owl#hasRecording> <http://omediadis.udl.cat/segre/recording/bulletin/24012007-Migdia/>.
+<http://omediadis.udl.cat/segre/recording/bulletin/24012007-Migdia/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rhizomik.net/ontologies/2009/09/copyrightonto.owl#Recording>.
+<http://omediadis.udl.cat/segre/recording/bulletin/24012007-Migdia/> <http://www.w3.org/2000/01/rdf-schema#label> "Recording of Radio Bulletin 12h - January 24th 2007".
+<http://omediadis.udl.cat/segre/recording/bulletin/24012007-Migdia/> <http://purl.org/dc/elements/1.1/title> "Recording of Radio Bulletin 12h - January 24th 2007".
+<http://omediadis.udl.cat/segre/recording/bulletin/24012007-Migdia/> <http://purl.org/dc/elements/1.1/creator> <http://www.segre.com>.
+<http://omediadis.udl.cat/segre/recording/bulletin/24012007-Migdia/> <http://purl.org/dc/elements/1.1/language> "ca".
+<http://omediadis.udl.cat/segre/recording/bulletin/24012007-Migdia/> <http://www.w3.org/ns/ma-ont#hasAudioDescription> <http://omediadis.udl.cat/segre/text/bulletin/24012007-Migdia.xml>.
+<http://omediadis.udl.cat/segre/recording/bulletin/24012007-Migdia/> <http://rhizomik.net/ontologies/2009/09/copyrightonto.owl#hasInstance> <http://omediadis.udl.cat/segre/audio/bulletin/24012007-Migdia.mp3>.
+<http://omediadis.udl.cat/segre/text/bulletin/24012007-Migdia.xml> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/ma-ont#DataTrack>.
+<http://omediadis.udl.cat/segre/text/bulletin/24012007-Migdia.xml> <http://www.w3.org/2000/01/rdf-schema#label> "Transcript of Radio Bulletin 12h - January 24th 2007".
+<http://omediadis.udl.cat/segre/text/bulletin/24012007-Migdia.xml> <http://purl.org/dc/elements/1.1/title> "Transcript of Radio Bulletin 12h - January 24th 2007".
+<http://omediadis.udl.cat/segre/text/bulletin/24012007-Migdia.xml> <http://purl.org/dc/elements/1.1/creator> <http://www.segre.com>.
+<http://omediadis.udl.cat/segre/text/bulletin/24012007-Migdia.xml> <http://purl.org/dc/elements/1.1/language> "ca".
+<http://omediadis.udl.cat/segre/audio/bulletin/24012007-Migdia.mp3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/ma-ont#AudioTrack>.
+<http://omediadis.udl.cat/segre/audio/bulletin/24012007-Migdia.mp3> <http://www.w3.org/2000/01/rdf-schema#label> "MP3 Copy of Radio Bulletin 12h - January 24th 2007".
+<http://omediadis.udl.cat/segre/audio/bulletin/24012007-Migdia.mp3> <http://purl.org/dc/elements/1.1/title> "MP3 Copy of Radio Bulletin 12h - January 24th 2007".
+<http://omediadis.udl.cat/segre/audio/bulletin/24012007-Migdia.mp3> <http://purl.org/dc/elements/1.1/creator> <http://www.segre.com>.
+<http://omediadis.udl.cat/segre/audio/bulletin/24012007-Migdia.mp3> <http://purl.org/dc/elements/1.1/language> "ca".
+<http://omediadis.udl.cat/segre/audio/bulletin/24012007-Migdia.mp3> <http://purl.org/dc/elements/1.1/format> "audio/mpeg".
+<http://omediadis.udl.cat/segre/audio/bulletin/24012007-Migdia.mp3> <http://www.w3.org/ns/ma-ont#bitrate> "128".
+<http://omediadis.udl.cat/segre/audio/bulletin/24012007-Migdia.mp3> <http://www.w3.org/ns/ma-ont#duration> "PT00:12:11".
+<http://omediadis.udl.cat/segre/audio/bulletin/24012007-Migdia.mp3> <http://www.w3.org/ns/ma-ont#samplingrate> "48000".
+<http://omediadis.udl.cat/segre/radio/bulletin/28022007-Migdia/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rhizomik.net/ontologies/2009/09/copyrightonto.owl#Communication>.
+<http://omediadis.udl.cat/segre/radio/bulletin/28022007-Migdia/> <http://www.w3.org/2000/01/rdf-schema#label> "Radio Bulletin 12h - February 28th 2007".
+<http://omediadis.udl.cat/segre/radio/bulletin/28022007-Migdia/> <http://purl.org/dc/elements/1.1/title> "Radio Bulletin 12h - February 28th 2007".
+<http://omediadis.udl.cat/segre/radio/bulletin/28022007-Migdia/> <http://purl.org/dc/elements/1.1/date> "2007".
+<http://omediadis.udl.cat/segre/radio/bulletin/28022007-Migdia/> <http://purl.org/dc/elements/1.1/creator> <http://www.segre.com>.
+<http://omediadis.udl.cat/segre/radio/bulletin/28022007-Migdia/> <http://purl.org/dc/elements/1.1/language> "ca".
+<http://omediadis.udl.cat/segre/radio/bulletin/28022007-Migdia/> <http://rhizomik.net/ontologies/2009/09/copyrightonto.owl#hasRecording> <http://omediadis.udl.cat/segre/recording/bulletin/28022007-Migdia/>.
+<http://omediadis.udl.cat/segre/recording/bulletin/28022007-Migdia/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rhizomik.net/ontologies/2009/09/copyrightonto.owl#Recording>.
+<http://omediadis.udl.cat/segre/recording/bulletin/28022007-Migdia/> <http://www.w3.org/2000/01/rdf-schema#label> "Recording of Radio Bulletin 12h - February 28th 2007".
+<http://omediadis.udl.cat/segre/recording/bulletin/28022007-Migdia/> <http://purl.org/dc/elements/1.1/title> "Recording of Radio Bulletin 12h - February 28th 2007".
+<http://omediadis.udl.cat/segre/recording/bulletin/28022007-Migdia/> <http://purl.org/dc/elements/1.1/creator> <http://www.segre.com>.
+<http://omediadis.udl.cat/segre/recording/bulletin/28022007-Migdia/> <http://purl.org/dc/elements/1.1/language> "ca".
+<http://omediadis.udl.cat/segre/recording/bulletin/28022007-Migdia/> <http://www.w3.org/ns/ma-ont#hasAudioDescription> <http://omediadis.udl.cat/segre/text/bulletin/28022007-Migdia.xml>.
+<http://omediadis.udl.cat/segre/recording/bulletin/28022007-Migdia/> <http://rhizomik.net/ontologies/2009/09/copyrightonto.owl#hasInstance> <http://omediadis.udl.cat/segre/audio/bulletin/28022007-Migdia.mp3>.
+<http://omediadis.udl.cat/segre/text/bulletin/28022007-Migdia.xml> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/ma-ont#DataTrack>.
+<http://omediadis.udl.cat/segre/text/bulletin/28022007-Migdia.xml> <http://www.w3.org/2000/01/rdf-schema#label> "Transcript of Radio Bulletin 12h - February 28th 2007".
+<http://omediadis.udl.cat/segre/text/bulletin/28022007-Migdia.xml> <http://purl.org/dc/elements/1.1/title> "Transcript of Radio Bulletin 12h - February 28th 2007".
+<http://omediadis.udl.cat/segre/text/bulletin/28022007-Migdia.xml> <http://purl.org/dc/elements/1.1/creator> <http://www.segre.com>.
+<http://omediadis.udl.cat/segre/text/bulletin/28022007-Migdia.xml> <http://purl.org/dc/elements/1.1/language> "ca".
+<http://omediadis.udl.cat/segre/audio/bulletin/28022007-Migdia.mp3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/ma-ont#AudioTrack>.
+<http://omediadis.udl.cat/segre/audio/bulletin/28022007-Migdia.mp3> <http://www.w3.org/2000/01/rdf-schema#label> "MP3 Copy of Radio Bulletin 12h - February 28th 2007".
+<http://omediadis.udl.cat/segre/audio/bulletin/28022007-Migdia.mp3> <http://purl.org/dc/elements/1.1/title> "MP3 Copy of Radio Bulletin 12h - February 28th 2007".
+<http://omediadis.udl.cat/segre/audio/bulletin/28022007-Migdia.mp3> <http://purl.org/dc/elements/1.1/creator> <http://www.segre.com>.
+<http://omediadis.udl.cat/segre/audio/bulletin/28022007-Migdia.mp3> <http://purl.org/dc/elements/1.1/language> "ca".
+<http://omediadis.udl.cat/segre/audio/bulletin/28022007-Migdia.mp3> <http://purl.org/dc/elements/1.1/format> "audio/mpeg".
+<http://omediadis.udl.cat/segre/audio/bulletin/28022007-Migdia.mp3> <http://www.w3.org/ns/ma-ont#bitrate> "128".
+<http://omediadis.udl.cat/segre/audio/bulletin/28022007-Migdia.mp3> <http://www.w3.org/ns/ma-ont#duration> "PT00:06:27".
+<http://omediadis.udl.cat/segre/audio/bulletin/28022007-Migdia.mp3> <http://www.w3.org/ns/ma-ont#samplingrate> "48000".
+<http://omediadis.udl.cat/segre/radio/bulletin/29032007-Migdia/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rhizomik.net/ontologies/2009/09/copyrightonto.owl#Communication>.
+<http://omediadis.udl.cat/segre/radio/bulletin/29032007-Migdia/> <http://www.w3.org/2000/01/rdf-schema#label> "Radio Bulletin 12h - March 29th 2007".
+<http://omediadis.udl.cat/segre/radio/bulletin/29032007-Migdia/> <http://purl.org/dc/elements/1.1/title> "Radio Bulletin 12h - March 29th 2007".
+<http://omediadis.udl.cat/segre/radio/bulletin/29032007-Migdia/> <http://purl.org/dc/elements/1.1/date> "2007".
+<http://omediadis.udl.cat/segre/radio/bulletin/29032007-Migdia/> <http://purl.org/dc/elements/1.1/creator> <http://www.segre.com>.
+<http://omediadis.udl.cat/segre/radio/bulletin/29032007-Migdia/> <http://purl.org/dc/elements/1.1/language> "ca".
+<http://omediadis.udl.cat/segre/radio/bulletin/29032007-Migdia/> <http://rhizomik.net/ontologies/2009/09/copyrightonto.owl#hasRecording> <http://omediadis.udl.cat/segre/recording/bulletin/29032007-Migdia/>.
+<http://omediadis.udl.cat/segre/recording/bulletin/29032007-Migdia/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rhizomik.net/ontologies/2009/09/copyrightonto.owl#Recording>.
+<http://omediadis.udl.cat/segre/recording/bulletin/29032007-Migdia/> <http://www.w3.org/2000/01/rdf-schema#label> "Recording of Radio Bulletin 12h - March 29th 2007".
+<http://omediadis.udl.cat/segre/recording/bulletin/29032007-Migdia/> <http://purl.org/dc/elements/1.1/title> "Recording of Radio Bulletin 12h - March 29th 2007".
+<http://omediadis.udl.cat/segre/recording/bulletin/29032007-Migdia/> <http://purl.org/dc/elements/1.1/creator> <http://www.segre.com>.
+<http://omediadis.udl.cat/segre/recording/bulletin/29032007-Migdia/> <http://purl.org/dc/elements/1.1/language> "ca".
+<http://omediadis.udl.cat/segre/recording/bulletin/29032007-Migdia/> <http://www.w3.org/ns/ma-ont#hasAudioDescription> <http://omediadis.udl.cat/segre/text/bulletin/29032007-Migdia.xml>.
+<http://omediadis.udl.cat/segre/recording/bulletin/29032007-Migdia/> <http://rhizomik.net/ontologies/2009/09/copyrightonto.owl#hasInstance> <http://omediadis.udl.cat/segre/audio/bulletin/29032007-Migdia.mp3>.
+<http://omediadis.udl.cat/segre/text/bulletin/29032007-Migdia.xml> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/ma-ont#DataTrack>.
+<http://omediadis.udl.cat/segre/text/bulletin/29032007-Migdia.xml> <http://www.w3.org/2000/01/rdf-schema#label> "Transcript of Radio Bulletin 12h - March 29th 2007".
+<http://omediadis.udl.cat/segre/text/bulletin/29032007-Migdia.xml> <http://purl.org/dc/elements/1.1/title> "Transcript of Radio Bulletin 12h - March 29th 2007".
+<http://omediadis.udl.cat/segre/text/bulletin/29032007-Migdia.xml> <http://purl.org/dc/elements/1.1/creator> <http://www.segre.com>.
+<http://omediadis.udl.cat/segre/text/bulletin/29032007-Migdia.xml> <http://purl.org/dc/elements/1.1/language> "ca".
+<http://omediadis.udl.cat/segre/audio/bulletin/29032007-Migdia.mp3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/ma-ont#AudioTrack>.
+<http://omediadis.udl.cat/segre/audio/bulletin/29032007-Migdia.mp3> <http://www.w3.org/2000/01/rdf-schema#label> "MP3 Copy of Radio Bulletin 12h - March 29th 2007".
+<http://omediadis.udl.cat/segre/audio/bulletin/29032007-Migdia.mp3> <http://purl.org/dc/elements/1.1/title> "MP3 Copy of Radio Bulletin 12h - March 29th 2007".
+<http://omediadis.udl.cat/segre/audio/bulletin/29032007-Migdia.mp3> <http://purl.org/dc/elements/1.1/creator> <http://www.segre.com>.
+<http://omediadis.udl.cat/segre/audio/bulletin/29032007-Migdia.mp3> <http://purl.org/dc/elements/1.1/language> "ca".
+<http://omediadis.udl.cat/segre/audio/bulletin/29032007-Migdia.mp3> <http://purl.org/dc/elements/1.1/format> "audio/mpeg".
+<http://omediadis.udl.cat/segre/audio/bulletin/29032007-Migdia.mp3> <http://www.w3.org/ns/ma-ont#bitrate> "128".
+<http://omediadis.udl.cat/segre/audio/bulletin/29032007-Migdia.mp3> <http://www.w3.org/ns/ma-ont#duration> "PT00:06:03".
+<http://omediadis.udl.cat/segre/audio/bulletin/29032007-Migdia.mp3> <http://www.w3.org/ns/ma-ont#samplingrate> "48000".

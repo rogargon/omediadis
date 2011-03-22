@@ -5,11 +5,61 @@ import cat.udl.omediadis.annotator.metadata.MP3Metadata;
 
 public class MP3RDFWriter
 {
+	public static String writeOMediaDis(ContentMetadata metadata)
+	{
+        MP3Metadata meta = (MP3Metadata) metadata;
+        String name = meta.getFilename().substring(0, meta.getFilename().indexOf('.'));
+		String triples = 
+				"@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .\n" + 
+				"@prefix owl:	<http://www.w3.org/2002/07/owl#> .\n" + 
+				"@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .\n" + 
+				"@prefix dc:		<http://purl.org/dc/elements/1.1/> .\n" + 
+				"@prefix ical:	<http://www.w3.org/2002/12/cal/icaltzd#> .\n" + 
+				"@prefix co:		<http://rhizomik.net/ontologies/2009/09/copyrightonto.owl#> .\n" + 
+				"@prefix ma:		<http://www.w3.org/ns/ma-ont#> .\n" + 
+				"\n" + 
+				"<http://omediadis.udl.cat/segre/radio/bulletin/"+name+"/>\n" + 
+				"	rdf:type 		co:Communication ;\n" + 
+				"	rdfs:label		\""+meta.getTitle()+"\" ;\n" + 
+				"	dc:title		\""+meta.getTitle()+"\" ;\n" + 
+				"	dc:date			\""+meta.getCreateDate()+"\" ;\n" + 
+				"	dc:creator		<"+meta.getCreator()+"> ;\n" + 
+				"	dc:language 	\"ca\" ;\n" + 
+				"	co:hasRecording	<http://omediadis.udl.cat/segre/recording/bulletin/"+name+"/> .\n" + 
+				"\n" + 
+				"<http://omediadis.udl.cat/segre/recording/bulletin/"+name+"/>\n" + 
+				"	rdf:type 		co:Recording ;\n" + 
+				"	rdfs:label		\"Recording of "+meta.getTitle()+"\" ;\n" + 
+				"	dc:title		\"Recording of "+meta.getTitle()+"\" ;\n" + 
+				"	dc:creator		<"+meta.getCreator()+"> ;\n" + 
+				"	dc:language 	\"ca\" ;\n" + 
+				"	ma:hasAudioDescription	<http://omediadis.udl.cat/segre/text/bulletin/"+name+".xml> ;\n" + 
+				"	co:hasInstance	<http://omediadis.udl.cat/segre/audio/bulletin/"+name+".mp3> .\n" + 
+				"\n" + 
+				"<http://omediadis.udl.cat/segre/text/bulletin/"+name+".xml>\n" + 
+				"	rdf:type		ma:DataTrack ;\n" + 
+				"	rdfs:label		\"Transcript of "+meta.getTitle()+"\" ;\n" + 
+				"	dc:title		\"Transcript of "+meta.getTitle()+"\" ;\n" + 
+				"	dc:creator		<"+meta.getCreator()+"> ;\n" + 
+				"	dc:language 	\"ca\" .\n" + 
+				"\n" + 
+				"<http://omediadis.udl.cat/segre/audio/bulletin/"+name+".mp3>\n" + 
+				"	rdf:type		ma:AudioTrack ;\n" + 
+				"	rdfs:label		\"MP3 Copy of "+meta.getTitle()+"\" ;\n" + 
+				"	dc:title		\"MP3 Copy of "+meta.getTitle()+"\" ;\n" + 
+				"	dc:creator		<"+meta.getCreator()+"> ;\n" + 
+				"	dc:language 	\"ca\" ;\n" + 
+				"	dc:format		\"audio/mpeg\" ;\n" + 
+				"	ma:bitrate  	\""+meta.getBitRate()+"\" ;\n" + 
+				"	ma:duration 	\"PT00:"+meta.getDuration()+"\" ;\n" + 
+				"	ma:samplingrate \""+meta.getSamplingRate()+"\" .";
+		return triples;
+	}
     public static String write(ContentMetadata metadata) 
     {
         MP3Metadata mP3Metadata = (MP3Metadata) metadata;
         String rdfxml = "<?xml version='1.0'?>"+
-                "<rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:dc='http://purl.org/dc/elements/1.1/' xmlns:ma='http://www.w3.org/ns/ma-ont'>"+
+                "<rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:dc='http://purl.org/dc/elements/1.1/' xmlns:ma='http://www.w3.org/ns/ma-ont#'>"+
                     "<rdf:Description>";
                     
         rdfxml += mP3Metadata.getCreator()!=null?"<dc:creator>"+ mP3Metadata.getCreator() +"</dc:creator>":"";

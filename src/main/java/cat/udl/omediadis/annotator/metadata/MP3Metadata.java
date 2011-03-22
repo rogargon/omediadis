@@ -2,6 +2,7 @@ package cat.udl.omediadis.annotator.metadata;
 
 public class MP3Metadata extends ContentMetadata
 {
+    private String filename;
     private String contributor;
     private String creator;
     private String description;
@@ -37,6 +38,7 @@ public class MP3Metadata extends ContentMetadata
 
     public MP3Metadata() {
             super();
+            this.setFilename(null);
             this.contributor = null;
             this.creator = null;
             this.description = null;
@@ -71,7 +73,7 @@ public class MP3Metadata extends ContentMetadata
             this.numTracks = null;
     }
 
-    public MP3Metadata(String contributor,
+    public MP3Metadata(String filename, String contributor,
                     String creator, String description, String format,
                     String identifier, String language, String publisher,
                     String relationLink, String relationApic, String keyword, String title, String titleAlbum,
@@ -81,6 +83,7 @@ public class MP3Metadata extends ContentMetadata
                     String targetAudience, String locator, String samplingRate, String frameRate,
                     String bitRate, String numTracks) {
             super();
+            this.filename = filename;
             this.contributor = contributor;
             this.creator = creator;
             this.description = description;
@@ -339,7 +342,7 @@ public class MP3Metadata extends ContentMetadata
     }
 
     public String getSamplingRate() {
-            return locator;
+            return samplingRate;
     }
 
     public void setSamplingRate(String samplingRate) {
@@ -369,4 +372,12 @@ public class MP3Metadata extends ContentMetadata
     public void setNumTracks(String numTracks) {
             this.numTracks = numTracks;
     }
+
+	public void setFilename(String filename) {
+		this.filename = filename;
+	}
+
+	public String getFilename() {
+		return filename;
+	}
 }

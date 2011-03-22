@@ -83,18 +83,24 @@ public class AnnotatorService extends HttpServlet
         File[] files = {fod};
         if (fod.isDirectory())
         	files = fod.listFiles();
-        	
+        
+        File w = new File(fod, "omediadis-demo.ttl");
+        BufferedWriter bw = new BufferedWriter(new FileWriter(w));
+		
         for (File f: files) 
         {
-        	String contenttype = "audio/mp3";
-			Reader reader = Reader.getReader(contenttype);
-			ContentMetadata metadata = reader.readMetadata(f);
-			String rdfxml = MP3RDFWriter.write(metadata);
-
-			System.out.println(rdfxml);
-			//FileWriter fw = new FileWriter(new File(f.getParent(), f.getName()+".rdf"));
-			//BufferedWriter bw = new BufferedWriter(fw);
-			//bw.write(rdfxml);
+			try 
+			{
+				String contenttype = "audio/mp3";
+				Reader reader = Reader.getReader(contenttype);
+				ContentMetadata metadata;
+				metadata = reader.readMetadata(f);
+				String triples = MP3RDFWriter.writeOMediaDis(metadata);
+				bw.write(triples);
+			} catch (Exception e) {
+				System.out.println(e);
+			}
 		}
+        bw.close();
 	}
 }

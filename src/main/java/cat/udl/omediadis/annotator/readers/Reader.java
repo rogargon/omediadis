@@ -18,7 +18,7 @@ public abstract class Reader
         return reader;
     }
     
-    public abstract ContentMetadata readMetadata(File f);
+    public abstract ContentMetadata readMetadata(File f) throws Exception;
 
     public abstract ContentMetadata readMetadata(FileItem item);
 }
