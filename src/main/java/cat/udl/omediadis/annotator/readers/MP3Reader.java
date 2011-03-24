@@ -32,7 +32,6 @@ public class MP3Reader extends Reader
 			readMetadata(tmp);
 		} 
 		catch (Exception e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 		

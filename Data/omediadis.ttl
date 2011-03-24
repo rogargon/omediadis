@@ -1,0 +1,558 @@
+# Dump of graph <http://omediadis.udl.cat/>, as of 2011-03-22 23:15:55.000002
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix ns1:	<http://swrc.ontoware.org/ontology#> .
+<http://www.cretesos.udl.cat/pub/015683/>	rdf:type	ns1:Article .
+<http://www.cretesos.udl.cat/pub/015682/>	rdf:type	ns1:Article .
+<http://www.cretesos.udl.cat/pub/014413/>	rdf:type	ns1:Article .
+<http://www.cretesos.udl.cat/pub/013599/>	rdf:type	ns1:Article .
+<http://www.cretesos.udl.cat/pub/015681/>	rdf:type	ns1:Article .
+<http://www.cretesos.udl.cat/pub/015189/>	rdf:type	ns1:Article .
+<http://www.cretesos.udl.cat/pub/014449/>	rdf:type	ns1:Article .
+<http://www.cretesos.udl.cat/pub/016099/>	rdf:type	ns1:Article .
+<http://www.cretesos.udl.cat/pub/013173/>	rdf:type	ns1:InBook .
+<http://www.cretesos.udl.cat/pub/013769/>	rdf:type	ns1:InBook .
+<http://www.cretesos.udl.cat/pub/013768/>	rdf:type	ns1:InBook .
+<http://www.cretesos.udl.cat/pub/013681/>	rdf:type	ns1:InBook .
+<http://www.cretesos.udl.cat/pub/012606/>	rdf:type	ns1:InBook .
+<http://www.cretesos.udl.cat/pub/013720/>	rdf:type	ns1:InBook .
+<http://www.cretesos.udl.cat/book/978-84-934256.8-5/>	rdf:type	ns1:Book .
+<http://www.cretesos.udl.cat/book/978-2-87037-682-9/>	rdf:type	ns1:Book .
+<http://www.cretesos.udl.cat/book/978-1-4503-0014-8/>	rdf:type	ns1:Book .
+<http://www.cretesos.udl.cat/book/978-958-44-7281-6/>	rdf:type	ns1:Book .
+<http://www.cretesos.udl.cat/book/978-3-642-04408-3/>	rdf:type	ns1:Book .
+<http://www.cretesos.udl.cat/book/978-84-693-1781-5/>	rdf:type	ns1:Book .
+<http://www.cretesos.udl.cat/journal/1867-5662/>	rdf:type	ns1:Journal .
+<http://www.cretesos.udl.cat/journal/0948-695X/>	rdf:type	ns1:Journal .
+<http://www.cretesos.udl.cat/journal/1386-6710/>	rdf:type	ns1:Journal .
+<http://www.cretesos.udl.cat/journal/1657-7663/>	rdf:type	ns1:Journal .
+<http://www.cretesos.udl.cat/journal/1386-145X/>	rdf:type	ns1:Journal .
+<http://www.cretesos.udl.cat/journal/0965-9978/>	rdf:type	ns1:Journal .
+<http://www.cretesos.udl.cat/journal/1752-6124/>	rdf:type	ns1:Journal .
+<http://www.cretesos.udl.cat/journal/1751-8806/>	rdf:type	ns1:Journal .
+<http://www.cretesos.udl.cat/journal/1135-3716/>	rdf:type	ns1:Journal .
+<http://omediadis.udl.cat/deliverables/218-Sistemas_Recomendacion_Contenidos_Multimedia/>	rdf:type	ns1:Report .
+<http://omediadis.udl.cat/deliverables/215-Modelos_Metadatos_Contenidos_Multimedia/>	rdf:type	ns1:Report .
+<http://omediadis.udl.cat/deliverables/212-Accesibilidad_Sistemas_Gestion_Contenidos_Multimedia/>	rdf:type	ns1:Report .
+<http://omediadis.udl.cat/deliverables/2110-Interfaces_Basadas_Modelos_Semanticos/>	rdf:type	ns1:Report .
+<http://omediadis.udl.cat/deliverables/216-Anotacion_Contenidos_Multimedia/>	rdf:type	ns1:Report .
+<http://omediadis.udl.cat/deliverables/219-Accesibilidad_y_Web_Semantica/>	rdf:type	ns1:Report .
+<http://omediadis.udl.cat/deliverables/213-Web_Semantica_y_DRM/>	rdf:type	ns1:Report .
+<http://omediadis.udl.cat/deliverables/214-Watermarking_y_Fingerprinting/>	rdf:type	ns1:Report .
+<http://omediadis.udl.cat/deliverables/217-Busqueda_Contenidos_Multimedia/>	rdf:type	ns1:Report .
+<http://omediadis.udl.cat/deliverables/2111-Patrones_Interaccion_Web_Semantica/>	rdf:type	ns1:Report .
+<http://omediadis.udl.cat/deliverables/211-Sistemas_Gestion_Contenidos_Multimedia/>	rdf:type	ns1:Report .
+<http://omediadis.udl.cat/deliverables/411-Modulo_Carga_Conenidos/>	rdf:type	ns1:Report .
+<http://omediadis.udl.cat/deliverables/421-Modulo_Busqueda_Conenidos/>	rdf:type	ns1:Report .
+<http://omediadis.udl.cat/deliverables/431-Ontologia_Usuarios/>	rdf:type	ns1:Report .
+<http://omediadis.udl.cat/deliverables/432-Integracion_Metadatos_Usuarios/>	rdf:type	ns1:Report .
+<http://omediadis.udl.cat/deliverables/433-Modulo_Recomendacion/>	rdf:type	ns1:Report .
+<http://omediadis.udl.cat/deliverables/516-Evaluacion_Interfaz_Generica_2/>	rdf:type	ns1:Report .
+<http://omediadis.udl.cat/deliverables/515-Interfaz_Generica_2/>	rdf:type	ns1:Report .
+<http://omediadis.udl.cat/deliverables/321-Adaptacion_Ontologia_Copyright/>	rdf:type	ns1:Report .
+<http://omediadis.udl.cat/deliverables/322-Ontologia_Creative_Commons/>	rdf:type	ns1:Report .
+<http://omediadis.udl.cat/deliverables/323-Modulo_SemDRMS_1/>	rdf:type	ns1:Report .
+<http://omediadis.udl.cat/deliverables/311-Seleccion_Esquemas_Metadatos/>	rdf:type	ns1:Report .
+<http://omediadis.udl.cat/deliverables/312-Analisis_Repositorios_Semanticos/>	rdf:type	ns1:Report .
+@prefix ns2:	<http://purl.org/rss/1.0/> .
+<http://omediadis.udl.cat/blog/2010/01/25/omediadis-first-prototype/>	rdf:type	ns2:item .
+<http://omediadis.udl.cat/blog/2000/01/01/omediadis-kickoff/>	rdf:type	ns2:item .
+<http://omediadis.udl.cat/blog/2010/11/30/OMediaDis_publishes_Deliverable_516/>	rdf:type	ns2:item .
+@prefix ns3:	<http://omediadis.udl.cat/blog/2011/03/24/> .
+ns3:project_review	rdf:type	ns2:item .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+<http://omediadis.udl.cat/blog/2010/01/25/omediadis-first-prototype/>	rdfs:label	"OMediaDis first prototype" .
+<http://omediadis.udl.cat/blog/2000/01/01/omediadis-kickoff/>	rdfs:label	"OMediaDis Kick-off" .
+<http://www.cretesos.udl.cat/person/GilR/>	rdfs:label	"Gil, R." .
+<http://www.cretesos.udl.cat/person/GarciaR/>	rdfs:label	"Garc\u00EDa, R." .
+<http://www.cretesos.udl.cat/person/PerdrixF/>	rdfs:label	"Perdrix, F." .
+<http://www.cretesos.udl.cat/person/OlivaM/>	rdfs:label	"Oliva, M." .
+<http://www.cretesos.udl.cat/person/GimenoJM/>	rdfs:label	"Gimeno, J.M." .
+<http://www.cretesos.udl.cat/person/GranollersT/>	rdfs:label	"Granollers, T." .
+<http://www.cretesos.udl.cat/person/LopezJM/>	rdfs:label	"L\u00F3pez, J.M." .
+<http://www.cretesos.udl.cat/person/PascualA/>	rdfs:label	"Pascual, A." .
+<http://www.cretesos.udl.cat/pub/015681/>	rdfs:label	"A Semantic Wiki for Quality Management in Software Development Projects" .
+<http://www.cretesos.udl.cat/pub/013769/>	rdfs:label	"Controlled Natural Language rendering of Copyright Ontology licenses" .
+<http://www.cretesos.udl.cat/book/978-2-87037-682-9/>	rdfs:label	"Proceedings of the 8th International Workshop for Technical, Economic and Legal Aspects of Business Models for Virtual Goods" .
+<http://www.cretesos.udl.cat/pub/015683/>	rdfs:label	"Hacia la arquitectura de la informaci\u00F3n 3.0: pasado, presente y futuro" .
+<http://www.cretesos.udl.cat/person/BotellaF/>	rdfs:label	"Botella, F." .
+<http://www.cretesos.udl.cat/person/MarcosMC/>	rdfs:label	"Marcos, M.C." .
+<http://www.cretesos.udl.cat/journal/1386-6710/>	rdfs:label	"Profesional de la Informacion" .
+<http://www.cretesos.udl.cat/pub/015682/>	rdfs:label	"An\u00E1lisis de la arquitectura de webs mediante tests de estr\u00E9s de navegaci\u00F3n, de usabilidad y eye-tracking" .
+<http://www.cretesos.udl.cat/person/Aleixandre-BenaventR/>	rdfs:label	"Aleixandre-Benavent, R." .
+<http://www.cretesos.udl.cat/person/Navarro-MolinaC/>	rdfs:label	"Navarro-Molina, C." .
+<http://www.cretesos.udl.cat/person/RiberaM/>	rdfs:label	"Ribera, M." .
+<http://www.cretesos.udl.cat/person/MasipL/>	rdfs:label	"Masip, L." .
+<http://www.cretesos.udl.cat/pub/013768/>	rdfs:label	"Triplificating and linking XBRL financial data" .
+<http://www.cretesos.udl.cat/book/978-1-4503-0014-8/>	rdfs:label	"Proceedings of the 6th International Conference on Semantic Systems, I-SEMANTICS'10" .
+<http://www.cretesos.udl.cat/pub/014413/>	rdfs:label	"Building a Usable and Accessible Semantic Web Interaction Platform" .
+<http://www.cretesos.udl.cat/person/SendinM/>	rdfs:label	"Send\u00EDn, M." .
+<http://www.cretesos.udl.cat/journal/1386-145X/>	rdfs:label	"World Wide Web-Internet And Web Information Systems" .
+<http://www.cretesos.udl.cat/person/EzeizaA/>	rdfs:label	"Ezeiza, A." .
+<http://www.cretesos.udl.cat/person/CondeA/>	rdfs:label	"Conde, A." .
+<http://www.cretesos.udl.cat/person/LopezK/>	rdfs:label	"L\u00F3pez, K." .
+<http://www.cretesos.udl.cat/person/LarranagaM/>	rdfs:label	"Larra\u00F1aga, M." .
+<http://www.cretesos.udl.cat/person/ElorriagaJA/>	rdfs:label	"Elorriaga, J.A." .
+<http://www.cretesos.udl.cat/person/IrigoyenE/>	rdfs:label	"Irigoyen, E." .
+<http://www.cretesos.udl.cat/person/Garay-VitoriaN/>	rdfs:label	"Garay-Vitoria, N." .
+<http://www.cretesos.udl.cat/person/RubioJ/>	rdfs:label	"Rubio, J." .
+<http://www.cretesos.udl.cat/journal/1867-5662/>	rdfs:label	"Advances in Intelligent and Soft Computing" .
+<http://www.cretesos.udl.cat/journal/0948-695X/>	rdfs:label	"Journal Of Universal Computer Science" .
+<http://www.cretesos.udl.cat/journal/1657-7663/>	rdfs:label	"Avances en sistemas e inform\u00E1tica" .
+<http://www.cretesos.udl.cat/journal/0965-9978/>	rdfs:label	"Advances in Engineering Software" .
+<http://www.cretesos.udl.cat/pub/013599/>	rdfs:label	"Contributions of Dichotomic View of Plasticity to Seamlessly Embed Accessibility and Adaptivity Support in User Interfaces" .
+<http://www.cretesos.udl.cat/journal/1752-6124/>	rdfs:label	"International Journal of Social and Humanistic Computing" .
+<http://www.cretesos.udl.cat/journal/1751-8806/>	rdfs:label	"Iet Software" .
+<http://www.cretesos.udl.cat/pub/012606/>	rdfs:label	"Engineering Accessibility in Web Content Management System Environments" .
+<http://www.cretesos.udl.cat/pub/015189/>	rdfs:label	"Estudio de la accesibilidad en software navegaci\u00F3n web" .
+<http://www.cretesos.udl.cat/person/ComellaI/>	rdfs:label	"Comella, I." .
+<http://www.cretesos.udl.cat/pub/014449/>	rdfs:label	"Evaluaci\u00F3n de usabilidad y accesibilidad de un conjunto de dispositivos interactivos denominados Puntos de Informaci\u00F3n Ciudadana" .
+<http://www.cretesos.udl.cat/journal/1135-3716/>	rdfs:label	"Scire: representaci\u00F3n y organizaci\u00F3n del conocimiento" .
+<http://www.cretesos.udl.cat/person/AmanteB/>	rdfs:label	"Amante, B." .
+<http://www.cretesos.udl.cat/pub/013173/>	rdfs:label	"Towards human-centred design in industrial automation systems" .
+<http://www.cretesos.udl.cat/person/VilanovaR/>	rdfs:label	"Vilanova, R." .
+<http://www.cretesos.udl.cat/person/PonsaP/>	rdfs:label	"Ponsa, P." .
+<http://www.cretesos.udl.cat/book/978-84-934256.8-5/>	rdfs:label	"Proceedings ORP'2010 Creating Value Through Risk Prevention Management. VIII International conference on Occupational Risk Prevention" .
+<http://www.cretesos.udl.cat/person/MendezY/>	rdfs:label	"M\u00E9ndez, Y." .
+<http://www.cretesos.udl.cat/pub/013681/>	rdfs:label	"Formalizaci\u00F3n del proceso colaborativo de evaluaci\u00F3n de usabilidad" .
+<http://www.cretesos.udl.cat/book/978-958-44-7281-6/>	rdfs:label	"Actas de la Conferencia LatinoAmericana de Medios Audiovisuales en Red" .
+<http://www.cretesos.udl.cat/book/978-3-642-04408-3/>	rdfs:label	"Web Information Systems Engineering - WISE 2009" .
+<http://www.cretesos.udl.cat/pub/013720/>	rdfs:label	"Gu\u00EDas de contenido digital accesible" .
+<http://www.cretesos.udl.cat/person/LopezJ/>	rdfs:label	"L\u00F3pez, J." .
+<http://www.cretesos.udl.cat/book/978-84-693-1781-5/>	rdfs:label	"25 A\u00F1os de Integraci\u00F3n Escolar en Espa\u00F1a: Tecnolog\u00EDa e Inclusi\u00F3n en el \u00E1mbito educativo, laboral y comunitario" .
+<http://omediadis.udl.cat/deliverables/2111-Patrones_Interaccion_Web_Semantica/>	rdfs:label	"2.1.11 - Informe Patrones Interacci\u00F3n Web Sem\u00E1ntica" .
+<http://omediadis.udl.cat/deliverables/219-Accesibilidad_y_Web_Semantica/>	rdfs:label	"2.1.9 - Informe Accesibilidad y Web Sem\u00E1ntica" .
+<http://omediadis.udl.cat/deliverables/216-Anotacion_Contenidos_Multimedia/>	rdfs:label	"2.1.6 - Informe Anotaci\u00F3n Contenidos Multimedia" .
+<http://omediadis.udl.cat/deliverables/211-Sistemas_Gestion_Contenidos_Multimedia/>	rdfs:label	"2.1.1 - Informe Sistemas Gesti\u00F3n Contenidos Multimedia" .
+<http://omediadis.udl.cat/deliverables/2110-Interfaces_Basadas_Modelos_Semanticos/>	rdfs:label	"2.1.10 - Informe Interfaces Basadas Modelos Sem\u00E1nticos" .
+<http://omediadis.udl.cat/deliverables/217-Busqueda_Contenidos_Multimedia/>	rdfs:label	"2.1.7 - Informe Sistemas B\u00FAsqueda Contenidos Multimedia" .
+<http://omediadis.udl.cat/deliverables/218-Sistemas_Recomendacion_Contenidos_Multimedia/>	rdfs:label	"2.1.8 - Informe Sistemas Recomendaci\u00F3n Contenidos Multimedia" .
+<http://omediadis.udl.cat/deliverables/213-Web_Semantica_y_DRM/>	rdfs:label	"2.1.3 - Informe Web Sem\u00E1ntica y DRM" .
+<http://omediadis.udl.cat/deliverables/214-Watermarking_y_Fingerprinting/>	rdfs:label	"2.1.4 - Informe Watermarking y Fingerprinting" .
+<http://omediadis.udl.cat/deliverables/215-Modelos_Metadatos_Contenidos_Multimedia/>	rdfs:label	"2.1.5 - Informe Modelos Metadatos Contenidos Multimedia" .
+<http://omediadis.udl.cat/deliverables/212-Accesibilidad_Sistemas_Gestion_Contenidos_Multimedia/>	rdfs:label	"2.1.2 - Informe Accesibilidad Sistemas Gesti\u00F3n Contenidos Multimedia" .
+<http://omediadis.udl.cat/deliverables/321-Adaptacion_Ontologia_Copyright/>	rdfs:label	"3.2.1 - Adaptaci\u00F3n Ontolog\u00EDa Copyright" .
+<http://omediadis.udl.cat/deliverables/322-Ontologia_Creative_Commons/>	rdfs:label	"3.2.2 - Ontolog\u00EDa Creative Commons" .
+<http://omediadis.udl.cat/deliverables/323-Modulo_SemDRMS_1/>	rdfs:label	"3.2.3 - M\u00F3dulo SemDRMS 1.0" .
+<http://www.cretesos.udl.cat/pub/016099/>	rdfs:label	"Multi-Purpose Infrastructure for Delivering and Supporting Mobile Context-Aware Applications" .
+ns3:project_review	rdfs:label	"OMediaDis Review" .
+<http://omediadis.udl.cat/deliverables/311-Seleccion_Esquemas_Metadatos/>	rdfs:label	"3.1.1 - Selecci\u00F3n Esquemas Metadatos" .
+<http://omediadis.udl.cat/deliverables/312-Analisis_Repositorios_Semanticos/>	rdfs:label	"3.1.2 - An\u00E1lisis Repositorios Sem\u00E1nticos" .
+<http://omediadis.udl.cat/deliverables/411-Modulo_Carga_Conenidos/>	rdfs:label	"4.1.1 - M\u00F3dulo de Carga de Contenidos" .
+<http://omediadis.udl.cat/deliverables/421-Modulo_Busqueda_Conenidos/>	rdfs:label	"4.2.1 \u2013 M\u00F3dulo de B\u00FAsqueda de Contenidos" .
+<http://omediadis.udl.cat/deliverables/431-Ontologia_Usuarios/>	rdfs:label	"4.3.1 \u2013 Ontolog\u00EDa de Usuarios" .
+<http://omediadis.udl.cat/deliverables/432-Integracion_Metadatos_Usuarios/>	rdfs:label	"4.3.2 \u2013 Integraci\u00F3n de Metadatos de Usuario" .
+<http://omediadis.udl.cat/deliverables/433-Modulo_Recomendacion/>	rdfs:label	"4.3.3 \u2013 M\u00F3dulo de Recomendaci\u00F3n 1.0" .
+<http://omediadis.udl.cat/deliverables/516-Evaluacion_Interfaz_Generica_2/>	rdfs:label	"5.1.6 \u2013 Evaluaci\u00F3n Interfaz Gen\u00E9rica 2.0" .
+<http://omediadis.udl.cat/deliverables/515-Interfaz_Generica_2/>	rdfs:label	"5.1.5 \u2013 Interfaz Gen\u00E9rica 2.0" .
+<http://omediadis.udl.cat/blog/2010/11/30/OMediaDis_publishes_Deliverable_516/>	rdfs:label	"OMediaDis publishes Deliverable 5.1.6" .
+<b643079>	rdf:first	<http://www.cretesos.udl.cat/person/GilR/> .
+<b643094>	rdf:first	<http://www.cretesos.udl.cat/person/GilR/> .
+<>	rdf:first	<http://www.cretesos.udl.cat/person/GilR/> .
+<>	rdf:first	<http://www.cretesos.udl.cat/person/GilR/> .
+<b643055>	rdf:first	<http://www.cretesos.udl.cat/person/GarciaR/> .
+<b643057>	rdf:first	<http://www.cretesos.udl.cat/person/GarciaR/> .
+<b643059>	rdf:first	<http://www.cretesos.udl.cat/person/GarciaR/> .
+<b643073>	rdf:first	<http://www.cretesos.udl.cat/person/GarciaR/> .
+<>	rdf:first	<http://www.cretesos.udl.cat/person/GarciaR/> .
+<>	rdf:first	<http://www.cretesos.udl.cat/person/GarciaR/> .
+<b643092>	rdf:first	<http://www.cretesos.udl.cat/person/GranollersT/> .
+<b643096>	rdf:first	<http://www.cretesos.udl.cat/person/GranollersT/> .
+<>	rdf:first	<http://www.cretesos.udl.cat/person/GranollersT/> .
+<>	rdf:first	<http://www.cretesos.udl.cat/person/GranollersT/> .
+<>	rdf:first	<http://www.cretesos.udl.cat/person/GranollersT/> .
+<>	rdf:first	<http://www.cretesos.udl.cat/person/GranollersT/> .
+<b643075>	rdf:first	<http://www.cretesos.udl.cat/person/SendinM/> .
+<>	rdf:first	<http://www.cretesos.udl.cat/person/SendinM/> .
+<>	rdf:first	<http://www.cretesos.udl.cat/person/SendinM/> .
+<b643056>	rdf:first	<http://www.cretesos.udl.cat/person/LopezJM/> .
+<b643060>	rdf:first	<http://www.cretesos.udl.cat/person/LopezJM/> .
+<b643066>	rdf:first	<http://www.cretesos.udl.cat/person/LopezJM/> .
+<b643077>	rdf:first	<http://www.cretesos.udl.cat/person/LopezJM/> .
+<b643082>	rdf:first	<http://www.cretesos.udl.cat/person/LopezJM/> .
+<b643091>	rdf:first	<http://www.cretesos.udl.cat/person/LopezJM/> .
+<>	rdf:first	<http://www.cretesos.udl.cat/person/LopezJM/> .
+<>	rdf:first	<http://www.cretesos.udl.cat/person/LopezJM/> .
+<>	rdf:first	<http://www.cretesos.udl.cat/person/LopezJM/> .
+<b643063>	rdf:first	<http://www.cretesos.udl.cat/person/EzeizaA/> .
+<b643084>	rdf:first	<http://www.cretesos.udl.cat/person/EzeizaA/> .
+<b643054>	rdf:first	<http://www.cretesos.udl.cat/person/CondeA/> .
+<b643058>	rdf:first	<http://www.cretesos.udl.cat/person/CondeA/> .
+<b643069>	rdf:first	<http://www.cretesos.udl.cat/person/LopezK/> .
+<b643088>	rdf:first	<http://www.cretesos.udl.cat/person/LopezK/> .
+<b643068>	rdf:first	<http://www.cretesos.udl.cat/person/LarranagaM/> .
+<b643087>	rdf:first	<http://www.cretesos.udl.cat/person/LarranagaM/> .
+<b643067>	rdf:first	<http://www.cretesos.udl.cat/person/ElorriagaJA/> .
+<b643065>	rdf:first	<http://www.cretesos.udl.cat/person/IrigoyenE/> .
+<b643085>	rdf:first	<http://www.cretesos.udl.cat/person/IrigoyenE/> .
+<b643064>	rdf:first	<http://www.cretesos.udl.cat/person/Garay-VitoriaN/> .
+<b643086>	rdf:first	<http://www.cretesos.udl.cat/person/Garay-VitoriaN/> .
+<b643062>	rdf:first	<http://www.cretesos.udl.cat/person/RubioJ/> .
+<b643083>	rdf:first	<http://www.cretesos.udl.cat/person/RubioJ/> .
+<b643076>	rdf:first	<http://www.cretesos.udl.cat/person/PascualA/> .
+<b643089>	rdf:first	<http://www.cretesos.udl.cat/person/PascualA/> .
+<>	rdf:first	<http://www.cretesos.udl.cat/person/PascualA/> .
+<>	rdf:first	<http://www.cretesos.udl.cat/person/PascualA/> .
+<b643061>	rdf:first	<http://www.cretesos.udl.cat/person/OlivaM/> .
+<b643078>	rdf:first	<http://www.cretesos.udl.cat/person/OlivaM/> .
+<b643090>	rdf:first	<http://www.cretesos.udl.cat/person/OlivaM/> .
+<>	rdf:first	<http://www.cretesos.udl.cat/person/CollazosC/> .
+<b643071>	rdf:first	<http://www.cretesos.udl.cat/person/BotellaF/> .
+<b643070>	rdf:first	<http://www.cretesos.udl.cat/person/MarcosMC/> .
+<b643072>	rdf:first	<http://www.cretesos.udl.cat/person/Aleixandre-BenaventR/> .
+<b643074>	rdf:first	<http://www.cretesos.udl.cat/person/Navarro-MolinaC/> .
+<b643081>	rdf:first	<http://www.cretesos.udl.cat/person/GimenoJM/> .
+<b643093>	rdf:first	<http://www.cretesos.udl.cat/person/GimenoJM/> .
+<b643080>	rdf:first	<http://www.cretesos.udl.cat/person/PerdrixF/> .
+<b643097>	rdf:first	<http://www.cretesos.udl.cat/person/MasipL/> .
+<>	rdf:first	<http://www.cretesos.udl.cat/person/MasipL/> .
+<b643095>	rdf:first	<http://www.cretesos.udl.cat/person/ComellaI/> .
+<>	rdf:first	<http://www.cretesos.udl.cat/person/AmanteB/> .
+<>	rdf:first	<http://www.cretesos.udl.cat/person/VilanovaR/> .
+<>	rdf:first	<http://www.cretesos.udl.cat/person/PonsaP/> .
+<>	rdf:first	<http://www.cretesos.udl.cat/person/MendezY/> .
+<>	rdf:first	<http://www.cretesos.udl.cat/person/RiberaM/> .
+<>	rdf:first	<http://www.cretesos.udl.cat/person/LopezJ/> .
+<b643062>	rdf:rest	rdf:nil .
+<b643070>	rdf:rest	rdf:nil .
+<b643072>	rdf:rest	rdf:nil .
+<b643075>	rdf:rest	rdf:nil .
+<b643082>	rdf:rest	rdf:nil .
+<b643089>	rdf:rest	rdf:nil .
+<b643095>	rdf:rest	rdf:nil .
+<b643096>	rdf:rest	rdf:nil .
+<>	rdf:rest	rdf:nil .
+<>	rdf:rest	rdf:nil .
+<>	rdf:rest	rdf:nil .
+<>	rdf:rest	rdf:nil .
+<>	rdf:rest	rdf:nil .
+<>	rdf:rest	rdf:nil .
+<>	rdf:rest	rdf:nil .
+<>	rdf:rest	rdf:nil .
+<b643063>	rdf:rest	<b643062> .
+<b643064>	rdf:rest	<b643063> .
+<b643065>	rdf:rest	<b643064> .
+<b643066>	rdf:rest	<b643065> .
+<b643067>	rdf:rest	<b643066> .
+<b643068>	rdf:rest	<b643067> .
+<b643069>	rdf:rest	<b643068> .
+<b643054>	rdf:rest	<b643069> .
+<b643071>	rdf:rest	<b643070> .
+<b643055>	rdf:rest	<b643071> .
+<b643073>	rdf:rest	<b643072> .
+<b643074>	rdf:rest	<b643073> .
+<b643056>	rdf:rest	<b643074> .
+<b643076>	rdf:rest	<b643075> .
+<b643077>	rdf:rest	<b643076> .
+<b643078>	rdf:rest	<b643077> .
+<b643079>	rdf:rest	<b643078> .
+<b643080>	rdf:rest	<b643079> .
+<b643081>	rdf:rest	<b643080> .
+<b643057>	rdf:rest	<b643081> .
+<b643083>	rdf:rest	<b643082> .
+<b643084>	rdf:rest	<b643083> .
+<b643085>	rdf:rest	<b643084> .
+<b643086>	rdf:rest	<b643085> .
+<b643087>	rdf:rest	<b643086> .
+<b643088>	rdf:rest	<b643087> .
+<b643058>	rdf:rest	<b643088> .
+<b643090>	rdf:rest	<b643089> .
+<b643091>	rdf:rest	<b643090> .
+<b643092>	rdf:rest	<b643091> .
+<b643093>	rdf:rest	<b643092> .
+<b643094>	rdf:rest	<b643093> .
+<b643059>	rdf:rest	<b643094> .
+<b643060>	rdf:rest	<b643095> .
+<b643097>	rdf:rest	<b643096> .
+<b643061>	rdf:rest	<b643097> .
+<>	rdf:rest	<> .
+<>	rdf:rest	<> .
+<>	rdf:rest	<> .
+<>	rdf:rest	<> .
+<>	rdf:rest	<> .
+<>	rdf:rest	<> .
+<>	rdf:rest	<> .
+<>	rdf:rest	<> .
+<>	rdf:rest	<> .
+<>	rdf:rest	<> .
+<>	rdf:rest	<> .
+<>	rdf:rest	<> .
+<>	rdf:rest	<> .
+<>	rdf:rest	<> .
+<>	rdf:rest	<> .
+@prefix dc:	<http://purl.org/dc/elements/1.1/> .
+<http://omediadis.udl.cat/deliverables/431-Ontologia_Usuarios/>	dc:date	"2010-02-28" .
+<http://omediadis.udl.cat/deliverables/321-Adaptacion_Ontologia_Copyright/>	dc:date	"2009-09-30" .
+<http://omediadis.udl.cat/blog/2000/01/01/omediadis-kickoff/>	dc:date	"2009-01-01" .
+<http://omediadis.udl.cat/deliverables/411-Modulo_Carga_Conenidos/>	dc:date	"2009-12-31" .
+<http://omediadis.udl.cat/deliverables/322-Ontologia_Creative_Commons/>	dc:date	"2009-12-31" .
+<http://omediadis.udl.cat/deliverables/218-Sistemas_Recomendacion_Contenidos_Multimedia/>	dc:date	"2009-07-31" .
+<http://omediadis.udl.cat/deliverables/215-Modelos_Metadatos_Contenidos_Multimedia/>	dc:date	"2009-07-31" .
+<http://omediadis.udl.cat/deliverables/212-Accesibilidad_Sistemas_Gestion_Contenidos_Multimedia/>	dc:date	"2009-07-31" .
+<http://omediadis.udl.cat/deliverables/2110-Interfaces_Basadas_Modelos_Semanticos/>	dc:date	"2009-07-31" .
+<http://omediadis.udl.cat/deliverables/216-Anotacion_Contenidos_Multimedia/>	dc:date	"2009-07-31" .
+<http://omediadis.udl.cat/deliverables/219-Accesibilidad_y_Web_Semantica/>	dc:date	"2009-07-31" .
+<http://omediadis.udl.cat/deliverables/213-Web_Semantica_y_DRM/>	dc:date	"2009-07-31" .
+<http://omediadis.udl.cat/deliverables/214-Watermarking_y_Fingerprinting/>	dc:date	"2009-07-31" .
+<http://omediadis.udl.cat/deliverables/217-Busqueda_Contenidos_Multimedia/>	dc:date	"2009-07-31" .
+<http://omediadis.udl.cat/deliverables/2111-Patrones_Interaccion_Web_Semantica/>	dc:date	"2009-07-31" .
+<http://omediadis.udl.cat/deliverables/211-Sistemas_Gestion_Contenidos_Multimedia/>	dc:date	"2009-07-31" .
+<http://omediadis.udl.cat/deliverables/312-Analisis_Repositorios_Semanticos/>	dc:date	"2009-10-31" .
+<http://omediadis.udl.cat/deliverables/421-Modulo_Busqueda_Conenidos/>	dc:date	"2010-01-31" .
+<http://omediadis.udl.cat/deliverables/311-Seleccion_Esquemas_Metadatos/>	dc:date	"2009-08-31" .
+<http://omediadis.udl.cat/deliverables/433-Modulo_Recomendacion/>	dc:date	"2010-06-30" .
+<http://omediadis.udl.cat/deliverables/323-Modulo_SemDRMS_1/>	dc:date	"2010-06-30" .
+<http://www.cretesos.udl.cat/pub/013599/>	dc:date	"2009" .
+<http://www.cretesos.udl.cat/pub/012606/>	dc:date	"2009" .
+<http://www.cretesos.udl.cat/pub/015683/>	dc:date	"2010" .
+<http://www.cretesos.udl.cat/pub/015682/>	dc:date	"2010" .
+<http://www.cretesos.udl.cat/pub/014413/>	dc:date	"2010" .
+<http://www.cretesos.udl.cat/pub/015681/>	dc:date	"2010" .
+<http://www.cretesos.udl.cat/pub/015189/>	dc:date	"2010" .
+<http://www.cretesos.udl.cat/pub/014449/>	dc:date	"2010" .
+<http://www.cretesos.udl.cat/pub/013173/>	dc:date	"2010" .
+<http://www.cretesos.udl.cat/pub/013769/>	dc:date	"2010" .
+<http://www.cretesos.udl.cat/pub/013768/>	dc:date	"2010" .
+<http://www.cretesos.udl.cat/pub/013681/>	dc:date	"2010" .
+<http://www.cretesos.udl.cat/pub/013720/>	dc:date	"2010" .
+<http://www.cretesos.udl.cat/pub/016099/>	dc:date	"2010" .
+<http://omediadis.udl.cat/deliverables/432-Integracion_Metadatos_Usuarios/>	dc:date	"2010-04-30" .
+<http://omediadis.udl.cat/deliverables/515-Interfaz_Generica_2/>	dc:date	"2010-10-31" .
+<http://omediadis.udl.cat/blog/2010/11/30/OMediaDis_publishes_Deliverable_516/>	dc:date	"2010-11-30" .
+<http://omediadis.udl.cat/deliverables/516-Evaluacion_Interfaz_Generica_2/>	dc:date	"2010-11-30" .
+<http://omediadis.udl.cat/blog/2010/01/25/omediadis-first-prototype/>	dc:date	"2010-01-25" .
+ns3:project_review	dc:date	"2011-03-24" .
+<http://www.cretesos.udl.cat/pub/012606/>	ns1:volume	"1" .
+<http://www.cretesos.udl.cat/pub/015189/>	ns1:volume	"7" .
+<http://www.cretesos.udl.cat/pub/014413/>	ns1:volume	"12" .
+<http://www.cretesos.udl.cat/pub/015683/>	ns1:volume	"19" .
+<http://www.cretesos.udl.cat/pub/015682/>	ns1:volume	"19" .
+<http://www.cretesos.udl.cat/pub/014449/>	ns1:volume	"16" .
+<http://www.cretesos.udl.cat/pub/016099/>	ns1:volume	"16" .
+<http://www.cretesos.udl.cat/pub/013599/>	ns1:volume	"40" .
+<http://www.cretesos.udl.cat/pub/013173/>	ns1:pages	"-242" .
+<http://www.cretesos.udl.cat/pub/013769/>	ns1:pages	"61-76" .
+<http://www.cretesos.udl.cat/pub/015683/>	ns1:pages	"339-347" .
+<http://www.cretesos.udl.cat/pub/015682/>	ns1:pages	"359-367" .
+<http://www.cretesos.udl.cat/pub/013768/>	ns1:pages	"20-27" .
+<http://www.cretesos.udl.cat/pub/014413/>	ns1:pages	"143-167" .
+<http://www.cretesos.udl.cat/pub/013599/>	ns1:pages	"1261-1270" .
+<http://www.cretesos.udl.cat/pub/012606/>	ns1:pages	"597-604" .
+<http://www.cretesos.udl.cat/pub/014449/>	ns1:pages	"35-46" .
+<http://www.cretesos.udl.cat/pub/016099/>	ns1:pages	"2081-2098" ;
+	ns1:number	"15" .
+<http://www.cretesos.udl.cat/book/978-2-87037-682-9/>	ns1:isbn	"978-2-87037-682-9" .
+<http://www.cretesos.udl.cat/book/978-1-4503-0014-8/>	ns1:isbn	"978-1-4503-0014-8" .
+<http://www.cretesos.udl.cat/book/978-84-934256.8-5/>	ns1:isbn	"978-84-934256.8-5" .
+<http://www.cretesos.udl.cat/book/978-958-44-7281-6/>	ns1:isbn	"978-958-44-7281-6" .
+<http://www.cretesos.udl.cat/book/978-3-642-04408-3/>	ns1:isbn	"978-3-642-04408-3" .
+<http://www.cretesos.udl.cat/book/978-84-693-1781-5/>	ns1:isbn	"978-84-693-1781-5" .
+<http://www.cretesos.udl.cat/pub/015159/>	ns1:authorList	<b643054> .
+<http://www.cretesos.udl.cat/pub/015683/>	ns1:authorList	<b643055> .
+<http://www.cretesos.udl.cat/pub/015682/>	ns1:authorList	<b643056> .
+<http://www.cretesos.udl.cat/pub/014413/>	ns1:authorList	<b643057> .
+<http://www.cretesos.udl.cat/pub/015160/>	ns1:authorList	<b643058> .
+<http://www.cretesos.udl.cat/pub/015681/>	ns1:authorList	<b643059> .
+<http://www.cretesos.udl.cat/pub/015189/>	ns1:authorList	<b643060> .
+<http://www.cretesos.udl.cat/pub/014449/>	ns1:authorList	<b643061> .
+<http://www.cretesos.udl.cat/pub/016099/>	ns1:authorList	<> .
+<http://www.cretesos.udl.cat/pub/013599/>	ns1:authorList	<> .
+<http://www.cretesos.udl.cat/pub/013769/>	ns1:authorList	<> .
+<http://www.cretesos.udl.cat/pub/013681/>	ns1:authorList	<> .
+<http://www.cretesos.udl.cat/pub/013768/>	ns1:authorList	<> .
+<http://www.cretesos.udl.cat/pub/013173/>	ns1:authorList	<> .
+<http://www.cretesos.udl.cat/pub/013720/>	ns1:authorList	<> .
+<http://www.cretesos.udl.cat/pub/012606/>	ns1:authorList	<> .
+<http://www.cretesos.udl.cat/journal/1751-8806/>	ns1:issn	"1751-8806" .
+<http://www.cretesos.udl.cat/journal/1386-6710/>	ns1:issn	"1386-6710" .
+<http://www.cretesos.udl.cat/journal/1386-145X/>	ns1:issn	"1386-145X" .
+<http://www.cretesos.udl.cat/journal/1867-5662/>	ns1:issn	"1867-5662" .
+<http://www.cretesos.udl.cat/journal/0948-695X/>	ns1:issn	"0948-695X" .
+<http://www.cretesos.udl.cat/journal/1657-7663/>	ns1:issn	"1657-7663" .
+<http://www.cretesos.udl.cat/journal/0965-9978/>	ns1:issn	"0965-9978" .
+<http://www.cretesos.udl.cat/journal/1752-6124/>	ns1:issn	"1752-6124" .
+<http://www.cretesos.udl.cat/journal/1135-3716/>	ns1:issn	"1135-3716" .
+@prefix ns6:	<http://purl.org/dc/terms/> .
+<http://www.cretesos.udl.cat/pub/016099/>	ns6:isPartOf	<http://www.cretesos.udl.cat/journal/0948-695X/> .
+<http://www.cretesos.udl.cat/pub/015683/>	ns6:isPartOf	<http://www.cretesos.udl.cat/journal/1386-6710/> .
+<http://www.cretesos.udl.cat/pub/015682/>	ns6:isPartOf	<http://www.cretesos.udl.cat/journal/1386-6710/> .
+<http://www.cretesos.udl.cat/pub/015189/>	ns6:isPartOf	<http://www.cretesos.udl.cat/journal/1657-7663/> .
+<http://www.cretesos.udl.cat/pub/014413/>	ns6:isPartOf	<http://www.cretesos.udl.cat/journal/1386-145X/> .
+<http://www.cretesos.udl.cat/pub/013599/>	ns6:isPartOf	<http://www.cretesos.udl.cat/journal/0965-9978/> .
+<http://www.cretesos.udl.cat/pub/015681/>	ns6:isPartOf	<http://www.cretesos.udl.cat/journal/1751-8806/> .
+<http://www.cretesos.udl.cat/pub/014449/>	ns6:isPartOf	<http://www.cretesos.udl.cat/journal/1135-3716/> .
+<http://www.cretesos.udl.cat/pub/013173/>	ns6:isPartOf	<http://www.cretesos.udl.cat/book/978-84-934256.8-5/> .
+<http://www.cretesos.udl.cat/pub/013769/>	ns6:isPartOf	<http://www.cretesos.udl.cat/book/978-2-87037-682-9/> .
+<http://www.cretesos.udl.cat/pub/013768/>	ns6:isPartOf	<http://www.cretesos.udl.cat/book/978-1-4503-0014-8/> .
+<http://www.cretesos.udl.cat/pub/013681/>	ns6:isPartOf	<http://www.cretesos.udl.cat/book/978-958-44-7281-6/> .
+<http://www.cretesos.udl.cat/pub/012606/>	ns6:isPartOf	<http://www.cretesos.udl.cat/book/978-3-642-04408-3/> .
+<http://www.cretesos.udl.cat/pub/013720/>	ns6:isPartOf	<http://www.cretesos.udl.cat/book/978-84-693-1781-5/> .
+<http://www.cretesos.udl.cat/pub/013769/>	ns1:authors	"Garc\u00EDa, R.; Gil, R." .
+<http://www.cretesos.udl.cat/pub/013768/>	ns1:authors	"Garc\u00EDa, R.; Gil, R." .
+<http://www.cretesos.udl.cat/pub/015681/>	ns1:authors	"Garc\u00EDa, R.; Gil, R.; Gimeno, J.M.; Granollers, T.; L\u00F3pez, J.M.; Oliva, M.; Pascual, A." .
+<http://www.cretesos.udl.cat/pub/015683/>	ns1:authors	"Garc\u00EDa, R.; Botella, F.; Marcos, M.C." .
+<http://www.cretesos.udl.cat/pub/015682/>	ns1:authors	"L\u00F3pez, J.M.; Navarro-Molina, C.; Garc\u00EDa, R.; Aleixandre-Benavent, R." .
+<http://www.cretesos.udl.cat/pub/014413/>	ns1:authors	"Garc\u00EDa, R.; Gimeno, J.M.; Perdrix, F.; Gil, R.; Oliva, M.; L\u00F3pez, J.M.; Pascual, A.; Send\u00EDn, M." .
+<http://www.cretesos.udl.cat/pub/013599/>	ns1:authors	"Send\u00EDn, M.; L\u00F3pez, J.M." .
+<http://www.cretesos.udl.cat/pub/016099/>	ns1:authors	"Send\u00EDn, M.; L\u00F3pez, J.M." .
+<http://www.cretesos.udl.cat/pub/012606/>	ns1:authors	"L\u00F3pez, J.M.; Pascual, A.; Granollers, T." .
+<http://www.cretesos.udl.cat/pub/015189/>	ns1:authors	"L\u00F3pez, J.M.; Comella, I." .
+<http://www.cretesos.udl.cat/pub/014449/>	ns1:authors	"Oliva, M.; Masip, L.; Granollers, T." .
+<http://www.cretesos.udl.cat/pub/013173/>	ns1:authors	"Ponsa, P.; Granollers, T.; Vilanova, R.; Amante, B." .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+<http://www.cretesos.udl.cat/pub/013681/>	ns1:authors	"M\u00E9ndez, Y.; Collazos, C.; Granollers, T."^^xsd:string .
+<http://www.cretesos.udl.cat/pub/013720/>	ns1:authors	"Pascual, A.; Ribera, M.; Masip, L.; Granollers, T.; L\u00F3pez, J."^^xsd:string .
+<http://omediadis.udl.cat/deliverables/215-Modelos_Metadatos_Contenidos_Multimedia/>	dc:title	"Entregable 2.1.5 - Informe Modelos de Metadatos para Contenidos Multimedia" .
+<http://omediadis.udl.cat/deliverables/212-Accesibilidad_Sistemas_Gestion_Contenidos_Multimedia/>	dc:title	"Entregable 2.1.2 - Informe Accesibilidad de Sistemas Gesti\u00F3n Contenidos Multimedia" .
+<http://www.cretesos.udl.cat/pub/015681/>	dc:title	"A Semantic Wiki for Quality Management in Software Development Projects" .
+<http://www.cretesos.udl.cat/pub/013769/>	dc:title	"Controlled Natural Language rendering of Copyright Ontology licenses" .
+<http://www.cretesos.udl.cat/book/978-2-87037-682-9/>	dc:title	"Proceedings of the 8th International Workshop for Technical, Economic and Legal Aspects of Business Models for Virtual Goods" .
+<http://www.cretesos.udl.cat/pub/015683/>	dc:title	"Hacia la arquitectura de la informaci\u00F3n 3.0: pasado, presente y futuro" .
+<http://www.cretesos.udl.cat/journal/1386-6710/>	dc:title	"Profesional de la Informacion" .
+<http://www.cretesos.udl.cat/pub/015682/>	dc:title	"An\u00E1lisis de la arquitectura de webs mediante tests de estr\u00E9s de navegaci\u00F3n, de usabilidad y eye-tracking" .
+<http://www.cretesos.udl.cat/pub/013768/>	dc:title	"Triplificating and linking XBRL financial data" .
+<http://www.cretesos.udl.cat/book/978-1-4503-0014-8/>	dc:title	"Proceedings of the 6th International Conference on Semantic Systems, I-SEMANTICS'10" .
+<http://www.cretesos.udl.cat/pub/014413/>	dc:title	"Building a Usable and Accessible Semantic Web Interaction Platform" .
+<http://www.cretesos.udl.cat/journal/1386-145X/>	dc:title	"World Wide Web-Internet And Web Information Systems" .
+<http://omediadis.udl.cat/deliverables/2111-Patrones_Interaccion_Web_Semantica/>	dc:title	"Entregable 2.1.11 - Informe Patrones de Interacci\u00F3n en la Web Sem\u00E1ntica" .
+<http://omediadis.udl.cat/deliverables/219-Accesibilidad_y_Web_Semantica/>	dc:title	"Entregable 2.1.9 - Informe Accesibilidad y Web Sem\u00E1ntica" .
+<http://omediadis.udl.cat/deliverables/216-Anotacion_Contenidos_Multimedia/>	dc:title	"Entregable 2.1.6 - Informe Sistemas de Anotaci\u00F3n de Contenidos Multimedia" .
+<http://omediadis.udl.cat/deliverables/211-Sistemas_Gestion_Contenidos_Multimedia/>	dc:title	"Entregable 2.1.1 - Informe Sistemas Gesti\u00F3n Contenidos Multimedia" .
+<http://omediadis.udl.cat/deliverables/2110-Interfaces_Basadas_Modelos_Semanticos/>	dc:title	"Entregable 2.1.10 - Informe Interfaces Basadas en Modelos Sem\u00E1nticos" .
+<http://omediadis.udl.cat/deliverables/217-Busqueda_Contenidos_Multimedia/>	dc:title	"Entregable 2.1.7 - Informe Sistemas de B\u00FAsqueda de Contenidos Multimedia" .
+<http://omediadis.udl.cat/deliverables/218-Sistemas_Recomendacion_Contenidos_Multimedia/>	dc:title	"Entregable 2.1.8 - Informe Sistemas de Recomendaci\u00F3n de Contenidos Multimedia" .
+<http://omediadis.udl.cat/deliverables/213-Web_Semantica_y_DRM/>	dc:title	"Entregable 2.1.3 - Informe Informe Web Sem\u00E1ntica y DRM" .
+<http://omediadis.udl.cat/deliverables/214-Watermarking_y_Fingerprinting/>	dc:title	"Entregable 2.1.4 - Informe Watermarking y Fingerprinting" .
+<http://www.cretesos.udl.cat/journal/1867-5662/>	dc:title	"Advances in Intelligent and Soft Computing" .
+<http://www.cretesos.udl.cat/journal/0948-695X/>	dc:title	"Journal Of Universal Computer Science" .
+<http://www.cretesos.udl.cat/journal/1657-7663/>	dc:title	"Avances en sistemas e inform\u00E1tica" .
+<http://www.cretesos.udl.cat/journal/0965-9978/>	dc:title	"Advances in Engineering Software" .
+<http://www.cretesos.udl.cat/pub/013599/>	dc:title	"Contributions of Dichotomic View of Plasticity to Seamlessly Embed Accessibility and Adaptivity Support in User Interfaces" .
+<http://www.cretesos.udl.cat/journal/1752-6124/>	dc:title	"International Journal of Social and Humanistic Computing" .
+<http://www.cretesos.udl.cat/journal/1751-8806/>	dc:title	"Iet Software" .
+<http://www.cretesos.udl.cat/pub/012606/>	dc:title	"Engineering Accessibility in Web Content Management System Environments" .
+<http://www.cretesos.udl.cat/pub/015189/>	dc:title	"Estudio de la accesibilidad en software navegaci\u00F3n web" .
+<http://www.cretesos.udl.cat/pub/014449/>	dc:title	"Evaluaci\u00F3n de usabilidad y accesibilidad de un conjunto de dispositivos interactivos denominados Puntos de Informaci\u00F3n Ciudadana" .
+<http://www.cretesos.udl.cat/journal/1135-3716/>	dc:title	"Scire: representaci\u00F3n y organizaci\u00F3n del conocimiento" .
+<http://www.cretesos.udl.cat/pub/013173/>	dc:title	"Towards human-centred design in industrial automation systems" .
+<http://www.cretesos.udl.cat/book/978-84-934256.8-5/>	dc:title	"Proceedings ORP'2010 Creating Value Through Risk Prevention Management. VIII International conference on Occupational Risk Prevention" .
+<http://www.cretesos.udl.cat/pub/013681/>	dc:title	"Formalizaci\u00F3n del proceso colaborativo de evaluaci\u00F3n de usabilidad" .
+<http://www.cretesos.udl.cat/book/978-958-44-7281-6/>	dc:title	"Actas de la Conferencia LatinoAmericana de Medios Audiovisuales en Red" .
+<http://www.cretesos.udl.cat/book/978-3-642-04408-3/>	dc:title	"Web Information Systems Engineering - WISE 2009" .
+<http://www.cretesos.udl.cat/pub/013720/>	dc:title	"Gu\u00EDas de contenido digital accesible" .
+<http://www.cretesos.udl.cat/book/978-84-693-1781-5/>	dc:title	"25 A\u00F1os de Integraci\u00F3n Escolar en Espa\u00F1a: Tecnolog\u00EDa e Inclusi\u00F3n en el \u00E1mbito educativo, laboral y comunitario" .
+<http://omediadis.udl.cat/deliverables/321-Adaptacion_Ontologia_Copyright/>	dc:title	"Entregable 3.2.1 - Adaptaci\u00F3n Ontolog\u00EDa Copyright" .
+<http://omediadis.udl.cat/deliverables/322-Ontologia_Creative_Commons/>	dc:title	"Entregable 3.2.2 - Ontolog\u00EDa Creative Commons" .
+<http://omediadis.udl.cat/deliverables/323-Modulo_SemDRMS_1/>	dc:title	"Entregable 3.2.3 - M\u00F3dulo SemDRMS 1.0" .
+<http://www.cretesos.udl.cat/pub/016099/>	dc:title	"Multi-Purpose Infrastructure for Delivering and Supporting Mobile Context-Aware Applications" .
+<http://omediadis.udl.cat/deliverables/311-Seleccion_Esquemas_Metadatos/>	dc:title	"Entregable 3.1.1 - Selecci\u00F3n Esquemas Metadatos" .
+<http://omediadis.udl.cat/deliverables/312-Analisis_Repositorios_Semanticos/>	dc:title	"Entregable 3.1.2 - An\u00E1lisis Repositorios Sem\u00E1nticos" .
+<http://omediadis.udl.cat/deliverables/411-Modulo_Carga_Conenidos/>	dc:title	"Entregable 4.1.1 - M\u00F3dulo de Carga de Contenidos" .
+<http://omediadis.udl.cat/deliverables/421-Modulo_Busqueda_Conenidos/>	dc:title	"Entregable 4.2.1 \u2013 M\u00F3dulo de B\u00FAsqueda de Contenidos" .
+<http://omediadis.udl.cat/deliverables/431-Ontologia_Usuarios/>	dc:title	"Entregable 4.3.1 \u2013 Ontolog\u00EDa de Usuarios" .
+<http://omediadis.udl.cat/deliverables/432-Integracion_Metadatos_Usuarios/>	dc:title	"Entregable 4.3.2 \u2013 Integraci\u00F3n de Metadatos de Usuario" .
+<http://omediadis.udl.cat/deliverables/433-Modulo_Recomendacion/>	dc:title	"Entregable 4.3.3 \u2013 M\u00F3dulo de Recomendaci\u00F3n 1.0" .
+<http://omediadis.udl.cat/deliverables/516-Evaluacion_Interfaz_Generica_2/>	dc:title	"Entregable 5.1.6 \u2013 Evaluaci\u00F3n Interfaz Gen\u00E9rica 2.0" .
+<http://omediadis.udl.cat/deliverables/515-Interfaz_Generica_2/>	dc:title	"Entregable 5.1.5 \u2013 Interfaz Gen\u00E9rica 2.0" .
+<http://omediadis.udl.cat/deliverables/215-Modelos_Metadatos_Contenidos_Multimedia/>	ns1:homepage	"http://omediadis.udl.cat/html/deliverables/215-Modelos_Metadatos_Contenidos_Multimedia/" .
+<http://omediadis.udl.cat/deliverables/212-Accesibilidad_Sistemas_Gestion_Contenidos_Multimedia/>	ns1:homepage	"http://omediadis.udl.cat/html/deliverables/212-Accesibilidad_Sistemas_Gestion_Contenidos_Multimedia/" .
+<http://www.cretesos.udl.cat/pub/015683/>	ns1:homepage	"http://dx.doi.org/10.3145/epi.2010.jul.02" .
+<http://www.cretesos.udl.cat/pub/015682/>	ns1:homepage	"http://dx.doi.org/10.3145/epi.2010.jul.04" .
+<http://www.cretesos.udl.cat/pub/013768/>	ns1:homepage	"http://doi.acm.org/10.1145/1839707.1839711" .
+<http://www.cretesos.udl.cat/pub/014413/>	ns1:homepage	"http://dx.doi.org/10.1007/s11280-009-0076-2" .
+<http://omediadis.udl.cat/deliverables/219-Accesibilidad_y_Web_Semantica/>	ns1:homepage	"http://omediadis.udl.cat/html/deliverables/219-Accesibilidad_y_Web_Semantica/" .
+<http://omediadis.udl.cat/deliverables/2111-Patrones_Interaccion_Web_Semantica/>	ns1:homepage	"http://omediadis.udl.cat/html/deliverables/2111-Patrones_Interaccion_Web_Semantica/" .
+<http://omediadis.udl.cat/deliverables/216-Anotacion_Contenidos_Multimedia/>	ns1:homepage	"http://omediadis.udl.cat/html/deliverables/216-Anotacion_Contenidos_Multimedia/" .
+<http://omediadis.udl.cat/deliverables/213-Web_Semantica_y_DRM/>	ns1:homepage	"http://omediadis.udl.cat/html/deliverables/213-Web_Semantica_y_DRM/" .
+<http://omediadis.udl.cat/deliverables/218-Sistemas_Recomendacion_Contenidos_Multimedia/>	ns1:homepage	"http://omediadis.udl.cat/html/deliverables/218-Sistemas_Recomendacion_Contenidos_Multimedia/" .
+<http://omediadis.udl.cat/deliverables/217-Busqueda_Contenidos_Multimedia/>	ns1:homepage	"http://omediadis.udl.cat/html/deliverables/217-Busqueda_Contenidos_Multimedia/" .
+<http://omediadis.udl.cat/deliverables/2110-Interfaces_Basadas_Modelos_Semanticos/>	ns1:homepage	"http://omediadis.udl.cat/html/deliverables/2110-Interfaces_Basadas_Modelos_Semanticos/" .
+<http://omediadis.udl.cat/deliverables/211-Sistemas_Gestion_Contenidos_Multimedia/>	ns1:homepage	"http://omediadis.udl.cat/html/deliverables/211-Sistemas_Gestion_Contenidos_Multimedia/" .
+<http://omediadis.udl.cat/deliverables/214-Watermarking_y_Fingerprinting/>	ns1:homepage	"http://omediadis.udl.cat/html/deliverables/214-Watermarking_y_Fingerprinting/" .
+<http://www.cretesos.udl.cat/pub/012606/>	ns1:homepage	"http://www.springerlink.com/content/cr60550140h10rm3/?p=18a79725c52e49a5a3009fbbfc5a7eb6&amp;pi=57" .
+<http://www.cretesos.udl.cat/pub/015189/>	ns1:homepage	"http://www.minas.medellin.unal.edu.co/index.php?option=com_docman&amp;task=cat_view&amp;gid=387&amp;Itemid=285" .
+<http://www.cretesos.udl.cat/pub/014449/>	ns1:homepage	"http://ibersid.eu/ojs/index.php/scire/article/view/1535" .
+<http://omediadis.udl.cat/deliverables/321-Adaptacion_Ontologia_Copyright/>	ns1:homepage	"http://omediadis.udl.cat/html/deliverables/321-Adaptacion_Ontologia_Copyright/" .
+<http://omediadis.udl.cat/deliverables/322-Ontologia_Creative_Commons/>	ns1:homepage	"http://omediadis.udl.cat/html/deliverables/322-Ontologia_Creative_Commons/" .
+<http://omediadis.udl.cat/deliverables/323-Modulo_SemDRMS_1/>	ns1:homepage	"http://omediadis.udl.cat/html/deliverables/323-Modulo_SemDRMS_1/" .
+<http://www.cretesos.udl.cat/pub/013599/>	ns1:homepage	"http://dx.doi.org/10.1016/j.advengsoft.2009.01.022" .
+<http://www.cretesos.udl.cat/pub/016099/>	ns1:homepage	"http://www.jucs.org/jucs_16_15/multi_purpose_infrastructure_for" .
+<http://omediadis.udl.cat/deliverables/311-Seleccion_Esquemas_Metadatos/>	ns1:homepage	"http://omediadis.udl.cat/html/deliverables/311-Seleccion_Esquemas_Metadatos/" .
+<http://omediadis.udl.cat/deliverables/312-Analisis_Repositorios_Semanticos/>	ns1:homepage	"http://omediadis.udl.cat/html/deliverables/312-Analisis_Repositorios_Semanticos/" .
+<http://omediadis.udl.cat/deliverables/411-Modulo_Carga_Conenidos/>	ns1:homepage	"http://omediadis.udl.cat/html/deliverables/411-Modulo_Carga_Conenidos/" .
+<http://omediadis.udl.cat/deliverables/421-Modulo_Busqueda_Conenidos/>	ns1:homepage	"http://omediadis.udl.cat/html/deliverables/421-Modulo_Busqueda_Conenidos/" .
+<http://omediadis.udl.cat/deliverables/431-Ontologia_Usuarios/>	ns1:homepage	"http://omediadis.udl.cat/html/deliverables/431-Ontologia_Usuarios/" .
+<http://omediadis.udl.cat/deliverables/432-Integracion_Metadatos_Usuarios/>	ns1:homepage	"http://omediadis.udl.cat/html/deliverables/432-Integracion_Metadatos_Usuarios/" .
+<http://omediadis.udl.cat/deliverables/433-Modulo_Recomendacion/>	ns1:homepage	"http://omediadis.udl.cat/html/deliverables/433-Modulo_Recomendacion/" .
+<http://omediadis.udl.cat/deliverables/516-Evaluacion_Interfaz_Generica_2/>	ns1:homepage	"http://omediadis.udl.cat/html/deliverables/516-Evaluacion_Interfaz_Generica_2/" .
+<http://omediadis.udl.cat/deliverables/515-Interfaz_Generica_2/>	ns1:homepage	"http://omediadis.udl.cat/html/deliverables/515-Interfaz_Generica_2/" .
+@prefix geo:	<http://www.w3.org/2003/01/geo/wgs84_pos#> .
+<http://omediadis.udl.cat/blog/2000/01/01/omediadis-kickoff/>	geo:lat	"41.6081848415776" ;
+	geo:long	"0.623323917388916" .
+<http://omediadis.udl.cat/blog/2010/01/25/omediadis-first-prototype/>	ns2:link	"http://omediadis.udl.cat/blog/2010/01/25/omediadis-first-prototype/" .
+<http://omediadis.udl.cat/blog/2000/01/01/omediadis-kickoff/>	ns2:link	"http://omediadis.udl.cat/blog/2000/01/01/omediadis-kickoff/" .
+<http://omediadis.udl.cat/blog/2010/11/30/OMediaDis_publishes_Deliverable_516/>	ns2:link	"http://omediadis.udl.cat/html/blog/2010/11/30/OMediaDis_publishes_Deliverable_516/" .
+<http://omediadis.udl.cat/blog/2010/01/25/omediadis-first-prototype/>	dc:creator	<http://rhizomik.net/~roberto/> .
+<http://omediadis.udl.cat/blog/2000/01/01/omediadis-kickoff/>	dc:creator	<http://rhizomik.net/~roberto/> .
+<http://omediadis.udl.cat/blog/2010/11/30/OMediaDis_publishes_Deliverable_516/>	dc:creator	<http://rhizomik.net/~roberto/> .
+ns3:project_review	dc:creator	<http://rhizomik.net/~roberto/> .
+<http://www.cretesos.udl.cat/pub/014413/>	dc:creator	<http://www.cretesos.udl.cat/person/GilR/> .
+<http://www.cretesos.udl.cat/pub/015681/>	dc:creator	<http://www.cretesos.udl.cat/person/GilR/> .
+<http://www.cretesos.udl.cat/pub/013769/>	dc:creator	<http://www.cretesos.udl.cat/person/GilR/> .
+<http://www.cretesos.udl.cat/pub/013768/>	dc:creator	<http://www.cretesos.udl.cat/person/GilR/> .
+<http://www.cretesos.udl.cat/pub/015683/>	dc:creator	<http://www.cretesos.udl.cat/person/GarciaR/> .
+<http://www.cretesos.udl.cat/pub/015682/>	dc:creator	<http://www.cretesos.udl.cat/person/GarciaR/> .
+<http://www.cretesos.udl.cat/pub/014413/>	dc:creator	<http://www.cretesos.udl.cat/person/GarciaR/> .
+<http://www.cretesos.udl.cat/pub/015681/>	dc:creator	<http://www.cretesos.udl.cat/person/GarciaR/> .
+<http://www.cretesos.udl.cat/pub/013769/>	dc:creator	<http://www.cretesos.udl.cat/person/GarciaR/> .
+<http://www.cretesos.udl.cat/pub/013768/>	dc:creator	<http://www.cretesos.udl.cat/person/GarciaR/> .
+<http://www.cretesos.udl.cat/pub/015681/>	dc:creator	<http://www.cretesos.udl.cat/person/GranollersT/> .
+<http://www.cretesos.udl.cat/pub/014449/>	dc:creator	<http://www.cretesos.udl.cat/person/GranollersT/> .
+<http://www.cretesos.udl.cat/pub/013173/>	dc:creator	<http://www.cretesos.udl.cat/person/GranollersT/> .
+<http://www.cretesos.udl.cat/pub/013681/>	dc:creator	<http://www.cretesos.udl.cat/person/GranollersT/> .
+<http://www.cretesos.udl.cat/pub/012606/>	dc:creator	<http://www.cretesos.udl.cat/person/GranollersT/> .
+<http://www.cretesos.udl.cat/pub/013720/>	dc:creator	<http://www.cretesos.udl.cat/person/GranollersT/> .
+<http://www.cretesos.udl.cat/pub/014413/>	dc:creator	<http://www.cretesos.udl.cat/person/SendinM/> .
+<http://www.cretesos.udl.cat/pub/013599/>	dc:creator	<http://www.cretesos.udl.cat/person/SendinM/> .
+<http://www.cretesos.udl.cat/pub/016099/>	dc:creator	<http://www.cretesos.udl.cat/person/SendinM/> .
+<http://www.cretesos.udl.cat/pub/015682/>	dc:creator	<http://www.cretesos.udl.cat/person/LopezJM/> .
+<http://www.cretesos.udl.cat/pub/014413/>	dc:creator	<http://www.cretesos.udl.cat/person/LopezJM/> .
+<http://www.cretesos.udl.cat/pub/013599/>	dc:creator	<http://www.cretesos.udl.cat/person/LopezJM/> .
+<http://www.cretesos.udl.cat/pub/015681/>	dc:creator	<http://www.cretesos.udl.cat/person/LopezJM/> .
+<http://www.cretesos.udl.cat/pub/015189/>	dc:creator	<http://www.cretesos.udl.cat/person/LopezJM/> .
+<http://www.cretesos.udl.cat/pub/012606/>	dc:creator	<http://www.cretesos.udl.cat/person/LopezJM/> .
+<http://www.cretesos.udl.cat/pub/016099/>	dc:creator	<http://www.cretesos.udl.cat/person/LopezJM/> .
+<http://www.cretesos.udl.cat/pub/014413/>	dc:creator	<http://www.cretesos.udl.cat/person/PascualA/> .
+<http://www.cretesos.udl.cat/pub/015681/>	dc:creator	<http://www.cretesos.udl.cat/person/PascualA/> .
+<http://www.cretesos.udl.cat/pub/012606/>	dc:creator	<http://www.cretesos.udl.cat/person/PascualA/> .
+<http://www.cretesos.udl.cat/pub/013720/>	dc:creator	<http://www.cretesos.udl.cat/person/PascualA/> .
+<http://www.cretesos.udl.cat/pub/014413/>	dc:creator	<http://www.cretesos.udl.cat/person/OlivaM/> .
+<http://www.cretesos.udl.cat/pub/015681/>	dc:creator	<http://www.cretesos.udl.cat/person/OlivaM/> .
+<http://www.cretesos.udl.cat/pub/014449/>	dc:creator	<http://www.cretesos.udl.cat/person/OlivaM/> .
+<http://www.cretesos.udl.cat/pub/013681/>	dc:creator	<http://www.cretesos.udl.cat/person/CollazosC/> .
+<http://www.cretesos.udl.cat/pub/015683/>	dc:creator	<http://www.cretesos.udl.cat/person/BotellaF/> ,
+		<http://www.cretesos.udl.cat/person/MarcosMC/> .
+<http://www.cretesos.udl.cat/pub/015682/>	dc:creator	<http://www.cretesos.udl.cat/person/Aleixandre-BenaventR/> ,
+		<http://www.cretesos.udl.cat/person/Navarro-MolinaC/> .
+<http://www.cretesos.udl.cat/pub/014413/>	dc:creator	<http://www.cretesos.udl.cat/person/GimenoJM/> .
+<http://www.cretesos.udl.cat/pub/015681/>	dc:creator	<http://www.cretesos.udl.cat/person/GimenoJM/> .
+<http://www.cretesos.udl.cat/pub/014413/>	dc:creator	<http://www.cretesos.udl.cat/person/PerdrixF/> .
+<http://www.cretesos.udl.cat/pub/014449/>	dc:creator	<http://www.cretesos.udl.cat/person/MasipL/> .
+<http://www.cretesos.udl.cat/pub/013720/>	dc:creator	<http://www.cretesos.udl.cat/person/MasipL/> .
+<http://www.cretesos.udl.cat/pub/015189/>	dc:creator	<http://www.cretesos.udl.cat/person/ComellaI/> .
+<http://www.cretesos.udl.cat/pub/013173/>	dc:creator	<http://www.cretesos.udl.cat/person/AmanteB/> ,
+		<http://www.cretesos.udl.cat/person/VilanovaR/> ,
+		<http://www.cretesos.udl.cat/person/PonsaP/> .
+<http://www.cretesos.udl.cat/pub/013681/>	dc:creator	<http://www.cretesos.udl.cat/person/MendezY/> .
+<http://www.cretesos.udl.cat/pub/013720/>	dc:creator	<http://www.cretesos.udl.cat/person/RiberaM/> ,
+		<http://www.cretesos.udl.cat/person/LopezJ/> .
+<http://omediadis.udl.cat/blog/2010/01/25/omediadis-first-prototype/>	ns2:title	"OMediaDis first prototype" .
+<http://omediadis.udl.cat/blog/2000/01/01/omediadis-kickoff/>	ns2:title	"OMediaDis Kick-off" .
+ns3:project_review	ns2:title	"OMediaDis Project Review" .
+<http://omediadis.udl.cat/blog/2010/11/30/OMediaDis_publishes_Deliverable_516/>	ns2:title	"OMediaDis publishes Deliverable 5.1.6" .
+<http://omediadis.udl.cat/blog/2010/01/25/omediadis-first-prototype/>	ns2:description	"OMediaDis releases the first prototype of its web-based platform, which currently integrates a specialised view for audio content." .
+<http://omediadis.udl.cat/blog/2000/01/01/omediadis-kickoff/>	ns2:description	"The Open Platform for Multichannel Content Distribution Management reserach project (OMediaDis, TIN2008-06228), supported by the Spanish Ministry of Science and Innovation, starts on 2009 with a duration of 3 years." .
+ns3:project_review	ns2:description	"OMediaDis undergoes its last year review." .
+<http://omediadis.udl.cat/blog/2010/11/30/OMediaDis_publishes_Deliverable_516/>	ns2:description	"OMediaDis delivers the evaluation of the second version of the generic user interface." .
+@prefix ns9:	<http://www.w3.org/2002/12/cal/icaltzd#> .
+<http://omediadis.udl.cat/blog/2000/01/01/omediadis-kickoff/>	ns9:dtstart	"2009-01-01" ;
+	ns9:dtend	"2011-12-31" .

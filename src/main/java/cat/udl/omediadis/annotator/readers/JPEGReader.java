@@ -5,24 +5,43 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.logging.Level;
 import java.util.logging.Logger;
+
+import org.apache.commons.fileupload.FileItem;
 import org.apache.sanselan.ImageReadException;
 import org.apache.sanselan.Sanselan;
 import org.apache.sanselan.common.IImageMetadata;
 import org.apache.sanselan.formats.jpeg.JpegImageMetadata;
 import org.apache.sanselan.formats.tiff.constants.TiffConstants;
 
+import cat.udl.omediadis.annotator.metadata.ContentMetadata;
 import cat.udl.omediadis.annotator.metadata.Fitxer;
 import cat.udl.omediadis.annotator.metadata.JPEGMetadata;
 
 public class JPEGReader extends Reader
 {
-    private JPEGMetadata jPEGMetadata = new JPEGMetadata();
+    private JPEGMetadata metadata = new JPEGMetadata();
 
-    @Override
-    public Fitxer llegirCapsaleres(File file) {
-        try {
-            //        get all metadata stored in EXIF format (ie. from JPEG or TIFF).
-            //            org.w3c.dom.Node node = Sanselan.getMetadataObsolete(imageBytes);
+	public ContentMetadata readMetadata(FileItem item)
+	{
+		try 
+		{
+			File tmp = File.createTempFile("OMediadisAnnotatorTmp", "jpg");
+			tmp.deleteOnExit();
+			item.write(tmp);
+			readMetadata(tmp);
+		} 
+		catch (Exception e) {
+			e.printStackTrace();
+		}		
+		return metadata;
+	}
+
+
+	@Override
+	public ContentMetadata readMetadata(File item) 
+	{
+        try 
+        {
             IImageMetadata metadata = Sanselan.getMetadata(file);
             //System.out.println(metadata);
             if (metadata instanceof JpegImageMetadata) {
@@ -151,66 +170,7 @@ public class JPEGReader extends Reader
         } catch (IOException ex) {
             Logger.getLogger(JPEGReader.class.getName()).log(Level.SEVERE, null, ex);
         }
-        /*
-        try {
-            Metadata metadata = JpegMetadataReader.readMetadata(file);
-            Directory exifDirectory = metadata.getDirectory(ExifDirectory.class);
-            Directory iptcDirectory = metadata.getDirectory(IptcDirectory.class);
-            Directory gpsDirectory = metadata.getDirectory(GpsDirectory.class);
-            Directory commentsDirectory = metadata.getDirectory(JpegCommentDirectory.class);
-
-            jPEGMetadata.setImageUniqueId(exifDirectory.getString(ExifDirectory.TAG_IMAGE_UNIQUE_ID));
-            jPEGMetadata.setImageDescription(exifDirectory.getString(ExifDirectory.TAG_IMAGE_DESCRIPTION));
-            jPEGMetadata.setInam(exifDirectory.getString(ExifDirectory.TAG_WIN_SUBJECT));
-            jPEGMetadata.setLanguage("");
-            jPEGMetadata.setLocator("");
-            jPEGMetadata.setIart(exifDirectory.getString(ExifDirectory.TAG_ARTIST));
-            jPEGMetadata.setIeng("");
-            jPEGMetadata.setIsrc(iptcDirectory.getString(IptcDirectory.TAG_SOURCE));
-            jPEGMetadata.setItch("");
-            jPEGMetadata.setDateTime(exifDirectory.getString(ExifDirectory.TAG_DATETIME));
-            jPEGMetadata.setDateTimeOriginal(exifDirectory.getString(ExifDirectory.TAG_DATETIME_ORIGINAL));
-            jPEGMetadata.setIcrd(iptcDirectory.getString(IptcDirectory.TAG_DATE_CREATED));
-            jPEGMetadata.setDateTimeOriginal(exifDirectory.getString(ExifDirectory.TAG_GPS_INFO));
-            //jPEGMetadata.setGpsLatituteRef(gpsDirectory.getString(GpsDirectory.TAG_GPS_LATITUDE_REF));
-            jPEGMetadata.setGpsLatitute(gpsDirectory.getString(GpsDirectory.TAG_GPS_LATITUDE));
-            jPEGMetadata.setGpsLongitudeRef(gpsDirectory.getString(GpsDirectory.TAG_GPS_LONGITUDE_REF));
-            jPEGMetadata.setGpsLongitude(gpsDirectory.getString(GpsDirectory.TAG_GPS_LONGITUDE));
-            jPEGMetadata.setGpsAltitudeRef(gpsDirectory.getString(GpsDirectory.TAG_GPS_ALTITUDE_REF));
-            jPEGMetadata.setGpsAltitude(gpsDirectory.getString(GpsDirectory.TAG_GPS_ALTITUDE));
-            jPEGMetadata.setIkey(iptcDirectory.getString(IptcDirectory.TAG_KEYWORDS));
-            jPEGMetadata.setUserComment(exifDirectory.getString(ExifDirectory.TAG_USER_COMMENT));
-            jPEGMetadata.setComments(commentsDirectory.getString(JpegCommentDirectory.TAG_JPEG_COMMENT));
-            jPEGMetadata.setIsbj(exifDirectory.getString(ExifDirectory.TAG_WIN_SUBJECT));
-            jPEGMetadata.setIgnr("");
-            jPEGMetadata.setRelatedSoundFile(exifDirectory.getString(ExifDirectory.TAG_RELATED_SOUND_FILE));
-            jPEGMetadata.setRating("");
-            jPEGMetadata.setCollection("");
-            jPEGMetadata.setCopyright(exifDirectory.getString(ExifDirectory.TAG_COPYRIGHT));
-            jPEGMetadata.setLicense("");
-            jPEGMetadata.setPublisher("");
-            jPEGMetadata.setTargetAudience("");
-            jPEGMetadata.setFragments("");
-            jPEGMetadata.setNamedFragments("");
-            jPEGMetadata.setImageWidth(exifDirectory.getString(ExifDirectory.TAG_EXIF_IMAGE_WIDTH));
-            jPEGMetadata.setImageLength(exifDirectory.getString(ExifDirectory.TAG_EXIF_IMAGE_HEIGHT));
-            jPEGMetadata.setCompression(exifDirectory.getString(ExifDirectory.TAG_COMPRESSION));
-            jPEGMetadata.setDuration("");
-            jPEGMetadata.setFormat("");
-            jPEGMetadata.setSamplingRate("");
-            jPEGMetadata.setFrameRate("");
-            jPEGMetadata.setBitRate("");
-            jPEGMetadata.setNumTracks("");
-        } catch (JpegProcessingException ex) {
-            Logger.getLogger(JPEGReader.class.getName()).log(Level.SEVERE, null, ex);
-        }*/
         return jPEGMetadata;
-    }
-
-
-    @Override
-    public String toString(){
-        return "Lector JPG";
-    }
+	}
 
 }

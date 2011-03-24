@@ -1,74 +1,149 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE rdf:RDF [
-  <!ENTITY copyright "http://rhizomik.net/ontologies/2008/05/copyrightonto.owl#">
-  <!ENTITY gr "http://purl.org/goodrelations/v1#">
+  <!ENTITY co "http://rhizomik.net/ontologies/2009/09/copyrightonto.owl#">
   <!ENTITY owl "http://www.w3.org/2002/07/owl#">
   <!ENTITY rdf "http://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <!ENTITY rdfs "http://www.w3.org/2000/01/rdf-schema#">
   <!ENTITY xsd "http://www.w3.org/2001/XMLSchema#">
 ]>
 <rdf:RDF
-         xmlns:copyright="&copyright;"
-         xmlns:gr="&gr;"
+         xmlns:co="&co;"
          xmlns:owl="&owl;"
          xmlns:rdf="&rdf;"
          xmlns:rdfs="&rdfs;">
 
-  <copyright:Agree rdf:about="http://omediadis.udl.cat/audio/segre/08012007-10/license/">
-    <rdfs:label xml:lang="en">License for Segre's 'Butlletí 10h-8/1/2007'</rdfs:label>
-	<rdfs:comment xml:lang="en">Commercial license requiring 3 euros compensation for copy but free access.</rdfs:comment>
-    <copyright:agent rdf:resource="http://www.segre.com"/>
-    <copyright:theme>
+<!-- Agreement -->
+  <co:Agree rdf:about="http://omediadis.udl.cat/segre/recording/bulletin/08012007-10/license/">
+    <rdfs:label>CC-BYSA License for Recording of Radio Bulletin 10h - January 8th 2007</rdfs:label>
+    <rdfs:comment>Creative Commons Attribution-Share Alike license for Recording of Radio Bulletin 10h - January 8th 2007</rdfs:comment>
+    <co:agent rdf:resource="http://www.segre.com"/>
+    <co:theme>
       <owl:Class>
-	    <copyright:condition>
+	    <co:condition>
 	      <owl:Class>
-    		<rdfs:subClassOf rdf:resource="&copyright;Transfer"/>
+    		<rdfs:subClassOf rdf:resource="&co;Attribute"/>
     		<owl:intersectionOf rdf:parseType="Collection">
       		  <owl:Restriction>
-        		<owl:someValuesFrom>
-					<owl:Class>
-			    		<rdfs:subClassOf rdf:resource="&gr;PriceSpecification"/>
-						<owl:intersectionOf rdf:parseType="Collection">
-			      		  <owl:Restriction>
-			        		<owl:hasValue>3</owl:hasValue>
-			        		<owl:onProperty rdf:resource="&gr;hasCurrencyValue"/>
-			      		  </owl:Restriction>
-						  <owl:Restriction>
-			        		<owl:hasValue>EUR</owl:hasValue>
-			        		<owl:onProperty rdf:resource="&gr;hasCurrency"/>
-			      		  </owl:Restriction>
-			      		 </owl:intersectionOf>
-					</owl:Class>        		
-        		</owl:someValuesFrom>
-        		<owl:onProperty rdf:resource="&copyright;theme"/>
+        		<owl:hasValue rdf:resource="http://omediadis.udl.cat/segre/recording/bulletin/08012007-10/"/>
+        		<owl:onProperty rdf:resource="&co;theme"/>
       		  </owl:Restriction>
       		  <owl:Restriction>
         		<owl:hasValue rdf:resource="http://www.segre.com"/>
-        		<owl:onProperty rdf:resource="&copyright;recipient"/>
+        		<owl:onProperty rdf:resource="&co;recipient"/>
       		  </owl:Restriction>
     		</owl:intersectionOf>
   		  </owl:Class>
-	    </copyright:condition>
-	    <rdfs:subClassOf rdf:resource="&copyright;Copy"/>
+	    </co:condition>
+	    <rdfs:subClassOf>
+	      <owl:Class>
+	        <owl:unionOf rdf:parseType="Collection">
+	          <rdf:Description rdf:about="&co;Communicate"/>
+	          <rdf:Description rdf:about="&co;Copy"/>
+	          <rdf:Description rdf:about="&co;Distribute"/>
+	          <rdf:Description rdf:about="&co;MakeAvailable"/>
+	        </owl:unionOf>
+	      </owl:Class>
+	    </rdfs:subClassOf>
 	    <owl:equivalentClass>
 	      <owl:Restriction>
-	        <owl:hasValue rdf:resource="http://omediadis.udl.cat/audio/segre/08012007-10/"/>
-	        <owl:onProperty rdf:resource="&copyright;theme"/>
+	        <owl:hasValue rdf:resource="http://omediadis.udl.cat/segre/recording/bulletin/08012007-10/"/>
+	        <owl:onProperty rdf:resource="&co;theme"/>
 	      </owl:Restriction>
 	    </owl:equivalentClass>
 	  </owl:Class>
-    </copyright:theme>
-    <copyright:theme>
+    </co:theme>
+	<co:theme>
+	  <owl:Class>
+	    <co:condition>
+	      <owl:Class>
+    		<rdfs:subClassOf rdf:resource="&co;Attribute"/>
+    		<owl:intersectionOf rdf:parseType="Collection">
+      		  <owl:Restriction>
+        		<owl:hasValue rdf:resource="http://omediadis.udl.cat/segre/recording/bulletin/08012007-10/"/>
+        		<owl:onProperty rdf:resource="&co;theme"/>
+      		  </owl:Restriction>
+      		  <owl:Restriction>
+        		<owl:hasValue rdf:resource="http://www.segre.com"/>
+        		<owl:onProperty rdf:resource="&co;recipient"/>
+      		  </owl:Restriction>
+    		</owl:intersectionOf>
+  		  </owl:Class>
+	    </co:condition>
+	    <rdfs:subClassOf>
+	      <owl:Class>
+	        <owl:unionOf rdf:parseType="Collection">
+	          <rdf:Description rdf:about="&co;Communicate"/>
+	          <rdf:Description rdf:about="&co;Copy"/>
+	          <rdf:Description rdf:about="&co;Distribute"/>
+	          <rdf:Description rdf:about="&co;MakeAvailable"/>
+	        </owl:unionOf>
+	      </owl:Class>
+	    </rdfs:subClassOf>
+	    <owl:equivalentClass>
+	      <owl:Restriction>
+	        <owl:onProperty rdf:resource="&co;theme"/>
+	        <owl:someValuesFrom rdf:resource="http://omediadis.udl.cat/segre/recording/bulletin/08012007-10/derivations/"/>
+	      </owl:Restriction>
+	    </owl:equivalentClass>
+	  </owl:Class>
+    </co:theme>
+    <co:theme>
       <owl:Class>
-	    <rdfs:subClassOf rdf:resource="&copyright;Access"/>
+	    <rdfs:subClassOf rdf:resource="&co;Derive"/>
 	    <owl:equivalentClass>
 	      <owl:Restriction>
-	        <owl:hasValue rdf:resource="http://omediadis.udl.cat/audio/segre/08012007-10/"/>
-	        <owl:onProperty rdf:resource="&copyright;theme"/>
+	        <owl:hasValue rdf:resource="http://omediadis.udl.cat/segre/recording/bulletin/08012007-10/"/>
+	        <owl:onProperty rdf:resource="&co;theme"/>
+	      </owl:Restriction>
+	    </owl:equivalentClass>
+	    <owl:equivalentClass>
+	      <owl:Restriction>
+	        <owl:onProperty rdf:resource="&co;result"/>
+	        <owl:someValuesFrom rdf:resource="http://omediadis.udl.cat/segre/recording/bulletin/08012007-10/derivations/"/>
 	      </owl:Restriction>
 	    </owl:equivalentClass>
 	  </owl:Class>
-	</copyright:theme>
-  </copyright:Agree>
-    
+	</co:theme>
+  </co:Agree>
+  
+  <owl:Class rdf:about="http://omediadis.udl.cat/segre/recording/bulletin/08012007-10/derivations/">
+    <rdfs:label>Derivations of Recording of Radio Bulletin 10h - January 8th 2007</rdfs:label>
+    <owl:equivalentClass>
+      <owl:Restriction>
+        <owl:hasValue rdf:resource="http://omediadis.udl.cat/segre/recording/bulletin/08012007-10/"/>
+        <owl:onProperty rdf:resource="&co;isDerivationOf"/>
+      </owl:Restriction>
+    </owl:equivalentClass>
+  </owl:Class>
+
+  <rdf:Description rdf:about="http://omediadis.udl.cat/segre/recording/bulletin/08012007-10/">
+    <rdfs:label>Recording of Radio Bulletin 10h - January 8th 2007</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.segre.com">
+  	<rdfs:label>Segre</rdfs:label>
+  </rdf:Description>
+  
+  <rdf:Description rdf:about="&co;Attribute">
+    <rdfs:label>attribute\s</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="&co;Agree">
+  	<rdfs:label>agree\s</rdfs:label>
+  </rdf:Description>
+    <rdf:Description rdf:about="&co;Copy">
+  	<rdfs:label>copy\ies</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="&co;Communicate">
+  	<rdfs:label>communicate\s</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="&co;Distribute">
+  	<rdfs:label>distribute\s</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="&co;MakeAvailable">
+  	<rdfs:label>make\s available</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="&co;Derive">
+  	<rdfs:label>derive\s</rdfs:label>
+  </rdf:Description>
+
 </rdf:RDF>

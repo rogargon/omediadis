@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE rdf:RDF [
-  <!ENTITY copyright "http://rhizomik.net/ontologies/2008/05/copyrightonto.owl#">
+  <!ENTITY copyright "http://rhizomik.net/ontologies/2009/09/copyrightonto.owl#">
   <!ENTITY owl "http://www.w3.org/2002/07/owl#">
   <!ENTITY rdf "http://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <!ENTITY rdfs "http://www.w3.org/2000/01/rdf-schema#">
@@ -13,9 +13,9 @@
          xmlns:rdfs="&rdfs;">
 
 <!-- Agreement -->
-  <copyright:Agree rdf:about="http://omediadis.udl.cat/audio/segre/01032007-Migdia/license/">
-  	<rdfs:label xml:lang="en">License for Segre's 'Butlletí Migdia-1/03/2007' (CC-BYND)</rdfs:label>
-	<rdfs:comment xml:lang="en">This license is equivalent to Creative Commons Attribution-NoDerivs license.</rdfs:comment>
+  <copyright:Agree rdf:about="http://omediadis.udl.cat/segre/recording/bulletin/13022007-Migdia/license/">
+  	<rdfs:label xml:lang="en">CC-BYND License for Recording of Radio Bulletin 12h - February 13th 2007</rdfs:label>
+	<rdfs:comment xml:lang="en">Creative Commons Attribution-No Derivative Works license for Recording of Radio Bulletin 12h - February 13th 2007</rdfs:comment>
     <copyright:agent rdf:resource="http://www.segre.com"/>
     <copyright:theme>
       <owl:Class>
@@ -24,7 +24,7 @@
     		<rdfs:subClassOf rdf:resource="&copyright;Attribute"/>
     		<owl:intersectionOf rdf:parseType="Collection">
       		  <owl:Restriction>
-        		<owl:hasValue rdf:resource="http://omediadis.udl.cat/audio/segre/01032007-Migdia/"/>
+        		<owl:hasValue rdf:resource="http://omediadis.udl.cat/segre/recording/bulletin/13022007-Migdia/"/>
         		<owl:onProperty rdf:resource="&copyright;theme"/>
       		  </owl:Restriction>
       		  <owl:Restriction>
@@ -46,7 +46,7 @@
 	    </rdfs:subClassOf>
 	    <owl:equivalentClass>
 	      <owl:Restriction>
-	        <owl:hasValue rdf:resource="http://omediadis.udl.cat/audio/segre/01032007-Migdia/"/>
+	        <owl:hasValue rdf:resource="http://omediadis.udl.cat/segre/recording/bulletin/13022007-Migdia/"/>
 	        <owl:onProperty rdf:resource="&copyright;theme"/>
 	      </owl:Restriction>
 	    </owl:equivalentClass>

@@ -1,0 +1,688 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix ns2:	<http://www.w3.org/ns/ma-ont#> .
+
+<http://omediadis.udl.cat/segre/audio/bulletin/01032007-Migdia.mp3>	rdf:type	ns2:AudioTrack .
+<http://omediadis.udl.cat/segre/audio/bulletin/06022007-Migdia.mp3>	rdf:type	ns2:AudioTrack .
+<http://omediadis.udl.cat/segre/audio/bulletin/08012007-10.mp3>	rdf:type	ns2:AudioTrack .
+<http://omediadis.udl.cat/segre/audio/bulletin/08012007-9.mp3>	rdf:type	ns2:AudioTrack .
+<http://omediadis.udl.cat/segre/audio/bulletin/09012007-15.mp3>	rdf:type	ns2:AudioTrack .
+<http://omediadis.udl.cat/segre/audio/bulletin/09012007-16.mp3>	rdf:type	ns2:AudioTrack .
+<http://omediadis.udl.cat/segre/audio/bulletin/09012007-17.mp3>	rdf:type	ns2:AudioTrack .
+<http://omediadis.udl.cat/segre/audio/bulletin/11012007-Migdia.mp3>	rdf:type	ns2:AudioTrack .
+<http://omediadis.udl.cat/segre/audio/bulletin/13022007-Migdia.mp3>	rdf:type	ns2:AudioTrack .
+<http://omediadis.udl.cat/segre/audio/bulletin/16042007-Migdia.mp3>	rdf:type	ns2:AudioTrack .
+<http://omediadis.udl.cat/segre/audio/bulletin/17012007-Migdia.mp3>	rdf:type	ns2:AudioTrack .
+<http://omediadis.udl.cat/segre/audio/bulletin/18012007-Migdia.mp3>	rdf:type	ns2:AudioTrack .
+<http://omediadis.udl.cat/segre/audio/bulletin/20022007-Migdia.mp3>	rdf:type	ns2:AudioTrack .
+<http://omediadis.udl.cat/segre/audio/bulletin/20112006-15.mp3>	rdf:type	ns2:AudioTrack .
+<http://omediadis.udl.cat/segre/audio/bulletin/20112006-16.mp3>	rdf:type	ns2:AudioTrack .
+<http://omediadis.udl.cat/segre/audio/bulletin/20112006-21.mp3>	rdf:type	ns2:AudioTrack .
+<http://omediadis.udl.cat/segre/audio/bulletin/20112006-22.mp3>	rdf:type	ns2:AudioTrack .
+<http://omediadis.udl.cat/segre/audio/bulletin/21022907-Migdia.mp3>	rdf:type	ns2:AudioTrack .
+<http://omediadis.udl.cat/segre/audio/bulletin/22012007-Migdia.mp3>	rdf:type	ns2:AudioTrack .
+<http://omediadis.udl.cat/segre/audio/bulletin/23012007-Migdia.mp3>	rdf:type	ns2:AudioTrack .
+<http://omediadis.udl.cat/segre/audio/bulletin/23022007-Migdia.mp3>	rdf:type	ns2:AudioTrack .
+<http://omediadis.udl.cat/segre/audio/bulletin/24012007-Migdia.mp3>	rdf:type	ns2:AudioTrack .
+<http://omediadis.udl.cat/segre/audio/bulletin/28022007-Migdia.mp3>	rdf:type	ns2:AudioTrack .
+<http://omediadis.udl.cat/segre/audio/bulletin/29032007-Migdia.mp3>	rdf:type	ns2:AudioTrack .
+<http://omediadis.udl.cat/segre/text/bulletin/01032007-Migdia.xml>	rdf:type	ns2:DataTrack .
+<http://omediadis.udl.cat/segre/text/bulletin/06022007-Migdia.xml>	rdf:type	ns2:DataTrack .
+<http://omediadis.udl.cat/segre/text/bulletin/08012007-10.xml>	rdf:type	ns2:DataTrack .
+<http://omediadis.udl.cat/segre/text/bulletin/08012007-9.xml>	rdf:type	ns2:DataTrack .
+<http://omediadis.udl.cat/segre/text/bulletin/09012007-15.xml>	rdf:type	ns2:DataTrack .
+<http://omediadis.udl.cat/segre/text/bulletin/09012007-16.xml>	rdf:type	ns2:DataTrack .
+<http://omediadis.udl.cat/segre/text/bulletin/09012007-17.xml>	rdf:type	ns2:DataTrack .
+<http://omediadis.udl.cat/segre/text/bulletin/11012007-Migdia.xml>	rdf:type	ns2:DataTrack .
+<http://omediadis.udl.cat/segre/text/bulletin/13022007-Migdia.xml>	rdf:type	ns2:DataTrack .
+<http://omediadis.udl.cat/segre/text/bulletin/16042007-Migdia.xml>	rdf:type	ns2:DataTrack .
+<http://omediadis.udl.cat/segre/text/bulletin/17012007-Migdia.xml>	rdf:type	ns2:DataTrack .
+<http://omediadis.udl.cat/segre/text/bulletin/18012007-Migdia.xml>	rdf:type	ns2:DataTrack .
+<http://omediadis.udl.cat/segre/text/bulletin/20022007-Migdia.xml>	rdf:type	ns2:DataTrack .
+<http://omediadis.udl.cat/segre/text/bulletin/20112006-15.xml>	rdf:type	ns2:DataTrack .
+<http://omediadis.udl.cat/segre/text/bulletin/20112006-16.xml>	rdf:type	ns2:DataTrack .
+<http://omediadis.udl.cat/segre/text/bulletin/20112006-21.xml>	rdf:type	ns2:DataTrack .
+<http://omediadis.udl.cat/segre/text/bulletin/20112006-22.xml>	rdf:type	ns2:DataTrack .
+<http://omediadis.udl.cat/segre/text/bulletin/21022907-Migdia.xml>	rdf:type	ns2:DataTrack .
+<http://omediadis.udl.cat/segre/text/bulletin/22012007-Migdia.xml>	rdf:type	ns2:DataTrack .
+<http://omediadis.udl.cat/segre/text/bulletin/23012007-Migdia.xml>	rdf:type	ns2:DataTrack .
+<http://omediadis.udl.cat/segre/text/bulletin/23022007-Migdia.xml>	rdf:type	ns2:DataTrack .
+<http://omediadis.udl.cat/segre/text/bulletin/24012007-Migdia.xml>	rdf:type	ns2:DataTrack .
+<http://omediadis.udl.cat/segre/text/bulletin/28022007-Migdia.xml>	rdf:type	ns2:DataTrack .
+<http://omediadis.udl.cat/segre/text/bulletin/29032007-Migdia.xml>	rdf:type	ns2:DataTrack .
+@prefix ns3:	<http://purl.org/rss/1.0/> .
+<http://omediadis.udl.cat/blog/2010/01/25/omediadis-first-prototype/>	rdf:type	ns3:item .
+@prefix ns4:	<http://rhizomik.net/ontologies/2009/09/copyrightonto.owl#> .
+<http://omediadis.udl.cat/segre/radio/bulletin/01032007-Migdia/>	rdf:type	ns4:Communication .
+<http://omediadis.udl.cat/segre/radio/bulletin/06022007-Migdia/>	rdf:type	ns4:Communication .
+<http://omediadis.udl.cat/segre/radio/bulletin/08012007-10/>	rdf:type	ns4:Communication .
+<http://omediadis.udl.cat/segre/radio/bulletin/08012007-9/>	rdf:type	ns4:Communication .
+<http://omediadis.udl.cat/segre/radio/bulletin/09012007-15/>	rdf:type	ns4:Communication .
+<http://omediadis.udl.cat/segre/radio/bulletin/09012007-16/>	rdf:type	ns4:Communication .
+<http://omediadis.udl.cat/segre/radio/bulletin/09012007-17/>	rdf:type	ns4:Communication .
+<http://omediadis.udl.cat/segre/radio/bulletin/11012007-Migdia/>	rdf:type	ns4:Communication .
+<http://omediadis.udl.cat/segre/radio/bulletin/13022007-Migdia/>	rdf:type	ns4:Communication .
+<http://omediadis.udl.cat/segre/radio/bulletin/16042007-Migdia/>	rdf:type	ns4:Communication .
+<http://omediadis.udl.cat/segre/radio/bulletin/17012007-Migdia/>	rdf:type	ns4:Communication .
+<http://omediadis.udl.cat/segre/radio/bulletin/18012007-Migdia/>	rdf:type	ns4:Communication .
+<http://omediadis.udl.cat/segre/radio/bulletin/20022007-Migdia/>	rdf:type	ns4:Communication .
+<http://omediadis.udl.cat/segre/radio/bulletin/20112006-15/>	rdf:type	ns4:Communication .
+<http://omediadis.udl.cat/segre/radio/bulletin/20112006-16/>	rdf:type	ns4:Communication .
+<http://omediadis.udl.cat/segre/radio/bulletin/20112006-21/>	rdf:type	ns4:Communication .
+<http://omediadis.udl.cat/segre/radio/bulletin/20112006-22/>	rdf:type	ns4:Communication .
+<http://omediadis.udl.cat/segre/radio/bulletin/21022907-Migdia/>	rdf:type	ns4:Communication .
+<http://omediadis.udl.cat/segre/radio/bulletin/22012007-Migdia/>	rdf:type	ns4:Communication .
+<http://omediadis.udl.cat/segre/radio/bulletin/23012007-Migdia/>	rdf:type	ns4:Communication .
+<http://omediadis.udl.cat/segre/radio/bulletin/23022007-Migdia/>	rdf:type	ns4:Communication .
+<http://omediadis.udl.cat/segre/radio/bulletin/24012007-Migdia/>	rdf:type	ns4:Communication .
+<http://omediadis.udl.cat/segre/radio/bulletin/28022007-Migdia/>	rdf:type	ns4:Communication .
+<http://omediadis.udl.cat/segre/radio/bulletin/29032007-Migdia/>	rdf:type	ns4:Communication .
+<http://omediadis.udl.cat/segre/recording/bulletin/01032007-Migdia/>	rdf:type	ns4:Recording .
+<http://omediadis.udl.cat/segre/recording/bulletin/06022007-Migdia/>	rdf:type	ns4:Recording .
+<http://omediadis.udl.cat/segre/recording/bulletin/08012007-10/>	rdf:type	ns4:Recording .
+<http://omediadis.udl.cat/segre/recording/bulletin/08012007-9/>	rdf:type	ns4:Recording .
+<http://omediadis.udl.cat/segre/recording/bulletin/09012007-15/>	rdf:type	ns4:Recording .
+<http://omediadis.udl.cat/segre/recording/bulletin/09012007-16/>	rdf:type	ns4:Recording .
+<http://omediadis.udl.cat/segre/recording/bulletin/09012007-17/>	rdf:type	ns4:Recording .
+<http://omediadis.udl.cat/segre/recording/bulletin/11012007-Migdia/>	rdf:type	ns4:Recording .
+<http://omediadis.udl.cat/segre/recording/bulletin/13022007-Migdia/>	rdf:type	ns4:Recording .
+<http://omediadis.udl.cat/segre/recording/bulletin/16042007-Migdia/>	rdf:type	ns4:Recording .
+<http://omediadis.udl.cat/segre/recording/bulletin/17012007-Migdia/>	rdf:type	ns4:Recording .
+<http://omediadis.udl.cat/segre/recording/bulletin/18012007-Migdia/>	rdf:type	ns4:Recording .
+<http://omediadis.udl.cat/segre/recording/bulletin/20022007-Migdia/>	rdf:type	ns4:Recording .
+<http://omediadis.udl.cat/segre/recording/bulletin/20112006-15/>	rdf:type	ns4:Recording .
+<http://omediadis.udl.cat/segre/recording/bulletin/20112006-16/>	rdf:type	ns4:Recording .
+<http://omediadis.udl.cat/segre/recording/bulletin/20112006-21/>	rdf:type	ns4:Recording .
+<http://omediadis.udl.cat/segre/recording/bulletin/20112006-22/>	rdf:type	ns4:Recording .
+<http://omediadis.udl.cat/segre/recording/bulletin/21022907-Migdia/>	rdf:type	ns4:Recording .
+<http://omediadis.udl.cat/segre/recording/bulletin/22012007-Migdia/>	rdf:type	ns4:Recording .
+<http://omediadis.udl.cat/segre/recording/bulletin/23012007-Migdia/>	rdf:type	ns4:Recording .
+<http://omediadis.udl.cat/segre/recording/bulletin/23022007-Migdia/>	rdf:type	ns4:Recording .
+<http://omediadis.udl.cat/segre/recording/bulletin/24012007-Migdia/>	rdf:type	ns4:Recording .
+<http://omediadis.udl.cat/segre/recording/bulletin/28022007-Migdia/>	rdf:type	ns4:Recording .
+<http://omediadis.udl.cat/segre/recording/bulletin/29032007-Migdia/>	rdf:type	ns4:Recording .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+<http://www.segre.com>	rdfs:label	"Segre" .
+<http://omediadis.udl.cat/segre/radio/bulletin/01032007-Migdia/>	rdfs:label	"Radio Bulletin 12h - March 1st 2007" .
+<http://omediadis.udl.cat/segre/recording/bulletin/01032007-Migdia/>	rdfs:label	"Recording of Radio Bulletin 12h - March 1st 2007" .
+<http://omediadis.udl.cat/segre/text/bulletin/01032007-Migdia.xml>	rdfs:label	"Transcript of Radio Bulletin 12h - March 1st 2007" .
+<http://omediadis.udl.cat/segre/audio/bulletin/01032007-Migdia.mp3>	rdfs:label	"MP3 Copy of Radio Bulletin 12h - March 1st 2007" .
+<http://omediadis.udl.cat/segre/radio/bulletin/06022007-Migdia/>	rdfs:label	"Radio Bulletin 12h - February 6th 2007" .
+<http://omediadis.udl.cat/segre/recording/bulletin/06022007-Migdia/>	rdfs:label	"Recording of Radio Bulletin 12h - February 6th 2007" .
+<http://omediadis.udl.cat/segre/text/bulletin/06022007-Migdia.xml>	rdfs:label	"Transcript of Radio Bulletin 12h - February 6th 2007" .
+<http://omediadis.udl.cat/segre/audio/bulletin/06022007-Migdia.mp3>	rdfs:label	"MP3 Copy of Radio Bulletin 12h - February 6th 2007" .
+<http://omediadis.udl.cat/segre/radio/bulletin/08012007-10/>	rdfs:label	"Radio Bulletin 10h - January 8th 2007" .
+<http://omediadis.udl.cat/segre/recording/bulletin/08012007-10/>	rdfs:label	"Recording of Radio Bulletin 10h - January 8th 2007" .
+<http://omediadis.udl.cat/segre/text/bulletin/08012007-10.xml>	rdfs:label	"Transcript of Radio Bulletin 10h - January 8th 2007" .
+<http://omediadis.udl.cat/segre/audio/bulletin/08012007-10.mp3>	rdfs:label	"MP3 Copy of Radio Bulletin 10h - January 8th 2007" .
+<http://omediadis.udl.cat/segre/radio/bulletin/08012007-9/>	rdfs:label	"Radio Bulletin 9h - January 8th 2007" .
+<http://omediadis.udl.cat/segre/recording/bulletin/08012007-9/>	rdfs:label	"Recording of Radio Bulletin 9h - January 8th 2007" .
+<http://omediadis.udl.cat/segre/text/bulletin/08012007-9.xml>	rdfs:label	"Transcript of Radio Bulletin 9h - January 8th 2007" .
+<http://omediadis.udl.cat/segre/audio/bulletin/08012007-9.mp3>	rdfs:label	"MP3 Copy of Radio Bulletin 9h - January 8th 2007" .
+<http://omediadis.udl.cat/segre/radio/bulletin/09012007-15/>	rdfs:label	"Radio Bulletin 15h - January 9th 2007" .
+<http://omediadis.udl.cat/segre/recording/bulletin/09012007-15/>	rdfs:label	"Recording of Radio Bulletin 15h - January 9th 2007" .
+<http://omediadis.udl.cat/segre/text/bulletin/09012007-15.xml>	rdfs:label	"Transcript of Radio Bulletin 15h - January 9th 2007" .
+<http://omediadis.udl.cat/segre/audio/bulletin/09012007-15.mp3>	rdfs:label	"MP3 Copy of Radio Bulletin 15h - January 9th 2007" .
+<http://omediadis.udl.cat/segre/radio/bulletin/09012007-16/>	rdfs:label	"Radio Bulletin 16h - January 9th 2007" .
+<http://omediadis.udl.cat/segre/recording/bulletin/09012007-16/>	rdfs:label	"Recording of Radio Bulletin 16h - January 9th 2007" .
+<http://omediadis.udl.cat/segre/text/bulletin/09012007-16.xml>	rdfs:label	"Transcript of Radio Bulletin 16h - January 9th 2007" .
+<http://omediadis.udl.cat/segre/audio/bulletin/09012007-16.mp3>	rdfs:label	"MP3 Copy of Radio Bulletin 16h - January 9th 2007" .
+<http://omediadis.udl.cat/segre/radio/bulletin/09012007-17/>	rdfs:label	"Radio Bulletin 17h - January 9th 2007" .
+<http://omediadis.udl.cat/segre/recording/bulletin/09012007-17/>	rdfs:label	"Recording of Radio Bulletin 17h - January 9th 2007" .
+<http://omediadis.udl.cat/segre/text/bulletin/09012007-17.xml>	rdfs:label	"Transcript of Radio Bulletin 17h - January 9th 2007" .
+<http://omediadis.udl.cat/segre/audio/bulletin/09012007-17.mp3>	rdfs:label	"MP3 Copy of Radio Bulletin 17h - January 9th 2007" .
+<http://omediadis.udl.cat/segre/radio/bulletin/11012007-Migdia/>	rdfs:label	"Radio Bulletin 12h - January 11th 2007" .
+<http://omediadis.udl.cat/segre/recording/bulletin/11012007-Migdia/>	rdfs:label	"Recording of Radio Bulletin 12h - January 11th 2007" .
+<http://omediadis.udl.cat/segre/text/bulletin/11012007-Migdia.xml>	rdfs:label	"Transcript of Radio Bulletin 12h - January 11th 2007" .
+<http://omediadis.udl.cat/segre/audio/bulletin/11012007-Migdia.mp3>	rdfs:label	"MP3 Copy of Radio Bulletin 12h - January 11th 2007" .
+<http://omediadis.udl.cat/segre/radio/bulletin/13022007-Migdia/>	rdfs:label	"Radio Bulletin 12h - February 13th 2007" .
+<http://omediadis.udl.cat/segre/recording/bulletin/13022007-Migdia/>	rdfs:label	"Recording of Radio Bulletin 12h - February 13th 2007" .
+<http://omediadis.udl.cat/segre/text/bulletin/13022007-Migdia.xml>	rdfs:label	"Transcript of Radio Bulletin 12h - February 13th 2007" .
+<http://omediadis.udl.cat/segre/audio/bulletin/13022007-Migdia.mp3>	rdfs:label	"MP3 Copy of Radio Bulletin 12h - February 13th 2007" .
+<http://omediadis.udl.cat/segre/radio/bulletin/16042007-Migdia/>	rdfs:label	"Radio Bulletin 12h - April 16th 2007" .
+<http://omediadis.udl.cat/segre/recording/bulletin/16042007-Migdia/>	rdfs:label	"Recording of Radio Bulletin 12h - April 16th 2007" .
+<http://omediadis.udl.cat/segre/text/bulletin/16042007-Migdia.xml>	rdfs:label	"Transcript of Radio Bulletin 12h - April 16th 2007" .
+<http://omediadis.udl.cat/segre/audio/bulletin/16042007-Migdia.mp3>	rdfs:label	"MP3 Copy of Radio Bulletin 12h - April 16th 2007" .
+<http://omediadis.udl.cat/segre/radio/bulletin/17012007-Migdia/>	rdfs:label	"Radio Bulletin 12h - January 17th 2007" .
+<http://omediadis.udl.cat/segre/recording/bulletin/17012007-Migdia/>	rdfs:label	"Recording of Radio Bulletin 12h - January 17th 2007" .
+<http://omediadis.udl.cat/segre/text/bulletin/17012007-Migdia.xml>	rdfs:label	"Transcript of Radio Bulletin 12h - January 17th 2007" .
+<http://omediadis.udl.cat/segre/audio/bulletin/17012007-Migdia.mp3>	rdfs:label	"MP3 Copy of Radio Bulletin 12h - January 17th 2007" .
+<http://omediadis.udl.cat/segre/radio/bulletin/18012007-Migdia/>	rdfs:label	"Radio Bulletin 12h - January 18th 2007" .
+<http://omediadis.udl.cat/segre/recording/bulletin/18012007-Migdia/>	rdfs:label	"Recording of Radio Bulletin 12h - January 18th 2007" .
+<http://omediadis.udl.cat/segre/text/bulletin/18012007-Migdia.xml>	rdfs:label	"Transcript of Radio Bulletin 12h - January 18th 2007" .
+<http://omediadis.udl.cat/segre/audio/bulletin/18012007-Migdia.mp3>	rdfs:label	"MP3 Copy of Radio Bulletin 12h - January 18th 2007" .
+<http://omediadis.udl.cat/segre/radio/bulletin/20022007-Migdia/>	rdfs:label	"Radio Bulletin 12h - February 20th 2007" .
+<http://omediadis.udl.cat/segre/recording/bulletin/20022007-Migdia/>	rdfs:label	"Recording of Radio Bulletin 12h - February 20th 2007" .
+<http://omediadis.udl.cat/segre/text/bulletin/20022007-Migdia.xml>	rdfs:label	"Transcript of Radio Bulletin 12h - February 20th 2007" .
+<http://omediadis.udl.cat/segre/audio/bulletin/20022007-Migdia.mp3>	rdfs:label	"MP3 Copy of Radio Bulletin 12h - February 20th 2007" .
+<http://omediadis.udl.cat/segre/radio/bulletin/20112006-15/>	rdfs:label	"Radio Bulletin 15h - November 20th 2006" .
+<http://omediadis.udl.cat/segre/recording/bulletin/20112006-15/>	rdfs:label	"Recording of Radio Bulletin 15h - November 20th 2006" .
+<http://omediadis.udl.cat/segre/text/bulletin/20112006-15.xml>	rdfs:label	"Transcript of Radio Bulletin 15h - November 20th 2006" .
+<http://omediadis.udl.cat/segre/audio/bulletin/20112006-15.mp3>	rdfs:label	"MP3 Copy of Radio Bulletin 15h - November 20th 2006" .
+<http://omediadis.udl.cat/segre/radio/bulletin/20112006-16/>	rdfs:label	"Radio Bulletin 16h - November 20th 2006" .
+<http://omediadis.udl.cat/segre/recording/bulletin/20112006-16/>	rdfs:label	"Recording of Radio Bulletin 16h - November 20th 2006" .
+<http://omediadis.udl.cat/segre/text/bulletin/20112006-16.xml>	rdfs:label	"Transcript of Radio Bulletin 16h - November 20th 2006" .
+<http://omediadis.udl.cat/segre/audio/bulletin/20112006-16.mp3>	rdfs:label	"MP3 Copy of Radio Bulletin 16h - November 20th 2006" .
+<http://omediadis.udl.cat/segre/radio/bulletin/20112006-21/>	rdfs:label	"Radio Bulletin 21h - November 20th 2006" .
+<http://omediadis.udl.cat/segre/recording/bulletin/20112006-21/>	rdfs:label	"Recording of Radio Bulletin 21h - November 20th 2006" .
+<http://omediadis.udl.cat/segre/text/bulletin/20112006-21.xml>	rdfs:label	"Transcript of Radio Bulletin 21h - November 20th 2006" .
+<http://omediadis.udl.cat/segre/audio/bulletin/20112006-21.mp3>	rdfs:label	"MP3 Copy of Radio Bulletin 21h - November 20th 2006" .
+<http://omediadis.udl.cat/segre/radio/bulletin/20112006-22/>	rdfs:label	"Radio Bulletin 22h - November 20th 2006" .
+<http://omediadis.udl.cat/segre/recording/bulletin/20112006-22/>	rdfs:label	"Recording of Radio Bulletin 22h - November 20th 2006" .
+<http://omediadis.udl.cat/segre/text/bulletin/20112006-22.xml>	rdfs:label	"Transcript of Radio Bulletin 22h - November 20th 2006" .
+<http://omediadis.udl.cat/segre/audio/bulletin/20112006-22.mp3>	rdfs:label	"MP3 Copy of Radio Bulletin 22h - November 20th 2006" .
+<http://omediadis.udl.cat/segre/radio/bulletin/21022907-Migdia/>	rdfs:label	"Radio Bulletin 12h - February 21th 2007" .
+<http://omediadis.udl.cat/segre/recording/bulletin/21022907-Migdia/>	rdfs:label	"Recording of Radio Bulletin 12h - February 21th 2007" .
+<http://omediadis.udl.cat/segre/text/bulletin/21022907-Migdia.xml>	rdfs:label	"Transcript of Radio Bulletin 12h - February 21th 2007" .
+<http://omediadis.udl.cat/segre/audio/bulletin/21022907-Migdia.mp3>	rdfs:label	"MP3 Copy of Radio Bulletin 12h - February 21th 2007" .
+<http://omediadis.udl.cat/segre/radio/bulletin/22012007-Migdia/>	rdfs:label	"Radio Bulletin 12h - January 22th 2007" .
+<http://omediadis.udl.cat/segre/recording/bulletin/22012007-Migdia/>	rdfs:label	"Recording of Radio Bulletin 12h - January 22th 2007" .
+<http://omediadis.udl.cat/segre/text/bulletin/22012007-Migdia.xml>	rdfs:label	"Transcript of Radio Bulletin 12h - January 22th 2007" .
+<http://omediadis.udl.cat/segre/audio/bulletin/22012007-Migdia.mp3>	rdfs:label	"MP3 Copy of Radio Bulletin 12h - January 22th 2007" .
+<http://omediadis.udl.cat/segre/radio/bulletin/23012007-Migdia/>	rdfs:label	"Radio Bulletin 12h - January 23th 2007" .
+<http://omediadis.udl.cat/segre/recording/bulletin/23012007-Migdia/>	rdfs:label	"Recording of Radio Bulletin 12h - January 23th 2007" .
+<http://omediadis.udl.cat/segre/text/bulletin/23012007-Migdia.xml>	rdfs:label	"Transcript of Radio Bulletin 12h - January 23th 2007" .
+<http://omediadis.udl.cat/segre/audio/bulletin/23012007-Migdia.mp3>	rdfs:label	"MP3 Copy of Radio Bulletin 12h - January 23th 2007" .
+<http://omediadis.udl.cat/segre/radio/bulletin/23022007-Migdia/>	rdfs:label	"Radio Bulletin 12h - February 23th 2007" .
+<http://omediadis.udl.cat/segre/recording/bulletin/23022007-Migdia/>	rdfs:label	"Recording of Radio Bulletin 12h - February 23th 2007" .
+<http://omediadis.udl.cat/segre/text/bulletin/23022007-Migdia.xml>	rdfs:label	"Transcript of Radio Bulletin 12h - February 23th 2007" .
+<http://omediadis.udl.cat/segre/audio/bulletin/23022007-Migdia.mp3>	rdfs:label	"MP3 Copy of Radio Bulletin 12h - February 23th 2007" .
+<http://omediadis.udl.cat/segre/radio/bulletin/24012007-Migdia/>	rdfs:label	"Radio Bulletin 12h - January 24th 2007" .
+<http://omediadis.udl.cat/segre/recording/bulletin/24012007-Migdia/>	rdfs:label	"Recording of Radio Bulletin 12h - January 24th 2007" .
+<http://omediadis.udl.cat/segre/text/bulletin/24012007-Migdia.xml>	rdfs:label	"Transcript of Radio Bulletin 12h - January 24th 2007" .
+<http://omediadis.udl.cat/segre/audio/bulletin/24012007-Migdia.mp3>	rdfs:label	"MP3 Copy of Radio Bulletin 12h - January 24th 2007" .
+<http://omediadis.udl.cat/segre/radio/bulletin/28022007-Migdia/>	rdfs:label	"Radio Bulletin 12h - February 28th 2007" .
+<http://omediadis.udl.cat/segre/recording/bulletin/28022007-Migdia/>	rdfs:label	"Recording of Radio Bulletin 12h - February 28th 2007" .
+<http://omediadis.udl.cat/segre/text/bulletin/28022007-Migdia.xml>	rdfs:label	"Transcript of Radio Bulletin 12h - February 28th 2007" .
+<http://omediadis.udl.cat/segre/audio/bulletin/28022007-Migdia.mp3>	rdfs:label	"MP3 Copy of Radio Bulletin 12h - February 28th 2007" .
+<http://omediadis.udl.cat/segre/radio/bulletin/29032007-Migdia/>	rdfs:label	"Radio Bulletin 12h - March 29th 2007" .
+<http://omediadis.udl.cat/segre/recording/bulletin/29032007-Migdia/>	rdfs:label	"Recording of Radio Bulletin 12h - March 29th 2007" .
+<http://omediadis.udl.cat/segre/text/bulletin/29032007-Migdia.xml>	rdfs:label	"Transcript of Radio Bulletin 12h - March 29th 2007" .
+<http://omediadis.udl.cat/segre/audio/bulletin/29032007-Migdia.mp3>	rdfs:label	"MP3 Copy of Radio Bulletin 12h - March 29th 2007" .
+<http://omediadis.udl.cat/blog/2010/01/25/omediadis-first-prototype/>	rdfs:label	"OMediaDis first prototype"@en .
+<http://omediadis.udl.cat/segre/recording/bulletin/01032007-Migdia/>	ns2:hasAudioDescription	<http://omediadis.udl.cat/segre/text/bulletin/01032007-Migdia.xml> .
+<http://omediadis.udl.cat/segre/recording/bulletin/06022007-Migdia/>	ns2:hasAudioDescription	<http://omediadis.udl.cat/segre/text/bulletin/06022007-Migdia.xml> .
+<http://omediadis.udl.cat/segre/recording/bulletin/08012007-10/>	ns2:hasAudioDescription	<http://omediadis.udl.cat/segre/text/bulletin/08012007-10.xml> .
+<http://omediadis.udl.cat/segre/recording/bulletin/08012007-9/>	ns2:hasAudioDescription	<http://omediadis.udl.cat/segre/text/bulletin/08012007-9.xml> .
+<http://omediadis.udl.cat/segre/recording/bulletin/09012007-15/>	ns2:hasAudioDescription	<http://omediadis.udl.cat/segre/text/bulletin/09012007-15.xml> .
+<http://omediadis.udl.cat/segre/recording/bulletin/09012007-16/>	ns2:hasAudioDescription	<http://omediadis.udl.cat/segre/text/bulletin/09012007-16.xml> .
+<http://omediadis.udl.cat/segre/recording/bulletin/09012007-17/>	ns2:hasAudioDescription	<http://omediadis.udl.cat/segre/text/bulletin/09012007-17.xml> .
+<http://omediadis.udl.cat/segre/recording/bulletin/11012007-Migdia/>	ns2:hasAudioDescription	<http://omediadis.udl.cat/segre/text/bulletin/11012007-Migdia.xml> .
+<http://omediadis.udl.cat/segre/recording/bulletin/13022007-Migdia/>	ns2:hasAudioDescription	<http://omediadis.udl.cat/segre/text/bulletin/13022007-Migdia.xml> .
+<http://omediadis.udl.cat/segre/recording/bulletin/16042007-Migdia/>	ns2:hasAudioDescription	<http://omediadis.udl.cat/segre/text/bulletin/16042007-Migdia.xml> .
+<http://omediadis.udl.cat/segre/recording/bulletin/17012007-Migdia/>	ns2:hasAudioDescription	<http://omediadis.udl.cat/segre/text/bulletin/17012007-Migdia.xml> .
+<http://omediadis.udl.cat/segre/recording/bulletin/18012007-Migdia/>	ns2:hasAudioDescription	<http://omediadis.udl.cat/segre/text/bulletin/18012007-Migdia.xml> .
+<http://omediadis.udl.cat/segre/recording/bulletin/20022007-Migdia/>	ns2:hasAudioDescription	<http://omediadis.udl.cat/segre/text/bulletin/20022007-Migdia.xml> .
+<http://omediadis.udl.cat/segre/recording/bulletin/20112006-15/>	ns2:hasAudioDescription	<http://omediadis.udl.cat/segre/text/bulletin/20112006-15.xml> .
+<http://omediadis.udl.cat/segre/recording/bulletin/20112006-16/>	ns2:hasAudioDescription	<http://omediadis.udl.cat/segre/text/bulletin/20112006-16.xml> .
+<http://omediadis.udl.cat/segre/recording/bulletin/20112006-21/>	ns2:hasAudioDescription	<http://omediadis.udl.cat/segre/text/bulletin/20112006-21.xml> .
+<http://omediadis.udl.cat/segre/recording/bulletin/20112006-22/>	ns2:hasAudioDescription	<http://omediadis.udl.cat/segre/text/bulletin/20112006-22.xml> .
+<http://omediadis.udl.cat/segre/recording/bulletin/21022907-Migdia/>	ns2:hasAudioDescription	<http://omediadis.udl.cat/segre/text/bulletin/21022907-Migdia.xml> .
+<http://omediadis.udl.cat/segre/recording/bulletin/22012007-Migdia/>	ns2:hasAudioDescription	<http://omediadis.udl.cat/segre/text/bulletin/22012007-Migdia.xml> .
+<http://omediadis.udl.cat/segre/recording/bulletin/23012007-Migdia/>	ns2:hasAudioDescription	<http://omediadis.udl.cat/segre/text/bulletin/23012007-Migdia.xml> .
+<http://omediadis.udl.cat/segre/recording/bulletin/23022007-Migdia/>	ns2:hasAudioDescription	<http://omediadis.udl.cat/segre/text/bulletin/23022007-Migdia.xml> .
+<http://omediadis.udl.cat/segre/recording/bulletin/24012007-Migdia/>	ns2:hasAudioDescription	<http://omediadis.udl.cat/segre/text/bulletin/24012007-Migdia.xml> .
+<http://omediadis.udl.cat/segre/recording/bulletin/28022007-Migdia/>	ns2:hasAudioDescription	<http://omediadis.udl.cat/segre/text/bulletin/28022007-Migdia.xml> .
+<http://omediadis.udl.cat/segre/recording/bulletin/29032007-Migdia/>	ns2:hasAudioDescription	<http://omediadis.udl.cat/segre/text/bulletin/29032007-Migdia.xml> .
+<http://omediadis.udl.cat/segre/audio/bulletin/20112006-15.mp3>	ns2:duration	"PT00:01:42" .
+<http://omediadis.udl.cat/segre/audio/bulletin/01032007-Migdia.mp3>	ns2:duration	"PT00:06:26" .
+<http://omediadis.udl.cat/segre/audio/bulletin/06022007-Migdia.mp3>	ns2:duration	"PT00:06:44" .
+<http://omediadis.udl.cat/segre/audio/bulletin/08012007-10.mp3>	ns2:duration	"PT00:01:28" .
+<http://omediadis.udl.cat/segre/audio/bulletin/08012007-9.mp3>	ns2:duration	"PT00:01:25" .
+<http://omediadis.udl.cat/segre/audio/bulletin/09012007-15.mp3>	ns2:duration	"PT00:01:09" .
+<http://omediadis.udl.cat/segre/audio/bulletin/09012007-16.mp3>	ns2:duration	"PT00:01:15" .
+<http://omediadis.udl.cat/segre/audio/bulletin/09012007-17.mp3>	ns2:duration	"PT00:01:20" .
+<http://omediadis.udl.cat/segre/audio/bulletin/11012007-Migdia.mp3>	ns2:duration	"PT00:10:25" .
+<http://omediadis.udl.cat/segre/audio/bulletin/13022007-Migdia.mp3>	ns2:duration	"PT00:07:25" .
+<http://omediadis.udl.cat/segre/audio/bulletin/16042007-Migdia.mp3>	ns2:duration	"PT00:07:43" .
+<http://omediadis.udl.cat/segre/audio/bulletin/21022907-Migdia.mp3>	ns2:duration	"PT00:07:43" .
+<http://omediadis.udl.cat/segre/audio/bulletin/17012007-Migdia.mp3>	ns2:duration	"PT00:11:10" .
+<http://omediadis.udl.cat/segre/audio/bulletin/18012007-Migdia.mp3>	ns2:duration	"PT00:12:04" .
+<http://omediadis.udl.cat/segre/audio/bulletin/20022007-Migdia.mp3>	ns2:duration	"PT00:08:55" .
+<http://omediadis.udl.cat/segre/audio/bulletin/20112006-16.mp3>	ns2:duration	"PT00:01:46" .
+<http://omediadis.udl.cat/segre/audio/bulletin/20112006-21.mp3>	ns2:duration	"PT00:01:27" .
+<http://omediadis.udl.cat/segre/audio/bulletin/20112006-22.mp3>	ns2:duration	"PT00:01:24" .
+<http://omediadis.udl.cat/segre/audio/bulletin/22012007-Migdia.mp3>	ns2:duration	"PT00:07:32" .
+<http://omediadis.udl.cat/segre/audio/bulletin/23012007-Migdia.mp3>	ns2:duration	"PT00:06:20" .
+<http://omediadis.udl.cat/segre/audio/bulletin/23022007-Migdia.mp3>	ns2:duration	"PT00:10:34" .
+<http://omediadis.udl.cat/segre/audio/bulletin/24012007-Migdia.mp3>	ns2:duration	"PT00:12:11" .
+<http://omediadis.udl.cat/segre/audio/bulletin/28022007-Migdia.mp3>	ns2:duration	"PT00:06:27" .
+<http://omediadis.udl.cat/segre/audio/bulletin/29032007-Migdia.mp3>	ns2:duration	"PT00:06:03" .
+@prefix dc:	<http://purl.org/dc/elements/1.1/> .
+<http://omediadis.udl.cat/segre/radio/bulletin/01032007-Migdia/>	dc:date	"2007" .
+<http://omediadis.udl.cat/segre/radio/bulletin/06022007-Migdia/>	dc:date	"2007" .
+<http://omediadis.udl.cat/segre/radio/bulletin/08012007-10/>	dc:date	"2007" .
+<http://omediadis.udl.cat/segre/radio/bulletin/08012007-9/>	dc:date	"2007" .
+<http://omediadis.udl.cat/segre/radio/bulletin/09012007-15/>	dc:date	"2007" .
+<http://omediadis.udl.cat/segre/radio/bulletin/09012007-16/>	dc:date	"2007" .
+<http://omediadis.udl.cat/segre/radio/bulletin/09012007-17/>	dc:date	"2007" .
+<http://omediadis.udl.cat/segre/radio/bulletin/11012007-Migdia/>	dc:date	"2007" .
+<http://omediadis.udl.cat/segre/radio/bulletin/13022007-Migdia/>	dc:date	"2007" .
+<http://omediadis.udl.cat/segre/radio/bulletin/16042007-Migdia/>	dc:date	"2007" .
+<http://omediadis.udl.cat/segre/radio/bulletin/17012007-Migdia/>	dc:date	"2007" .
+<http://omediadis.udl.cat/segre/radio/bulletin/18012007-Migdia/>	dc:date	"2007" .
+<http://omediadis.udl.cat/segre/radio/bulletin/20022007-Migdia/>	dc:date	"2007" .
+<http://omediadis.udl.cat/segre/radio/bulletin/21022907-Migdia/>	dc:date	"2007" .
+<http://omediadis.udl.cat/segre/radio/bulletin/22012007-Migdia/>	dc:date	"2007" .
+<http://omediadis.udl.cat/segre/radio/bulletin/23012007-Migdia/>	dc:date	"2007" .
+<http://omediadis.udl.cat/segre/radio/bulletin/23022007-Migdia/>	dc:date	"2007" .
+<http://omediadis.udl.cat/segre/radio/bulletin/24012007-Migdia/>	dc:date	"2007" .
+<http://omediadis.udl.cat/segre/radio/bulletin/28022007-Migdia/>	dc:date	"2007" .
+<http://omediadis.udl.cat/segre/radio/bulletin/29032007-Migdia/>	dc:date	"2007" .
+<http://omediadis.udl.cat/segre/radio/bulletin/20112006-15/>	dc:date	"2006" .
+<http://omediadis.udl.cat/segre/radio/bulletin/20112006-16/>	dc:date	"2006" .
+<http://omediadis.udl.cat/segre/radio/bulletin/20112006-21/>	dc:date	"2006" .
+<http://omediadis.udl.cat/segre/radio/bulletin/20112006-22/>	dc:date	"2006" .
+<http://omediadis.udl.cat/blog/2010/01/25/omediadis-first-prototype/>	dc:date	"2010-01-25"@en .
+<http://omediadis.udl.cat/segre/audio/bulletin/01032007-Migdia.mp3>	dc:format	"audio/mpeg" .
+<http://omediadis.udl.cat/segre/audio/bulletin/06022007-Migdia.mp3>	dc:format	"audio/mpeg" .
+<http://omediadis.udl.cat/segre/audio/bulletin/08012007-10.mp3>	dc:format	"audio/mpeg" .
+<http://omediadis.udl.cat/segre/audio/bulletin/08012007-9.mp3>	dc:format	"audio/mpeg" .
+<http://omediadis.udl.cat/segre/audio/bulletin/09012007-15.mp3>	dc:format	"audio/mpeg" .
+<http://omediadis.udl.cat/segre/audio/bulletin/09012007-16.mp3>	dc:format	"audio/mpeg" .
+<http://omediadis.udl.cat/segre/audio/bulletin/09012007-17.mp3>	dc:format	"audio/mpeg" .
+<http://omediadis.udl.cat/segre/audio/bulletin/11012007-Migdia.mp3>	dc:format	"audio/mpeg" .
+<http://omediadis.udl.cat/segre/audio/bulletin/13022007-Migdia.mp3>	dc:format	"audio/mpeg" .
+<http://omediadis.udl.cat/segre/audio/bulletin/16042007-Migdia.mp3>	dc:format	"audio/mpeg" .
+<http://omediadis.udl.cat/segre/audio/bulletin/17012007-Migdia.mp3>	dc:format	"audio/mpeg" .
+<http://omediadis.udl.cat/segre/audio/bulletin/18012007-Migdia.mp3>	dc:format	"audio/mpeg" .
+<http://omediadis.udl.cat/segre/audio/bulletin/20022007-Migdia.mp3>	dc:format	"audio/mpeg" .
+<http://omediadis.udl.cat/segre/audio/bulletin/20112006-15.mp3>	dc:format	"audio/mpeg" .
+<http://omediadis.udl.cat/segre/audio/bulletin/20112006-16.mp3>	dc:format	"audio/mpeg" .
+<http://omediadis.udl.cat/segre/audio/bulletin/20112006-21.mp3>	dc:format	"audio/mpeg" .
+<http://omediadis.udl.cat/segre/audio/bulletin/20112006-22.mp3>	dc:format	"audio/mpeg" .
+<http://omediadis.udl.cat/segre/audio/bulletin/21022907-Migdia.mp3>	dc:format	"audio/mpeg" .
+<http://omediadis.udl.cat/segre/audio/bulletin/22012007-Migdia.mp3>	dc:format	"audio/mpeg" .
+<http://omediadis.udl.cat/segre/audio/bulletin/23012007-Migdia.mp3>	dc:format	"audio/mpeg" .
+<http://omediadis.udl.cat/segre/audio/bulletin/23022007-Migdia.mp3>	dc:format	"audio/mpeg" .
+<http://omediadis.udl.cat/segre/audio/bulletin/24012007-Migdia.mp3>	dc:format	"audio/mpeg" .
+<http://omediadis.udl.cat/segre/audio/bulletin/28022007-Migdia.mp3>	dc:format	"audio/mpeg" .
+<http://omediadis.udl.cat/segre/audio/bulletin/29032007-Migdia.mp3>	dc:format	"audio/mpeg" .
+<http://omediadis.udl.cat/segre/radio/bulletin/01032007-Migdia/>	dc:language	"ca" .
+<http://omediadis.udl.cat/segre/recording/bulletin/01032007-Migdia/>	dc:language	"ca" .
+<http://omediadis.udl.cat/segre/text/bulletin/01032007-Migdia.xml>	dc:language	"ca" .
+<http://omediadis.udl.cat/segre/audio/bulletin/01032007-Migdia.mp3>	dc:language	"ca" .
+<http://omediadis.udl.cat/segre/radio/bulletin/06022007-Migdia/>	dc:language	"ca" .
+<http://omediadis.udl.cat/segre/recording/bulletin/06022007-Migdia/>	dc:language	"ca" .
+<http://omediadis.udl.cat/segre/text/bulletin/06022007-Migdia.xml>	dc:language	"ca" .
+<http://omediadis.udl.cat/segre/audio/bulletin/06022007-Migdia.mp3>	dc:language	"ca" .
+<http://omediadis.udl.cat/segre/radio/bulletin/08012007-10/>	dc:language	"ca" .
+<http://omediadis.udl.cat/segre/recording/bulletin/08012007-10/>	dc:language	"ca" .
+<http://omediadis.udl.cat/segre/text/bulletin/08012007-10.xml>	dc:language	"ca" .
+<http://omediadis.udl.cat/segre/audio/bulletin/08012007-10.mp3>	dc:language	"ca" .
+<http://omediadis.udl.cat/segre/radio/bulletin/08012007-9/>	dc:language	"ca" .
+<http://omediadis.udl.cat/segre/recording/bulletin/08012007-9/>	dc:language	"ca" .
+<http://omediadis.udl.cat/segre/text/bulletin/08012007-9.xml>	dc:language	"ca" .
+<http://omediadis.udl.cat/segre/audio/bulletin/08012007-9.mp3>	dc:language	"ca" .
+<http://omediadis.udl.cat/segre/radio/bulletin/09012007-15/>	dc:language	"ca" .
+<http://omediadis.udl.cat/segre/recording/bulletin/09012007-15/>	dc:language	"ca" .
+<http://omediadis.udl.cat/segre/text/bulletin/09012007-15.xml>	dc:language	"ca" .
+<http://omediadis.udl.cat/segre/audio/bulletin/09012007-15.mp3>	dc:language	"ca" .
+<http://omediadis.udl.cat/segre/radio/bulletin/09012007-16/>	dc:language	"ca" .
+<http://omediadis.udl.cat/segre/recording/bulletin/09012007-16/>	dc:language	"ca" .
+<http://omediadis.udl.cat/segre/text/bulletin/09012007-16.xml>	dc:language	"ca" .
+<http://omediadis.udl.cat/segre/audio/bulletin/09012007-16.mp3>	dc:language	"ca" .
+<http://omediadis.udl.cat/segre/radio/bulletin/09012007-17/>	dc:language	"ca" .
+<http://omediadis.udl.cat/segre/recording/bulletin/09012007-17/>	dc:language	"ca" .
+<http://omediadis.udl.cat/segre/text/bulletin/09012007-17.xml>	dc:language	"ca" .
+<http://omediadis.udl.cat/segre/audio/bulletin/09012007-17.mp3>	dc:language	"ca" .
+<http://omediadis.udl.cat/segre/radio/bulletin/11012007-Migdia/>	dc:language	"ca" .
+<http://omediadis.udl.cat/segre/recording/bulletin/11012007-Migdia/>	dc:language	"ca" .
+<http://omediadis.udl.cat/segre/text/bulletin/11012007-Migdia.xml>	dc:language	"ca" .
+<http://omediadis.udl.cat/segre/audio/bulletin/11012007-Migdia.mp3>	dc:language	"ca" .
+<http://omediadis.udl.cat/segre/radio/bulletin/13022007-Migdia/>	dc:language	"ca" .
+<http://omediadis.udl.cat/segre/recording/bulletin/13022007-Migdia/>	dc:language	"ca" .
+<http://omediadis.udl.cat/segre/text/bulletin/13022007-Migdia.xml>	dc:language	"ca" .
+<http://omediadis.udl.cat/segre/audio/bulletin/13022007-Migdia.mp3>	dc:language	"ca" .
+<http://omediadis.udl.cat/segre/radio/bulletin/16042007-Migdia/>	dc:language	"ca" .
+<http://omediadis.udl.cat/segre/recording/bulletin/16042007-Migdia/>	dc:language	"ca" .
+<http://omediadis.udl.cat/segre/text/bulletin/16042007-Migdia.xml>	dc:language	"ca" .
+<http://omediadis.udl.cat/segre/audio/bulletin/16042007-Migdia.mp3>	dc:language	"ca" .
+<http://omediadis.udl.cat/segre/radio/bulletin/17012007-Migdia/>	dc:language	"ca" .
+<http://omediadis.udl.cat/segre/recording/bulletin/17012007-Migdia/>	dc:language	"ca" .
+<http://omediadis.udl.cat/segre/text/bulletin/17012007-Migdia.xml>	dc:language	"ca" .
+<http://omediadis.udl.cat/segre/audio/bulletin/17012007-Migdia.mp3>	dc:language	"ca" .
+<http://omediadis.udl.cat/segre/radio/bulletin/18012007-Migdia/>	dc:language	"ca" .
+<http://omediadis.udl.cat/segre/recording/bulletin/18012007-Migdia/>	dc:language	"ca" .
+<http://omediadis.udl.cat/segre/text/bulletin/18012007-Migdia.xml>	dc:language	"ca" .
+<http://omediadis.udl.cat/segre/audio/bulletin/18012007-Migdia.mp3>	dc:language	"ca" .
+<http://omediadis.udl.cat/segre/radio/bulletin/20022007-Migdia/>	dc:language	"ca" .
+<http://omediadis.udl.cat/segre/recording/bulletin/20022007-Migdia/>	dc:language	"ca" .
+<http://omediadis.udl.cat/segre/text/bulletin/20022007-Migdia.xml>	dc:language	"ca" .
+<http://omediadis.udl.cat/segre/audio/bulletin/20022007-Migdia.mp3>	dc:language	"ca" .
+<http://omediadis.udl.cat/segre/radio/bulletin/20112006-15/>	dc:language	"ca" .
+<http://omediadis.udl.cat/segre/recording/bulletin/20112006-15/>	dc:language	"ca" .
+<http://omediadis.udl.cat/segre/text/bulletin/20112006-15.xml>	dc:language	"ca" .
+<http://omediadis.udl.cat/segre/audio/bulletin/20112006-15.mp3>	dc:language	"ca" .
+<http://omediadis.udl.cat/segre/radio/bulletin/20112006-16/>	dc:language	"ca" .
+<http://omediadis.udl.cat/segre/recording/bulletin/20112006-16/>	dc:language	"ca" .
+<http://omediadis.udl.cat/segre/text/bulletin/20112006-16.xml>	dc:language	"ca" .
+<http://omediadis.udl.cat/segre/audio/bulletin/20112006-16.mp3>	dc:language	"ca" .
+<http://omediadis.udl.cat/segre/radio/bulletin/20112006-21/>	dc:language	"ca" .
+<http://omediadis.udl.cat/segre/recording/bulletin/20112006-21/>	dc:language	"ca" .
+<http://omediadis.udl.cat/segre/text/bulletin/20112006-21.xml>	dc:language	"ca" .
+<http://omediadis.udl.cat/segre/audio/bulletin/20112006-21.mp3>	dc:language	"ca" .
+<http://omediadis.udl.cat/segre/radio/bulletin/20112006-22/>	dc:language	"ca" .
+<http://omediadis.udl.cat/segre/recording/bulletin/20112006-22/>	dc:language	"ca" .
+<http://omediadis.udl.cat/segre/text/bulletin/20112006-22.xml>	dc:language	"ca" .
+<http://omediadis.udl.cat/segre/audio/bulletin/20112006-22.mp3>	dc:language	"ca" .
+<http://omediadis.udl.cat/segre/radio/bulletin/21022907-Migdia/>	dc:language	"ca" .
+<http://omediadis.udl.cat/segre/recording/bulletin/21022907-Migdia/>	dc:language	"ca" .
+<http://omediadis.udl.cat/segre/text/bulletin/21022907-Migdia.xml>	dc:language	"ca" .
+<http://omediadis.udl.cat/segre/audio/bulletin/21022907-Migdia.mp3>	dc:language	"ca" .
+<http://omediadis.udl.cat/segre/radio/bulletin/22012007-Migdia/>	dc:language	"ca" .
+<http://omediadis.udl.cat/segre/recording/bulletin/22012007-Migdia/>	dc:language	"ca" .
+<http://omediadis.udl.cat/segre/text/bulletin/22012007-Migdia.xml>	dc:language	"ca" .
+<http://omediadis.udl.cat/segre/audio/bulletin/22012007-Migdia.mp3>	dc:language	"ca" .
+<http://omediadis.udl.cat/segre/radio/bulletin/23012007-Migdia/>	dc:language	"ca" .
+<http://omediadis.udl.cat/segre/recording/bulletin/23012007-Migdia/>	dc:language	"ca" .
+<http://omediadis.udl.cat/segre/text/bulletin/23012007-Migdia.xml>	dc:language	"ca" .
+<http://omediadis.udl.cat/segre/audio/bulletin/23012007-Migdia.mp3>	dc:language	"ca" .
+<http://omediadis.udl.cat/segre/radio/bulletin/23022007-Migdia/>	dc:language	"ca" .
+<http://omediadis.udl.cat/segre/recording/bulletin/23022007-Migdia/>	dc:language	"ca" .
+<http://omediadis.udl.cat/segre/text/bulletin/23022007-Migdia.xml>	dc:language	"ca" .
+<http://omediadis.udl.cat/segre/audio/bulletin/23022007-Migdia.mp3>	dc:language	"ca" .
+<http://omediadis.udl.cat/segre/radio/bulletin/24012007-Migdia/>	dc:language	"ca" .
+<http://omediadis.udl.cat/segre/recording/bulletin/24012007-Migdia/>	dc:language	"ca" .
+<http://omediadis.udl.cat/segre/text/bulletin/24012007-Migdia.xml>	dc:language	"ca" .
+<http://omediadis.udl.cat/segre/audio/bulletin/24012007-Migdia.mp3>	dc:language	"ca" .
+<http://omediadis.udl.cat/segre/radio/bulletin/28022007-Migdia/>	dc:language	"ca" .
+<http://omediadis.udl.cat/segre/recording/bulletin/28022007-Migdia/>	dc:language	"ca" .
+<http://omediadis.udl.cat/segre/text/bulletin/28022007-Migdia.xml>	dc:language	"ca" .
+<http://omediadis.udl.cat/segre/audio/bulletin/28022007-Migdia.mp3>	dc:language	"ca" .
+<http://omediadis.udl.cat/segre/radio/bulletin/29032007-Migdia/>	dc:language	"ca" .
+<http://omediadis.udl.cat/segre/recording/bulletin/29032007-Migdia/>	dc:language	"ca" .
+<http://omediadis.udl.cat/segre/text/bulletin/29032007-Migdia.xml>	dc:language	"ca" .
+<http://omediadis.udl.cat/segre/audio/bulletin/29032007-Migdia.mp3>	dc:language	"ca" .
+<http://omediadis.udl.cat/segre/radio/bulletin/01032007-Migdia/>	dc:title	"Radio Bulletin 12h - March 1st 2007" .
+<http://omediadis.udl.cat/segre/recording/bulletin/01032007-Migdia/>	dc:title	"Recording of Radio Bulletin 12h - March 1st 2007" .
+<http://omediadis.udl.cat/segre/text/bulletin/01032007-Migdia.xml>	dc:title	"Transcript of Radio Bulletin 12h - March 1st 2007" .
+<http://omediadis.udl.cat/segre/audio/bulletin/01032007-Migdia.mp3>	dc:title	"MP3 Copy of Radio Bulletin 12h - March 1st 2007" .
+<http://omediadis.udl.cat/segre/radio/bulletin/06022007-Migdia/>	dc:title	"Radio Bulletin 12h - February 6th 2007" .
+<http://omediadis.udl.cat/segre/recording/bulletin/06022007-Migdia/>	dc:title	"Recording of Radio Bulletin 12h - February 6th 2007" .
+<http://omediadis.udl.cat/segre/text/bulletin/06022007-Migdia.xml>	dc:title	"Transcript of Radio Bulletin 12h - February 6th 2007" .
+<http://omediadis.udl.cat/segre/audio/bulletin/06022007-Migdia.mp3>	dc:title	"MP3 Copy of Radio Bulletin 12h - February 6th 2007" .
+<http://omediadis.udl.cat/segre/radio/bulletin/08012007-10/>	dc:title	"Radio Bulletin 10h - January 8th 2007" .
+<http://omediadis.udl.cat/segre/recording/bulletin/08012007-10/>	dc:title	"Recording of Radio Bulletin 10h - January 8th 2007" .
+<http://omediadis.udl.cat/segre/text/bulletin/08012007-10.xml>	dc:title	"Transcript of Radio Bulletin 10h - January 8th 2007" .
+<http://omediadis.udl.cat/segre/audio/bulletin/08012007-10.mp3>	dc:title	"MP3 Copy of Radio Bulletin 10h - January 8th 2007" .
+<http://omediadis.udl.cat/segre/radio/bulletin/08012007-9/>	dc:title	"Radio Bulletin 9h - January 8th 2007" .
+<http://omediadis.udl.cat/segre/recording/bulletin/08012007-9/>	dc:title	"Recording of Radio Bulletin 9h - January 8th 2007" .
+<http://omediadis.udl.cat/segre/text/bulletin/08012007-9.xml>	dc:title	"Transcript of Radio Bulletin 9h - January 8th 2007" .
+<http://omediadis.udl.cat/segre/audio/bulletin/08012007-9.mp3>	dc:title	"MP3 Copy of Radio Bulletin 9h - January 8th 2007" .
+<http://omediadis.udl.cat/segre/radio/bulletin/09012007-15/>	dc:title	"Radio Bulletin 15h - January 9th 2007" .
+<http://omediadis.udl.cat/segre/recording/bulletin/09012007-15/>	dc:title	"Recording of Radio Bulletin 15h - January 9th 2007" .
+<http://omediadis.udl.cat/segre/text/bulletin/09012007-15.xml>	dc:title	"Transcript of Radio Bulletin 15h - January 9th 2007" .
+<http://omediadis.udl.cat/segre/audio/bulletin/09012007-15.mp3>	dc:title	"MP3 Copy of Radio Bulletin 15h - January 9th 2007" .
+<http://omediadis.udl.cat/segre/radio/bulletin/09012007-16/>	dc:title	"Radio Bulletin 16h - January 9th 2007" .
+<http://omediadis.udl.cat/segre/recording/bulletin/09012007-16/>	dc:title	"Recording of Radio Bulletin 16h - January 9th 2007" .
+<http://omediadis.udl.cat/segre/text/bulletin/09012007-16.xml>	dc:title	"Transcript of Radio Bulletin 16h - January 9th 2007" .
+<http://omediadis.udl.cat/segre/audio/bulletin/09012007-16.mp3>	dc:title	"MP3 Copy of Radio Bulletin 16h - January 9th 2007" .
+<http://omediadis.udl.cat/segre/radio/bulletin/09012007-17/>	dc:title	"Radio Bulletin 17h - January 9th 2007" .
+<http://omediadis.udl.cat/segre/recording/bulletin/09012007-17/>	dc:title	"Recording of Radio Bulletin 17h - January 9th 2007" .
+<http://omediadis.udl.cat/segre/text/bulletin/09012007-17.xml>	dc:title	"Transcript of Radio Bulletin 17h - January 9th 2007" .
+<http://omediadis.udl.cat/segre/audio/bulletin/09012007-17.mp3>	dc:title	"MP3 Copy of Radio Bulletin 17h - January 9th 2007" .
+<http://omediadis.udl.cat/segre/radio/bulletin/11012007-Migdia/>	dc:title	"Radio Bulletin 12h - January 11th 2007" .
+<http://omediadis.udl.cat/segre/recording/bulletin/11012007-Migdia/>	dc:title	"Recording of Radio Bulletin 12h - January 11th 2007" .
+<http://omediadis.udl.cat/segre/text/bulletin/11012007-Migdia.xml>	dc:title	"Transcript of Radio Bulletin 12h - January 11th 2007" .
+<http://omediadis.udl.cat/segre/audio/bulletin/11012007-Migdia.mp3>	dc:title	"MP3 Copy of Radio Bulletin 12h - January 11th 2007" .
+<http://omediadis.udl.cat/segre/radio/bulletin/13022007-Migdia/>	dc:title	"Radio Bulletin 12h - February 13th 2007" .
+<http://omediadis.udl.cat/segre/recording/bulletin/13022007-Migdia/>	dc:title	"Recording of Radio Bulletin 12h - February 13th 2007" .
+<http://omediadis.udl.cat/segre/text/bulletin/13022007-Migdia.xml>	dc:title	"Transcript of Radio Bulletin 12h - February 13th 2007" .
+<http://omediadis.udl.cat/segre/audio/bulletin/13022007-Migdia.mp3>	dc:title	"MP3 Copy of Radio Bulletin 12h - February 13th 2007" .
+<http://omediadis.udl.cat/segre/radio/bulletin/16042007-Migdia/>	dc:title	"Radio Bulletin 12h - April 16th 2007" .
+<http://omediadis.udl.cat/segre/recording/bulletin/16042007-Migdia/>	dc:title	"Recording of Radio Bulletin 12h - April 16th 2007" .
+<http://omediadis.udl.cat/segre/text/bulletin/16042007-Migdia.xml>	dc:title	"Transcript of Radio Bulletin 12h - April 16th 2007" .
+<http://omediadis.udl.cat/segre/audio/bulletin/16042007-Migdia.mp3>	dc:title	"MP3 Copy of Radio Bulletin 12h - April 16th 2007" .
+<http://omediadis.udl.cat/segre/radio/bulletin/17012007-Migdia/>	dc:title	"Radio Bulletin 12h - January 17th 2007" .
+<http://omediadis.udl.cat/segre/recording/bulletin/17012007-Migdia/>	dc:title	"Recording of Radio Bulletin 12h - January 17th 2007" .
+<http://omediadis.udl.cat/segre/text/bulletin/17012007-Migdia.xml>	dc:title	"Transcript of Radio Bulletin 12h - January 17th 2007" .
+<http://omediadis.udl.cat/segre/audio/bulletin/17012007-Migdia.mp3>	dc:title	"MP3 Copy of Radio Bulletin 12h - January 17th 2007" .
+<http://omediadis.udl.cat/segre/radio/bulletin/18012007-Migdia/>	dc:title	"Radio Bulletin 12h - January 18th 2007" .
+<http://omediadis.udl.cat/segre/recording/bulletin/18012007-Migdia/>	dc:title	"Recording of Radio Bulletin 12h - January 18th 2007" .
+<http://omediadis.udl.cat/segre/text/bulletin/18012007-Migdia.xml>	dc:title	"Transcript of Radio Bulletin 12h - January 18th 2007" .
+<http://omediadis.udl.cat/segre/audio/bulletin/18012007-Migdia.mp3>	dc:title	"MP3 Copy of Radio Bulletin 12h - January 18th 2007" .
+<http://omediadis.udl.cat/segre/radio/bulletin/20022007-Migdia/>	dc:title	"Radio Bulletin 12h - February 20th 2007" .
+<http://omediadis.udl.cat/segre/recording/bulletin/20022007-Migdia/>	dc:title	"Recording of Radio Bulletin 12h - February 20th 2007" .
+<http://omediadis.udl.cat/segre/text/bulletin/20022007-Migdia.xml>	dc:title	"Transcript of Radio Bulletin 12h - February 20th 2007" .
+<http://omediadis.udl.cat/segre/audio/bulletin/20022007-Migdia.mp3>	dc:title	"MP3 Copy of Radio Bulletin 12h - February 20th 2007" .
+<http://omediadis.udl.cat/segre/radio/bulletin/20112006-15/>	dc:title	"Radio Bulletin 15h - November 20th 2006" .
+<http://omediadis.udl.cat/segre/recording/bulletin/20112006-15/>	dc:title	"Recording of Radio Bulletin 15h - November 20th 2006" .
+<http://omediadis.udl.cat/segre/text/bulletin/20112006-15.xml>	dc:title	"Transcript of Radio Bulletin 15h - November 20th 2006" .
+<http://omediadis.udl.cat/segre/audio/bulletin/20112006-15.mp3>	dc:title	"MP3 Copy of Radio Bulletin 15h - November 20th 2006" .
+<http://omediadis.udl.cat/segre/radio/bulletin/20112006-16/>	dc:title	"Radio Bulletin 16h - November 20th 2006" .
+<http://omediadis.udl.cat/segre/recording/bulletin/20112006-16/>	dc:title	"Recording of Radio Bulletin 16h - November 20th 2006" .
+<http://omediadis.udl.cat/segre/text/bulletin/20112006-16.xml>	dc:title	"Transcript of Radio Bulletin 16h - November 20th 2006" .
+<http://omediadis.udl.cat/segre/audio/bulletin/20112006-16.mp3>	dc:title	"MP3 Copy of Radio Bulletin 16h - November 20th 2006" .
+<http://omediadis.udl.cat/segre/radio/bulletin/20112006-21/>	dc:title	"Radio Bulletin 21h - November 20th 2006" .
+<http://omediadis.udl.cat/segre/recording/bulletin/20112006-21/>	dc:title	"Recording of Radio Bulletin 21h - November 20th 2006" .
+<http://omediadis.udl.cat/segre/text/bulletin/20112006-21.xml>	dc:title	"Transcript of Radio Bulletin 21h - November 20th 2006" .
+<http://omediadis.udl.cat/segre/audio/bulletin/20112006-21.mp3>	dc:title	"MP3 Copy of Radio Bulletin 21h - November 20th 2006" .
+<http://omediadis.udl.cat/segre/radio/bulletin/20112006-22/>	dc:title	"Radio Bulletin 22h - November 20th 2006" .
+<http://omediadis.udl.cat/segre/recording/bulletin/20112006-22/>	dc:title	"Recording of Radio Bulletin 22h - November 20th 2006" .
+<http://omediadis.udl.cat/segre/text/bulletin/20112006-22.xml>	dc:title	"Transcript of Radio Bulletin 22h - November 20th 2006" .
+<http://omediadis.udl.cat/segre/audio/bulletin/20112006-22.mp3>	dc:title	"MP3 Copy of Radio Bulletin 22h - November 20th 2006" .
+<http://omediadis.udl.cat/segre/radio/bulletin/21022907-Migdia/>	dc:title	"Radio Bulletin 12h - February 21th 2007" .
+<http://omediadis.udl.cat/segre/recording/bulletin/21022907-Migdia/>	dc:title	"Recording of Radio Bulletin 12h - February 21th 2007" .
+<http://omediadis.udl.cat/segre/text/bulletin/21022907-Migdia.xml>	dc:title	"Transcript of Radio Bulletin 12h - February 21th 2007" .
+<http://omediadis.udl.cat/segre/audio/bulletin/21022907-Migdia.mp3>	dc:title	"MP3 Copy of Radio Bulletin 12h - February 21th 2007" .
+<http://omediadis.udl.cat/segre/radio/bulletin/22012007-Migdia/>	dc:title	"Radio Bulletin 12h - January 22th 2007" .
+<http://omediadis.udl.cat/segre/recording/bulletin/22012007-Migdia/>	dc:title	"Recording of Radio Bulletin 12h - January 22th 2007" .
+<http://omediadis.udl.cat/segre/text/bulletin/22012007-Migdia.xml>	dc:title	"Transcript of Radio Bulletin 12h - January 22th 2007" .
+<http://omediadis.udl.cat/segre/audio/bulletin/22012007-Migdia.mp3>	dc:title	"MP3 Copy of Radio Bulletin 12h - January 22th 2007" .
+<http://omediadis.udl.cat/segre/radio/bulletin/23012007-Migdia/>	dc:title	"Radio Bulletin 12h - January 23th 2007" .
+<http://omediadis.udl.cat/segre/recording/bulletin/23012007-Migdia/>	dc:title	"Recording of Radio Bulletin 12h - January 23th 2007" .
+<http://omediadis.udl.cat/segre/text/bulletin/23012007-Migdia.xml>	dc:title	"Transcript of Radio Bulletin 12h - January 23th 2007" .
+<http://omediadis.udl.cat/segre/audio/bulletin/23012007-Migdia.mp3>	dc:title	"MP3 Copy of Radio Bulletin 12h - January 23th 2007" .
+<http://omediadis.udl.cat/segre/radio/bulletin/23022007-Migdia/>	dc:title	"Radio Bulletin 12h - February 23th 2007" .
+<http://omediadis.udl.cat/segre/recording/bulletin/23022007-Migdia/>	dc:title	"Recording of Radio Bulletin 12h - February 23th 2007" .
+<http://omediadis.udl.cat/segre/text/bulletin/23022007-Migdia.xml>	dc:title	"Transcript of Radio Bulletin 12h - February 23th 2007" .
+<http://omediadis.udl.cat/segre/audio/bulletin/23022007-Migdia.mp3>	dc:title	"MP3 Copy of Radio Bulletin 12h - February 23th 2007" .
+<http://omediadis.udl.cat/segre/radio/bulletin/24012007-Migdia/>	dc:title	"Radio Bulletin 12h - January 24th 2007" .
+<http://omediadis.udl.cat/segre/recording/bulletin/24012007-Migdia/>	dc:title	"Recording of Radio Bulletin 12h - January 24th 2007" .
+<http://omediadis.udl.cat/segre/text/bulletin/24012007-Migdia.xml>	dc:title	"Transcript of Radio Bulletin 12h - January 24th 2007" .
+<http://omediadis.udl.cat/segre/audio/bulletin/24012007-Migdia.mp3>	dc:title	"MP3 Copy of Radio Bulletin 12h - January 24th 2007" .
+<http://omediadis.udl.cat/segre/radio/bulletin/28022007-Migdia/>	dc:title	"Radio Bulletin 12h - February 28th 2007" .
+<http://omediadis.udl.cat/segre/recording/bulletin/28022007-Migdia/>	dc:title	"Recording of Radio Bulletin 12h - February 28th 2007" .
+<http://omediadis.udl.cat/segre/text/bulletin/28022007-Migdia.xml>	dc:title	"Transcript of Radio Bulletin 12h - February 28th 2007" .
+<http://omediadis.udl.cat/segre/audio/bulletin/28022007-Migdia.mp3>	dc:title	"MP3 Copy of Radio Bulletin 12h - February 28th 2007" .
+<http://omediadis.udl.cat/segre/radio/bulletin/29032007-Migdia/>	dc:title	"Radio Bulletin 12h - March 29th 2007" .
+<http://omediadis.udl.cat/segre/recording/bulletin/29032007-Migdia/>	dc:title	"Recording of Radio Bulletin 12h - March 29th 2007" .
+<http://omediadis.udl.cat/segre/text/bulletin/29032007-Migdia.xml>	dc:title	"Transcript of Radio Bulletin 12h - March 29th 2007" .
+<http://omediadis.udl.cat/segre/audio/bulletin/29032007-Migdia.mp3>	dc:title	"MP3 Copy of Radio Bulletin 12h - March 29th 2007" .
+<http://omediadis.udl.cat/blog/2010/01/25/omediadis-first-prototype/>	ns3:link	"http://omediadis.udl.cat/blog/2010/01/25/omediadis-first-prototype/"@en ;
+	dc:creator	<http://rhizomik.net/~roberto/> .
+<http://omediadis.udl.cat/segre/radio/bulletin/01032007-Migdia/>	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/recording/bulletin/01032007-Migdia/>	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/text/bulletin/01032007-Migdia.xml>	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/audio/bulletin/01032007-Migdia.mp3>	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/radio/bulletin/06022007-Migdia/>	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/recording/bulletin/06022007-Migdia/>	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/text/bulletin/06022007-Migdia.xml>	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/audio/bulletin/06022007-Migdia.mp3>	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/radio/bulletin/08012007-10/>	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/recording/bulletin/08012007-10/>	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/text/bulletin/08012007-10.xml>	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/audio/bulletin/08012007-10.mp3>	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/radio/bulletin/08012007-9/>	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/recording/bulletin/08012007-9/>	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/text/bulletin/08012007-9.xml>	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/audio/bulletin/08012007-9.mp3>	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/radio/bulletin/09012007-15/>	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/recording/bulletin/09012007-15/>	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/text/bulletin/09012007-15.xml>	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/audio/bulletin/09012007-15.mp3>	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/radio/bulletin/09012007-16/>	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/recording/bulletin/09012007-16/>	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/text/bulletin/09012007-16.xml>	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/audio/bulletin/09012007-16.mp3>	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/radio/bulletin/09012007-17/>	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/recording/bulletin/09012007-17/>	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/text/bulletin/09012007-17.xml>	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/audio/bulletin/09012007-17.mp3>	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/radio/bulletin/11012007-Migdia/>	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/recording/bulletin/11012007-Migdia/>	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/text/bulletin/11012007-Migdia.xml>	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/audio/bulletin/11012007-Migdia.mp3>	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/radio/bulletin/13022007-Migdia/>	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/recording/bulletin/13022007-Migdia/>	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/text/bulletin/13022007-Migdia.xml>	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/audio/bulletin/13022007-Migdia.mp3>	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/radio/bulletin/16042007-Migdia/>	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/recording/bulletin/16042007-Migdia/>	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/text/bulletin/16042007-Migdia.xml>	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/audio/bulletin/16042007-Migdia.mp3>	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/radio/bulletin/17012007-Migdia/>	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/recording/bulletin/17012007-Migdia/>	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/text/bulletin/17012007-Migdia.xml>	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/audio/bulletin/17012007-Migdia.mp3>	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/radio/bulletin/18012007-Migdia/>	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/recording/bulletin/18012007-Migdia/>	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/text/bulletin/18012007-Migdia.xml>	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/audio/bulletin/18012007-Migdia.mp3>	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/radio/bulletin/20022007-Migdia/>	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/recording/bulletin/20022007-Migdia/>	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/text/bulletin/20022007-Migdia.xml>	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/audio/bulletin/20022007-Migdia.mp3>	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/radio/bulletin/20112006-15/>	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/recording/bulletin/20112006-15/>	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/text/bulletin/20112006-15.xml>	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/audio/bulletin/20112006-15.mp3>	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/radio/bulletin/20112006-16/>	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/recording/bulletin/20112006-16/>	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/text/bulletin/20112006-16.xml>	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/audio/bulletin/20112006-16.mp3>	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/radio/bulletin/20112006-21/>	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/recording/bulletin/20112006-21/>	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/text/bulletin/20112006-21.xml>	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/audio/bulletin/20112006-21.mp3>	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/radio/bulletin/20112006-22/>	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/recording/bulletin/20112006-22/>	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/text/bulletin/20112006-22.xml>	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/audio/bulletin/20112006-22.mp3>	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/radio/bulletin/21022907-Migdia/>	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/recording/bulletin/21022907-Migdia/>	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/text/bulletin/21022907-Migdia.xml>	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/audio/bulletin/21022907-Migdia.mp3>	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/radio/bulletin/22012007-Migdia/>	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/recording/bulletin/22012007-Migdia/>	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/text/bulletin/22012007-Migdia.xml>	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/audio/bulletin/22012007-Migdia.mp3>	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/radio/bulletin/23012007-Migdia/>	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/recording/bulletin/23012007-Migdia/>	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/text/bulletin/23012007-Migdia.xml>	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/audio/bulletin/23012007-Migdia.mp3>	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/radio/bulletin/23022007-Migdia/>	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/recording/bulletin/23022007-Migdia/>	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/text/bulletin/23022007-Migdia.xml>	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/audio/bulletin/23022007-Migdia.mp3>	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/radio/bulletin/24012007-Migdia/>	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/recording/bulletin/24012007-Migdia/>	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/text/bulletin/24012007-Migdia.xml>	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/audio/bulletin/24012007-Migdia.mp3>	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/radio/bulletin/28022007-Migdia/>	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/recording/bulletin/28022007-Migdia/>	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/text/bulletin/28022007-Migdia.xml>	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/audio/bulletin/28022007-Migdia.mp3>	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/radio/bulletin/29032007-Migdia/>	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/recording/bulletin/29032007-Migdia/>	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/text/bulletin/29032007-Migdia.xml>	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/audio/bulletin/29032007-Migdia.mp3>	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/blog/2010/01/25/omediadis-first-prototype/>	ns3:title	"OMediaDis first prototype"@en ;
+	ns3:description	"OMediaDis releases the first prototype of its web-based platform, which currently integrates a specialised view for audio content."@en .
+<http://omediadis.udl.cat/segre/audio/bulletin/01032007-Migdia.mp3>	ns2:bitrate	"128" .
+<http://omediadis.udl.cat/segre/audio/bulletin/06022007-Migdia.mp3>	ns2:bitrate	"128" .
+<http://omediadis.udl.cat/segre/audio/bulletin/08012007-10.mp3>	ns2:bitrate	"128" .
+<http://omediadis.udl.cat/segre/audio/bulletin/08012007-9.mp3>	ns2:bitrate	"128" .
+<http://omediadis.udl.cat/segre/audio/bulletin/09012007-15.mp3>	ns2:bitrate	"128" .
+<http://omediadis.udl.cat/segre/audio/bulletin/09012007-16.mp3>	ns2:bitrate	"128" .
+<http://omediadis.udl.cat/segre/audio/bulletin/09012007-17.mp3>	ns2:bitrate	"128" .
+<http://omediadis.udl.cat/segre/audio/bulletin/11012007-Migdia.mp3>	ns2:bitrate	"128" .
+<http://omediadis.udl.cat/segre/audio/bulletin/13022007-Migdia.mp3>	ns2:bitrate	"128" .
+<http://omediadis.udl.cat/segre/audio/bulletin/16042007-Migdia.mp3>	ns2:bitrate	"128" .
+<http://omediadis.udl.cat/segre/audio/bulletin/17012007-Migdia.mp3>	ns2:bitrate	"128" .
+<http://omediadis.udl.cat/segre/audio/bulletin/18012007-Migdia.mp3>	ns2:bitrate	"128" .
+<http://omediadis.udl.cat/segre/audio/bulletin/20022007-Migdia.mp3>	ns2:bitrate	"128" .
+<http://omediadis.udl.cat/segre/audio/bulletin/20112006-15.mp3>	ns2:bitrate	"128" .
+<http://omediadis.udl.cat/segre/audio/bulletin/20112006-16.mp3>	ns2:bitrate	"128" .
+<http://omediadis.udl.cat/segre/audio/bulletin/20112006-21.mp3>	ns2:bitrate	"128" .
+<http://omediadis.udl.cat/segre/audio/bulletin/20112006-22.mp3>	ns2:bitrate	"128" .
+<http://omediadis.udl.cat/segre/audio/bulletin/21022907-Migdia.mp3>	ns2:bitrate	"128" .
+<http://omediadis.udl.cat/segre/audio/bulletin/22012007-Migdia.mp3>	ns2:bitrate	"128" .
+<http://omediadis.udl.cat/segre/audio/bulletin/23012007-Migdia.mp3>	ns2:bitrate	"128" .
+<http://omediadis.udl.cat/segre/audio/bulletin/23022007-Migdia.mp3>	ns2:bitrate	"128" .
+<http://omediadis.udl.cat/segre/audio/bulletin/24012007-Migdia.mp3>	ns2:bitrate	"128" .
+<http://omediadis.udl.cat/segre/audio/bulletin/28022007-Migdia.mp3>	ns2:bitrate	"128" .
+<http://omediadis.udl.cat/segre/audio/bulletin/29032007-Migdia.mp3>	ns2:bitrate	"128" .
+<http://omediadis.udl.cat/segre/audio/bulletin/01032007-Migdia.mp3>	ns2:samplingrate	"48000" .
+<http://omediadis.udl.cat/segre/audio/bulletin/06022007-Migdia.mp3>	ns2:samplingrate	"48000" .
+<http://omediadis.udl.cat/segre/audio/bulletin/08012007-10.mp3>	ns2:samplingrate	"48000" .
+<http://omediadis.udl.cat/segre/audio/bulletin/08012007-9.mp3>	ns2:samplingrate	"48000" .
+<http://omediadis.udl.cat/segre/audio/bulletin/09012007-15.mp3>	ns2:samplingrate	"48000" .
+<http://omediadis.udl.cat/segre/audio/bulletin/09012007-16.mp3>	ns2:samplingrate	"48000" .
+<http://omediadis.udl.cat/segre/audio/bulletin/09012007-17.mp3>	ns2:samplingrate	"48000" .
+<http://omediadis.udl.cat/segre/audio/bulletin/11012007-Migdia.mp3>	ns2:samplingrate	"48000" .
+<http://omediadis.udl.cat/segre/audio/bulletin/13022007-Migdia.mp3>	ns2:samplingrate	"48000" .
+<http://omediadis.udl.cat/segre/audio/bulletin/16042007-Migdia.mp3>	ns2:samplingrate	"48000" .
+<http://omediadis.udl.cat/segre/audio/bulletin/17012007-Migdia.mp3>	ns2:samplingrate	"48000" .
+<http://omediadis.udl.cat/segre/audio/bulletin/18012007-Migdia.mp3>	ns2:samplingrate	"48000" .
+<http://omediadis.udl.cat/segre/audio/bulletin/20022007-Migdia.mp3>	ns2:samplingrate	"48000" .
+<http://omediadis.udl.cat/segre/audio/bulletin/20112006-15.mp3>	ns2:samplingrate	"48000" .
+<http://omediadis.udl.cat/segre/audio/bulletin/20112006-16.mp3>	ns2:samplingrate	"48000" .
+<http://omediadis.udl.cat/segre/audio/bulletin/20112006-21.mp3>	ns2:samplingrate	"48000" .
+<http://omediadis.udl.cat/segre/audio/bulletin/20112006-22.mp3>	ns2:samplingrate	"48000" .
+<http://omediadis.udl.cat/segre/audio/bulletin/21022907-Migdia.mp3>	ns2:samplingrate	"48000" .
+<http://omediadis.udl.cat/segre/audio/bulletin/22012007-Migdia.mp3>	ns2:samplingrate	"48000" .
+<http://omediadis.udl.cat/segre/audio/bulletin/23012007-Migdia.mp3>	ns2:samplingrate	"48000" .
+<http://omediadis.udl.cat/segre/audio/bulletin/23022007-Migdia.mp3>	ns2:samplingrate	"48000" .
+<http://omediadis.udl.cat/segre/audio/bulletin/24012007-Migdia.mp3>	ns2:samplingrate	"48000" .
+<http://omediadis.udl.cat/segre/audio/bulletin/28022007-Migdia.mp3>	ns2:samplingrate	"48000" .
+<http://omediadis.udl.cat/segre/audio/bulletin/29032007-Migdia.mp3>	ns2:samplingrate	"48000" .
+<http://omediadis.udl.cat/segre/recording/bulletin/01032007-Migdia/>	ns4:hasInstance	<http://omediadis.udl.cat/segre/audio/bulletin/01032007-Migdia.mp3> .
+<http://omediadis.udl.cat/segre/recording/bulletin/06022007-Migdia/>	ns4:hasInstance	<http://omediadis.udl.cat/segre/audio/bulletin/06022007-Migdia.mp3> .
+<http://omediadis.udl.cat/segre/recording/bulletin/08012007-10/>	ns4:hasInstance	<http://omediadis.udl.cat/segre/audio/bulletin/08012007-10.mp3> .
+<http://omediadis.udl.cat/segre/recording/bulletin/08012007-9/>	ns4:hasInstance	<http://omediadis.udl.cat/segre/audio/bulletin/08012007-9.mp3> .
+<http://omediadis.udl.cat/segre/recording/bulletin/09012007-15/>	ns4:hasInstance	<http://omediadis.udl.cat/segre/audio/bulletin/09012007-15.mp3> .
+<http://omediadis.udl.cat/segre/recording/bulletin/09012007-16/>	ns4:hasInstance	<http://omediadis.udl.cat/segre/audio/bulletin/09012007-16.mp3> .
+<http://omediadis.udl.cat/segre/recording/bulletin/09012007-17/>	ns4:hasInstance	<http://omediadis.udl.cat/segre/audio/bulletin/09012007-17.mp3> .
+<http://omediadis.udl.cat/segre/recording/bulletin/11012007-Migdia/>	ns4:hasInstance	<http://omediadis.udl.cat/segre/audio/bulletin/11012007-Migdia.mp3> .
+<http://omediadis.udl.cat/segre/recording/bulletin/13022007-Migdia/>	ns4:hasInstance	<http://omediadis.udl.cat/segre/audio/bulletin/13022007-Migdia.mp3> .
+<http://omediadis.udl.cat/segre/recording/bulletin/16042007-Migdia/>	ns4:hasInstance	<http://omediadis.udl.cat/segre/audio/bulletin/16042007-Migdia.mp3> .
+<http://omediadis.udl.cat/segre/recording/bulletin/17012007-Migdia/>	ns4:hasInstance	<http://omediadis.udl.cat/segre/audio/bulletin/17012007-Migdia.mp3> .
+<http://omediadis.udl.cat/segre/recording/bulletin/18012007-Migdia/>	ns4:hasInstance	<http://omediadis.udl.cat/segre/audio/bulletin/18012007-Migdia.mp3> .
+<http://omediadis.udl.cat/segre/recording/bulletin/20022007-Migdia/>	ns4:hasInstance	<http://omediadis.udl.cat/segre/audio/bulletin/20022007-Migdia.mp3> .
+<http://omediadis.udl.cat/segre/recording/bulletin/20112006-15/>	ns4:hasInstance	<http://omediadis.udl.cat/segre/audio/bulletin/20112006-15.mp3> .
+<http://omediadis.udl.cat/segre/recording/bulletin/20112006-16/>	ns4:hasInstance	<http://omediadis.udl.cat/segre/audio/bulletin/20112006-16.mp3> .
+<http://omediadis.udl.cat/segre/recording/bulletin/20112006-21/>	ns4:hasInstance	<http://omediadis.udl.cat/segre/audio/bulletin/20112006-21.mp3> .
+<http://omediadis.udl.cat/segre/recording/bulletin/20112006-22/>	ns4:hasInstance	<http://omediadis.udl.cat/segre/audio/bulletin/20112006-22.mp3> .
+<http://omediadis.udl.cat/segre/recording/bulletin/21022907-Migdia/>	ns4:hasInstance	<http://omediadis.udl.cat/segre/audio/bulletin/21022907-Migdia.mp3> .
+<http://omediadis.udl.cat/segre/recording/bulletin/22012007-Migdia/>	ns4:hasInstance	<http://omediadis.udl.cat/segre/audio/bulletin/22012007-Migdia.mp3> .
+<http://omediadis.udl.cat/segre/recording/bulletin/23012007-Migdia/>	ns4:hasInstance	<http://omediadis.udl.cat/segre/audio/bulletin/23012007-Migdia.mp3> .
+<http://omediadis.udl.cat/segre/recording/bulletin/23022007-Migdia/>	ns4:hasInstance	<http://omediadis.udl.cat/segre/audio/bulletin/23022007-Migdia.mp3> .
+<http://omediadis.udl.cat/segre/recording/bulletin/24012007-Migdia/>	ns4:hasInstance	<http://omediadis.udl.cat/segre/audio/bulletin/24012007-Migdia.mp3> .
+<http://omediadis.udl.cat/segre/recording/bulletin/28022007-Migdia/>	ns4:hasInstance	<http://omediadis.udl.cat/segre/audio/bulletin/28022007-Migdia.mp3> .
+<http://omediadis.udl.cat/segre/recording/bulletin/29032007-Migdia/>	ns4:hasInstance	<http://omediadis.udl.cat/segre/audio/bulletin/29032007-Migdia.mp3> .
+<http://omediadis.udl.cat/segre/radio/bulletin/01032007-Migdia/>	ns4:hasRecording	<http://omediadis.udl.cat/segre/recording/bulletin/01032007-Migdia/> .
+<http://omediadis.udl.cat/segre/radio/bulletin/06022007-Migdia/>	ns4:hasRecording	<http://omediadis.udl.cat/segre/recording/bulletin/06022007-Migdia/> .
+<http://omediadis.udl.cat/segre/radio/bulletin/08012007-10/>	ns4:hasRecording	<http://omediadis.udl.cat/segre/recording/bulletin/08012007-10/> .
+<http://omediadis.udl.cat/segre/radio/bulletin/08012007-9/>	ns4:hasRecording	<http://omediadis.udl.cat/segre/recording/bulletin/08012007-9/> .
+<http://omediadis.udl.cat/segre/radio/bulletin/09012007-15/>	ns4:hasRecording	<http://omediadis.udl.cat/segre/recording/bulletin/09012007-15/> .
+<http://omediadis.udl.cat/segre/radio/bulletin/09012007-16/>	ns4:hasRecording	<http://omediadis.udl.cat/segre/recording/bulletin/09012007-16/> .
+<http://omediadis.udl.cat/segre/radio/bulletin/09012007-17/>	ns4:hasRecording	<http://omediadis.udl.cat/segre/recording/bulletin/09012007-17/> .
+<http://omediadis.udl.cat/segre/radio/bulletin/11012007-Migdia/>	ns4:hasRecording	<http://omediadis.udl.cat/segre/recording/bulletin/11012007-Migdia/> .
+<http://omediadis.udl.cat/segre/radio/bulletin/13022007-Migdia/>	ns4:hasRecording	<http://omediadis.udl.cat/segre/recording/bulletin/13022007-Migdia/> .
+<http://omediadis.udl.cat/segre/radio/bulletin/16042007-Migdia/>	ns4:hasRecording	<http://omediadis.udl.cat/segre/recording/bulletin/16042007-Migdia/> .
+<http://omediadis.udl.cat/segre/radio/bulletin/17012007-Migdia/>	ns4:hasRecording	<http://omediadis.udl.cat/segre/recording/bulletin/17012007-Migdia/> .
+<http://omediadis.udl.cat/segre/radio/bulletin/18012007-Migdia/>	ns4:hasRecording	<http://omediadis.udl.cat/segre/recording/bulletin/18012007-Migdia/> .
+<http://omediadis.udl.cat/segre/radio/bulletin/20022007-Migdia/>	ns4:hasRecording	<http://omediadis.udl.cat/segre/recording/bulletin/20022007-Migdia/> .
+<http://omediadis.udl.cat/segre/radio/bulletin/20112006-15/>	ns4:hasRecording	<http://omediadis.udl.cat/segre/recording/bulletin/20112006-15/> .
+<http://omediadis.udl.cat/segre/radio/bulletin/20112006-16/>	ns4:hasRecording	<http://omediadis.udl.cat/segre/recording/bulletin/20112006-16/> .
+<http://omediadis.udl.cat/segre/radio/bulletin/20112006-21/>	ns4:hasRecording	<http://omediadis.udl.cat/segre/recording/bulletin/20112006-21/> .
+<http://omediadis.udl.cat/segre/radio/bulletin/20112006-22/>	ns4:hasRecording	<http://omediadis.udl.cat/segre/recording/bulletin/20112006-22/> .
+<http://omediadis.udl.cat/segre/radio/bulletin/21022907-Migdia/>	ns4:hasRecording	<http://omediadis.udl.cat/segre/recording/bulletin/21022907-Migdia/> .
+<http://omediadis.udl.cat/segre/radio/bulletin/22012007-Migdia/>	ns4:hasRecording	<http://omediadis.udl.cat/segre/recording/bulletin/22012007-Migdia/> .
+<http://omediadis.udl.cat/segre/radio/bulletin/23012007-Migdia/>	ns4:hasRecording	<http://omediadis.udl.cat/segre/recording/bulletin/23012007-Migdia/> .
+<http://omediadis.udl.cat/segre/radio/bulletin/23022007-Migdia/>	ns4:hasRecording	<http://omediadis.udl.cat/segre/recording/bulletin/23022007-Migdia/> .
+<http://omediadis.udl.cat/segre/radio/bulletin/24012007-Migdia/>	ns4:hasRecording	<http://omediadis.udl.cat/segre/recording/bulletin/24012007-Migdia/> .
+<http://omediadis.udl.cat/segre/radio/bulletin/28022007-Migdia/>	ns4:hasRecording	<http://omediadis.udl.cat/segre/recording/bulletin/28022007-Migdia/> .
+<http://omediadis.udl.cat/segre/radio/bulletin/29032007-Migdia/>	ns4:hasRecording	<http://omediadis.udl.cat/segre/recording/bulletin/29032007-Migdia/> .
