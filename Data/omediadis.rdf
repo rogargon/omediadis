@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+<rdf:Description rdf:about="http://omediadis.udl.cat/blog/2000/01/01/omediadis-kickoff/"><n0pred:dtstart xmlns:n0pred="http://www.w3.org/2002/12/cal/icaltzd#">2009-01-01</n0pred:dtstart></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/015681/"><n0pred:authorList xmlns:n0pred="http://swrc.ontoware.org/ontology#" rdf:nodeID="b643059"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/013599/"><rdf:type rdf:resource="http://swrc.ontoware.org/ontology#Article"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/person/EzeizaA/"><rdfs:label>Ezeiza, A.</rdfs:label></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/015189/"><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://www.cretesos.udl.cat/person/LopezJM/"/></rdf:Description>
+<rdf:Description rdf:nodeID="b643096"><rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/015189/"><n0pred:isPartOf xmlns:n0pred="http://purl.org/dc/terms/" rdf:resource="http://www.cretesos.udl.cat/journal/1657-7663/"/></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/2111-Patrones_Interaccion_Web_Semantica/"><n0pred:homepage xmlns:n0pred="http://swrc.ontoware.org/ontology#">http://omediadis.udl.cat/html/deliverables/2111-Patrones_Interaccion_Web_Semantica/</n0pred:homepage></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/014449/"><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://www.cretesos.udl.cat/person/GranollersT/"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/journal/1657-7663/"><rdfs:label>Avances en sistemas e informática</rdfs:label></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/013720/"><n0pred:authorList xmlns:n0pred="http://swrc.ontoware.org/ontology#" rdf:nodeID="b1216634"/></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/blog/2000/01/01/omediadis-kickoff/"><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://rhizomik.net/~roberto/"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/book/978-958-44-7281-6/"><dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Actas de la Conferencia LatinoAmericana de Medios Audiovisuales en Red</dc:title></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/015189/"><rdfs:label>Estudio de la accesibilidad en software navegación web</rdfs:label></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/012606/"><n0pred:authorList xmlns:n0pred="http://swrc.ontoware.org/ontology#" rdf:nodeID="b1216636"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/journal/1867-5662/"><n0pred:issn xmlns:n0pred="http://swrc.ontoware.org/ontology#">1867-5662</n0pred:issn></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/013720/"><n0pred:authors xmlns:n0pred="http://swrc.ontoware.org/ontology#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pascual, A.; Ribera, M.; Masip, L.; Granollers, T.; López, J.</n0pred:authors></rdf:Description>
+<rdf:Description rdf:nodeID="b643095"><rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/013720/"><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://www.cretesos.udl.cat/person/GranollersT/"/></rdf:Description>
+<rdf:Description rdf:nodeID="b1216635"><rdf:first rdf:resource="http://www.cretesos.udl.cat/person/RiberaM/"/></rdf:Description>
+<rdf:Description rdf:nodeID="b643089"><rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/></rdf:Description>
+<rdf:Description rdf:nodeID="b643083"><rdf:rest rdf:nodeID="b643082"/></rdf:Description>
+<rdf:Description rdf:nodeID="b643080"><rdf:rest rdf:nodeID="b643079"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/015682/"><n0pred:homepage xmlns:n0pred="http://swrc.ontoware.org/ontology#">http://dx.doi.org/10.3145/epi.2010.jul.04</n0pred:homepage></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/012606/"><n0pred:homepage xmlns:n0pred="http://swrc.ontoware.org/ontology#">http://www.springerlink.com/content/cr60550140h10rm3/?p=18a79725c52e49a5a3009fbbfc5a7eb6&amp;amp;pi=57</n0pred:homepage></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/323-Modulo_SemDRMS_1/"><rdfs:label>3.2.3 - Módulo SemDRMS 1.0</rdfs:label></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/014413/"><rdfs:label>Building a Usable and Accessible Semantic Web Interaction Platform</rdfs:label></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/012606/"><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://www.cretesos.udl.cat/person/LopezJM/"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/journal/1752-6124/"><rdf:type rdf:resource="http://swrc.ontoware.org/ontology#Journal"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/013599/"><rdfs:label>Contributions of Dichotomic View of Plasticity to Seamlessly Embed Accessibility and Adaptivity Support in User Interfaces</rdfs:label></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/012606/"><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://www.cretesos.udl.cat/person/GranollersT/"/></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/515-Interfaz_Generica_2/"><dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2010-10-31</dc:date></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/015682/"><n0pred:pages xmlns:n0pred="http://swrc.ontoware.org/ontology#">359-367</n0pred:pages></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/014413/"><n0pred:authorList xmlns:n0pred="http://swrc.ontoware.org/ontology#" rdf:nodeID="b643057"/></rdf:Description>
+<rdf:Description rdf:nodeID="b643081"><rdf:rest rdf:nodeID="b643080"/></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/431-Ontologia_Usuarios/"><dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2010-02-28</dc:date></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/217-Busqueda_Contenidos_Multimedia/"><rdfs:label>2.1.7 - Informe Sistemas Búsqueda Contenidos Multimedia</rdfs:label></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/013173/"><n0pred:authorList xmlns:n0pred="http://swrc.ontoware.org/ontology#" rdf:nodeID="b1216631"/></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/blog/2010/01/25/omediadis-first-prototype/"><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://rhizomik.net/~roberto/"/></rdf:Description>
+<rdf:Description rdf:nodeID="b643086"><rdf:rest rdf:nodeID="b643085"/></rdf:Description>
+<rdf:Description rdf:nodeID="b643087"><rdf:rest rdf:nodeID="b643086"/></rdf:Description>
+<rdf:Description rdf:about="http://rhizomik.net/rhizomer/services/map/"><rdfs:label>Map</rdfs:label></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/515-Interfaz_Generica_2/"><dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Entregable 5.1.5 – Interfaz Genérica 2.0</dc:title></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/312-Analisis_Repositorios_Semanticos/"><n0pred:homepage xmlns:n0pred="http://swrc.ontoware.org/ontology#">http://omediadis.udl.cat/html/deliverables/312-Analisis_Repositorios_Semanticos/</n0pred:homepage></rdf:Description>
+<rdf:Description rdf:nodeID="b643084"><rdf:rest rdf:nodeID="b643083"/></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/421-Modulo_Busqueda_Conenidos/"><dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Entregable 4.2.1 – Módulo de Búsqueda de Contenidos</dc:title></rdf:Description>
+<rdf:Description rdf:nodeID="b643085"><rdf:rest rdf:nodeID="b643084"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/013173/"><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://www.cretesos.udl.cat/person/GranollersT/"/></rdf:Description>
+<rdf:Description rdf:nodeID="b643082"><rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/013769/"><n0pred:authorList xmlns:n0pred="http://swrc.ontoware.org/ontology#" rdf:nodeID="b1216622"/></rdf:Description>
+<rdf:Description rdf:nodeID="b643073"><rdf:rest rdf:nodeID="b643072"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/013768/"><dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2010</dc:date></rdf:Description>
+<rdf:Description rdf:nodeID="b1216625"><rdf:first rdf:resource="http://www.cretesos.udl.cat/person/LopezJ/"/></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/433-Modulo_Recomendacion/"><rdfs:label>4.3.3 – Módulo de Recomendación 1.0</rdfs:label></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/2111-Patrones_Interaccion_Web_Semantica/"><rdfs:label>2.1.11 - Informe Patrones Interacción Web Semántica</rdfs:label></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/013769/"><rdf:type rdf:resource="http://swrc.ontoware.org/ontology#InBook"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/book/978-2-87037-682-9/"><rdf:type rdf:resource="http://swrc.ontoware.org/ontology#Book"/></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/216-Anotacion_Contenidos_Multimedia/"><n0pred:homepage xmlns:n0pred="http://swrc.ontoware.org/ontology#">http://omediadis.udl.cat/html/deliverables/216-Anotacion_Contenidos_Multimedia/</n0pred:homepage></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/013173/"><rdf:type rdf:resource="http://swrc.ontoware.org/ontology#InBook"/></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/blog/2010/01/25/omediadis-first-prototype/"><n0pred:description xmlns:n0pred="http://purl.org/rss/1.0/">OMediaDis releases the first prototype of its web-based platform, which currently integrates a specialised view for audio content.</n0pred:description></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/212-Accesibilidad_Sistemas_Gestion_Contenidos_Multimedia/"><dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2009-07-31</dc:date></rdf:Description>
+<rdf:Description rdf:nodeID="b643074"><rdf:rest rdf:nodeID="b643073"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/person/CondeA/"><rdfs:label>Conde, A.</rdfs:label></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/014413/"><n0pred:volume xmlns:n0pred="http://swrc.ontoware.org/ontology#">12</n0pred:volume></rdf:Description>
+<rdf:Description rdf:nodeID="b643070"><rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/432-Integracion_Metadatos_Usuarios/"><dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Entregable 4.3.2 – Integración de Metadatos de Usuario</dc:title></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/214-Watermarking_y_Fingerprinting/"><dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2009-07-31</dc:date></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/person/SendinM/"><rdfs:label>Sendín, M.</rdfs:label></rdf:Description>
+<rdf:Description rdf:nodeID="b643076"><rdf:rest rdf:nodeID="b643075"/></rdf:Description>
+<rdf:Description rdf:nodeID="b643077"><rdf:rest rdf:nodeID="b643076"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/journal/1386-145X/"><dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">World Wide Web-Internet And Web Information Systems</dc:title></rdf:Description>
+<rdf:Description rdf:nodeID="b643072"><rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/217-Busqueda_Contenidos_Multimedia/"><dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2009-07-31</dc:date></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/person/ComellaI/"><rdfs:label>Comella, I.</rdfs:label></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/323-Modulo_SemDRMS_1/"><dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Entregable 3.2.3 - Módulo SemDRMS 1.0</dc:title></rdf:Description>
+<rdf:Description rdf:nodeID="b643078"><rdf:rest rdf:nodeID="b643077"/></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/219-Accesibilidad_y_Web_Semantica/"><dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2009-07-31</dc:date></rdf:Description>
+<rdf:Description rdf:nodeID="b643079"><rdf:rest rdf:nodeID="b643078"/></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/421-Modulo_Busqueda_Conenidos/"><rdfs:label>4.2.1 – Módulo de Búsqueda de Contenidos</rdfs:label></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/215-Modelos_Metadatos_Contenidos_Multimedia/"><dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2009-07-31</dc:date></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/013769/"><rdfs:label>Controlled Natural Language rendering of Copyright Ontology licenses</rdfs:label></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/213-Web_Semantica_y_DRM/"><dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2009-07-31</dc:date></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/012606/"><dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2009</dc:date></rdf:Description>
+<rdf:Description rdf:nodeID="b643075"><rdf:first rdf:resource="http://www.cretesos.udl.cat/person/SendinM/"/></rdf:Description>
+<rdf:Description rdf:nodeID="b643093"><rdf:first rdf:resource="http://www.cretesos.udl.cat/person/GimenoJM/"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/person/PonsaP/"><rdfs:label>Ponsa, P.</rdfs:label></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/013769/"><n0pred:authors xmlns:n0pred="http://swrc.ontoware.org/ontology#">García, R.; Gil, R.</n0pred:authors></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/015682/"><rdfs:label>Análisis de la arquitectura de webs mediante tests de estrés de navegación, de usabilidad y eye-tracking</rdfs:label></rdf:Description>
+<rdf:Description rdf:nodeID="b643075"><rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/2110-Interfaces_Basadas_Modelos_Semanticos/"><dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2009-07-31</dc:date></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/216-Anotacion_Contenidos_Multimedia/"><dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2009-07-31</dc:date></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/218-Sistemas_Recomendacion_Contenidos_Multimedia/"><dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2009-07-31</dc:date></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/book/978-3-642-04408-3/"><rdfs:label>Web Information Systems Engineering - WISE 2009</rdfs:label></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/014449/"><rdfs:label>Evaluación de usabilidad y accesibilidad de un conjunto de dispositivos interactivos denominados Puntos de Información Ciudadana</rdfs:label></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/013599/"><dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Contributions of Dichotomic View of Plasticity to Seamlessly Embed Accessibility and Adaptivity Support in User Interfaces</dc:title></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/013599/"><n0pred:authors xmlns:n0pred="http://swrc.ontoware.org/ontology#">Sendín, M.; López, J.M.</n0pred:authors></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/book/978-2-87037-682-9/"><n0pred:isbn xmlns:n0pred="http://swrc.ontoware.org/ontology#">978-2-87037-682-9</n0pred:isbn></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/014413/"><n0pred:pages xmlns:n0pred="http://swrc.ontoware.org/ontology#">143-167</n0pred:pages></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/person/BotellaF/"><rdfs:label>Botella, F.</rdfs:label></rdf:Description>
+<rdf:Description rdf:nodeID="b643062"><rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/person/GilR/"><rdfs:label>Gil, R.</rdfs:label></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/book/978-84-934256.8-5/"><rdf:type rdf:resource="http://swrc.ontoware.org/ontology#Book"/></rdf:Description>
+<rdf:Description rdf:nodeID="b643077"><rdf:first rdf:resource="http://www.cretesos.udl.cat/person/LopezJM/"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/journal/1751-8806/"><rdf:type rdf:resource="http://swrc.ontoware.org/ontology#Journal"/></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/blog/2000/01/01/omediadis-kickoff/"><geo:lat xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#">41.6081848415776</geo:lat></rdf:Description>
+<rdf:Description rdf:nodeID="b643097"><rdf:rest rdf:nodeID="b643096"/></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/516-Evaluacion_Interfaz_Generica_2/"><n0pred:homepage xmlns:n0pred="http://swrc.ontoware.org/ontology#">http://omediadis.udl.cat/html/deliverables/516-Evaluacion_Interfaz_Generica_2/</n0pred:homepage></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/015682/"><n0pred:isPartOf xmlns:n0pred="http://purl.org/dc/terms/" rdf:resource="http://www.cretesos.udl.cat/journal/1386-6710/"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/person/MendezY/"><rdfs:label>Méndez, Y.</rdfs:label></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/322-Ontologia_Creative_Commons/"><dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Entregable 3.2.2 - Ontología Creative Commons</dc:title></rdf:Description>
+<rdf:Description rdf:nodeID="b643086"><rdf:first rdf:resource="http://www.cretesos.udl.cat/person/Garay-VitoriaN/"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/015189/"><n0pred:volume xmlns:n0pred="http://swrc.ontoware.org/ontology#">7</n0pred:volume></rdf:Description>
+<rdf:Description rdf:nodeID="b643079"><rdf:first rdf:resource="http://www.cretesos.udl.cat/person/GilR/"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/person/GimenoJM/"><rdfs:label>Gimeno, J.M.</rdfs:label></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/014413/"><n0pred:authors xmlns:n0pred="http://swrc.ontoware.org/ontology#">García, R.; Gimeno, J.M.; Perdrix, F.; Gil, R.; Oliva, M.; López, J.M.; Pascual, A.; Sendín, M.</n0pred:authors></rdf:Description>
+<rdf:Description rdf:nodeID="b643084"><rdf:first rdf:resource="http://www.cretesos.udl.cat/person/EzeizaA/"/></rdf:Description>
+<rdf:Description rdf:nodeID="b643085"><rdf:first rdf:resource="http://www.cretesos.udl.cat/person/IrigoyenE/"/></rdf:Description>
+<rdf:Description rdf:nodeID="b643082"><rdf:first rdf:resource="http://www.cretesos.udl.cat/person/LopezJM/"/></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/blog/2010/11/30/OMediaDis_publishes_Deliverable_516/"><dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2010-11-30</dc:date></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/321-Adaptacion_Ontologia_Copyright/"><rdfs:label>3.2.1 - Adaptación Ontología Copyright</rdfs:label></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/013720/"><dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2010</dc:date></rdf:Description>
+<rdf:Description rdf:nodeID="b643089"><rdf:first rdf:resource="http://www.cretesos.udl.cat/person/PascualA/"/></rdf:Description>
+<rdf:Description rdf:nodeID="b643092"><rdf:rest rdf:nodeID="b643091"/></rdf:Description>
+<rdf:Description rdf:nodeID="b643093"><rdf:rest rdf:nodeID="b643092"/></rdf:Description>
+<rdf:Description rdf:nodeID="b643087"><rdf:first rdf:resource="http://www.cretesos.udl.cat/person/LarranagaM/"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/person/OlivaM/"><rdfs:label>Oliva, M.</rdfs:label></rdf:Description>
+<rdf:Description rdf:nodeID="b643088"><rdf:rest rdf:nodeID="b643087"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/013768/"><rdfs:label>Triplificating and linking XBRL financial data</rdfs:label></rdf:Description>
+<rdf:Description rdf:nodeID="b643094"><rdf:rest rdf:nodeID="b643093"/></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/2111-Patrones_Interaccion_Web_Semantica/"><dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2009-07-31</dc:date></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/015683/"><n0pred:isPartOf xmlns:n0pred="http://purl.org/dc/terms/" rdf:resource="http://www.cretesos.udl.cat/journal/1386-6710/"/></rdf:Description>
+<rdf:Description rdf:nodeID="b643090"><rdf:first rdf:resource="http://www.cretesos.udl.cat/person/OlivaM/"/></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/214-Watermarking_y_Fingerprinting/"><rdfs:label>2.1.4 - Informe Watermarking y Fingerprinting</rdfs:label></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/215-Modelos_Metadatos_Contenidos_Multimedia/"><dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Entregable 2.1.5 - Informe Modelos de Metadatos para Contenidos Multimedia</dc:title></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/014449/"><n0pred:volume xmlns:n0pred="http://swrc.ontoware.org/ontology#">16</n0pred:volume></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/211-Sistemas_Gestion_Contenidos_Multimedia/"><dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2009-07-31</dc:date></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/312-Analisis_Repositorios_Semanticos/"><rdf:type rdf:resource="http://swrc.ontoware.org/ontology#Report"/></rdf:Description>
+<rdf:Description rdf:nodeID="b643083"><rdf:first rdf:resource="http://www.cretesos.udl.cat/person/RubioJ/"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/012606/"><n0pred:pages xmlns:n0pred="http://swrc.ontoware.org/ontology#">597-604</n0pred:pages></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/411-Modulo_Carga_Conenidos/"><n0pred:homepage xmlns:n0pred="http://swrc.ontoware.org/ontology#">http://omediadis.udl.cat/html/deliverables/411-Modulo_Carga_Conenidos/</n0pred:homepage></rdf:Description>
+<rdf:Description rdf:nodeID="b643091"><rdf:rest rdf:nodeID="b643090"/></rdf:Description>
+<rdf:Description rdf:nodeID="b643073"><rdf:first rdf:resource="http://www.cretesos.udl.cat/person/GarciaR/"/></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/321-Adaptacion_Ontologia_Copyright/"><rdf:type rdf:resource="http://swrc.ontoware.org/ontology#Report"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/014449/"><rdf:type rdf:resource="http://swrc.ontoware.org/ontology#Article"/></rdf:Description>
+<rdf:Description rdf:nodeID="b643091"><rdf:first rdf:resource="http://www.cretesos.udl.cat/person/LopezJM/"/></rdf:Description>
+<rdf:Description rdf:nodeID="b643090"><rdf:rest rdf:nodeID="b643089"/></rdf:Description>
+<rdf:Description rdf:about="http://rhizomik.net/rhizomer/services/timeline/"><rdfs:label>Time Line</rdfs:label></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/book/978-3-642-04408-3/"><dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Web Information Systems Engineering - WISE 2009</dc:title></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/311-Seleccion_Esquemas_Metadatos/"><rdfs:label>3.1.1 - Selección Esquemas Metadatos</rdfs:label></rdf:Description>
+<rdf:Description rdf:nodeID="b643074"><rdf:first rdf:resource="http://www.cretesos.udl.cat/person/Navarro-MolinaC/"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/013720/"><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://www.cretesos.udl.cat/person/MasipL/"/></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/322-Ontologia_Creative_Commons/"><rdf:type rdf:resource="http://swrc.ontoware.org/ontology#Report"/></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/blog/2011/03/24/project_review"><rdf:type rdf:resource="http://purl.org/rss/1.0/item"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/person/LopezK/"><rdfs:label>López, K.</rdfs:label></rdf:Description>
+<rdf:Description rdf:nodeID="b643072"><rdf:first rdf:resource="http://www.cretesos.udl.cat/person/Aleixandre-BenaventR/"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/013720/"><rdf:type rdf:resource="http://swrc.ontoware.org/ontology#InBook"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/journal/1386-145X/"><rdf:type rdf:resource="http://swrc.ontoware.org/ontology#Journal"/></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/311-Seleccion_Esquemas_Metadatos/"><rdf:type rdf:resource="http://swrc.ontoware.org/ontology#Report"/></rdf:Description>
+<rdf:Description rdf:nodeID="b643092"><rdf:first rdf:resource="http://www.cretesos.udl.cat/person/GranollersT/"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/015683/"><n0pred:authorList xmlns:n0pred="http://swrc.ontoware.org/ontology#" rdf:nodeID="b643055"/></rdf:Description>
+<rdf:Description rdf:nodeID="b643088"><rdf:first rdf:resource="http://www.cretesos.udl.cat/person/LopezK/"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/book/978-84-693-1781-5/"><rdf:type rdf:resource="http://swrc.ontoware.org/ontology#Book"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/013768/"><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://www.cretesos.udl.cat/person/GarciaR/"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/014413/"><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://www.cretesos.udl.cat/person/LopezJM/"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/book/978-2-87037-682-9/"><rdfs:label>Proceedings of the 8th International Workshop for Technical, Economic and Legal Aspects of Business Models for Virtual Goods</rdfs:label></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/013599/"><n0pred:pages xmlns:n0pred="http://swrc.ontoware.org/ontology#">1261-1270</n0pred:pages></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/person/Aleixandre-BenaventR/"><rdfs:label>Aleixandre-Benavent, R.</rdfs:label></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/015682/"><n0pred:authorList xmlns:n0pred="http://swrc.ontoware.org/ontology#" rdf:nodeID="b643056"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/013768/"><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://www.cretesos.udl.cat/person/GilR/"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/014413/"><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://www.cretesos.udl.cat/person/SendinM/"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/013768/"><n0pred:pages xmlns:n0pred="http://swrc.ontoware.org/ontology#">20-27</n0pred:pages></rdf:Description>
+<rdf:Description rdf:nodeID="b643096"><rdf:first rdf:resource="http://www.cretesos.udl.cat/person/GranollersT/"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/012606/"><rdf:type rdf:resource="http://swrc.ontoware.org/ontology#InBook"/></rdf:Description>
+<rdf:Description rdf:nodeID="b643094"><rdf:first rdf:resource="http://www.cretesos.udl.cat/person/GilR/"/></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/218-Sistemas_Recomendacion_Contenidos_Multimedia/"><n0pred:homepage xmlns:n0pred="http://swrc.ontoware.org/ontology#">http://omediadis.udl.cat/html/deliverables/218-Sistemas_Recomendacion_Contenidos_Multimedia/</n0pred:homepage></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/2110-Interfaces_Basadas_Modelos_Semanticos/"><dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Entregable 2.1.10 - Informe Interfaces Basadas en Modelos Semánticos</dc:title></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/book/978-3-642-04408-3/"><rdf:type rdf:resource="http://swrc.ontoware.org/ontology#Book"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/014449/"><n0pred:isPartOf xmlns:n0pred="http://purl.org/dc/terms/" rdf:resource="http://www.cretesos.udl.cat/journal/1135-3716/"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/013681/"><rdfs:label>Formalización del proceso colaborativo de evaluación de usabilidad</rdfs:label></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/311-Seleccion_Esquemas_Metadatos/"><dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Entregable 3.1.1 - Selección Esquemas Metadatos</dc:title></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/015683/"><n0pred:authors xmlns:n0pred="http://swrc.ontoware.org/ontology#">García, R.; Botella, F.; Marcos, M.C.</n0pred:authors></rdf:Description>
+<rdf:Description rdf:nodeID="b643080"><rdf:first rdf:resource="http://www.cretesos.udl.cat/person/PerdrixF/"/></rdf:Description>
+<rdf:Description rdf:nodeID="b643076"><rdf:first rdf:resource="http://www.cretesos.udl.cat/person/PascualA/"/></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/323-Modulo_SemDRMS_1/"><rdf:type rdf:resource="http://swrc.ontoware.org/ontology#Report"/></rdf:Description>
+<rdf:Description rdf:nodeID="b643081"><rdf:first rdf:resource="http://www.cretesos.udl.cat/person/GimenoJM/"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/person/GarciaR/"><rdfs:label>García, R.</rdfs:label></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/person/MarcosMC/"><rdfs:label>Marcos, M.C.</rdfs:label></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/013599/"><n0pred:authorList xmlns:n0pred="http://swrc.ontoware.org/ontology#" rdf:nodeID="b1216618"/></rdf:Description>
+<rdf:Description rdf:nodeID="b643078"><rdf:first rdf:resource="http://www.cretesos.udl.cat/person/OlivaM/"/></rdf:Description>
+<rdf:Description rdf:nodeID="b1216629"><rdf:first rdf:resource="http://www.cretesos.udl.cat/person/AmanteB/"/></rdf:Description>
+<rdf:Description rdf:nodeID="b1216631"><rdf:first rdf:resource="http://www.cretesos.udl.cat/person/PonsaP/"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/014449/"><n0pred:pages xmlns:n0pred="http://swrc.ontoware.org/ontology#">35-46</n0pred:pages></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/013599/"><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://www.cretesos.udl.cat/person/SendinM/"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/013173/"><n0pred:isPartOf xmlns:n0pred="http://purl.org/dc/terms/" rdf:resource="http://www.cretesos.udl.cat/book/978-84-934256.8-5/"/></rdf:Description>
+<rdf:Description rdf:nodeID="b1216628"><rdf:first rdf:resource="http://www.cretesos.udl.cat/person/VilanovaR/"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/book/978-1-4503-0014-8/"><rdfs:label>Proceedings of the 6th International Conference on Semantic Systems, I-SEMANTICS&#39;10</rdfs:label></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/013599/"><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://www.cretesos.udl.cat/person/LopezJM/"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/015189/"><rdf:type rdf:resource="http://swrc.ontoware.org/ontology#Article"/></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/blog/2000/01/01/omediadis-kickoff/"><n0pred:description xmlns:n0pred="http://purl.org/rss/1.0/">The Open Platform for Multichannel Content Distribution Management reserach project (OMediaDis, TIN2008-06228), supported by the Spanish Ministry of Science and Innovation, starts on 2009 with a duration of 3 years.</n0pred:description></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/journal/0948-695X/"><rdfs:label>Journal Of Universal Computer Science</rdfs:label></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/014413/"><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://www.cretesos.udl.cat/person/GarciaR/"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/014413/"><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://www.cretesos.udl.cat/person/GilR/"/></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/432-Integracion_Metadatos_Usuarios/"><dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2010-04-30</dc:date></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/218-Sistemas_Recomendacion_Contenidos_Multimedia/"><dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Entregable 2.1.8 - Informe Sistemas de Recomendación de Contenidos Multimedia</dc:title></rdf:Description>
+<rdf:Description rdf:nodeID="b1216620"><rdf:first rdf:resource="http://www.cretesos.udl.cat/person/MasipL/"/></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/213-Web_Semantica_y_DRM/"><dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Entregable 2.1.3 - Informe Informe Web Semántica y DRM</dc:title></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/213-Web_Semantica_y_DRM/"><rdfs:label>2.1.3 - Informe Web Semántica y DRM</rdfs:label></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/journal/0965-9978/"><n0pred:issn xmlns:n0pred="http://swrc.ontoware.org/ontology#">0965-9978</n0pred:issn></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/013173/"><dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Towards human-centred design in industrial automation systems</dc:title></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/journal/1386-145X/"><rdfs:label>World Wide Web-Internet And Web Information Systems</rdfs:label></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/journal/0965-9978/"><rdf:type rdf:resource="http://swrc.ontoware.org/ontology#Journal"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/016099/"><n0pred:number xmlns:n0pred="http://swrc.ontoware.org/ontology#">15</n0pred:number></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/015189/"><n0pred:authors xmlns:n0pred="http://swrc.ontoware.org/ontology#">López, J.M.; Comella, I.</n0pred:authors></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/015682/"><dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Análisis de la arquitectura de webs mediante tests de estrés de navegación, de usabilidad y eye-tracking</dc:title></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/219-Accesibilidad_y_Web_Semantica/"><n0pred:homepage xmlns:n0pred="http://swrc.ontoware.org/ontology#">http://omediadis.udl.cat/html/deliverables/219-Accesibilidad_y_Web_Semantica/</n0pred:homepage></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/blog/2010/11/30/OMediaDis_publishes_Deliverable_516/"><n0pred:title xmlns:n0pred="http://purl.org/rss/1.0/">OMediaDis publishes Deliverable 5.1.6</n0pred:title></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/212-Accesibilidad_Sistemas_Gestion_Contenidos_Multimedia/"><rdf:type rdf:resource="http://swrc.ontoware.org/ontology#Report"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/013720/"><rdfs:label>Guías de contenido digital accesible</rdfs:label></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/516-Evaluacion_Interfaz_Generica_2/"><dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Entregable 5.1.6 – Evaluación Interfaz Genérica 2.0</dc:title></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/218-Sistemas_Recomendacion_Contenidos_Multimedia/"><rdfs:label>2.1.8 - Informe Sistemas Recomendación Contenidos Multimedia</rdfs:label></rdf:Description>
+<rdf:Description rdf:nodeID="b643095"><rdf:first rdf:resource="http://www.cretesos.udl.cat/person/ComellaI/"/></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/blog/2000/01/01/omediadis-kickoff/"><n0pred:link xmlns:n0pred="http://purl.org/rss/1.0/">http://omediadis.udl.cat/blog/2000/01/01/omediadis-kickoff/</n0pred:link></rdf:Description>
+<rdf:Description rdf:about="http://rhizomik.net/rhizomer/services/timeline/"><n0pred:hasOutput xmlns:n0pred="http://www.daml.org/services/owl-s/1.1/Process.owl#">text/html</n0pred:hasOutput></rdf:Description>
+<rdf:Description rdf:nodeID="b643063"><rdf:rest rdf:nodeID="b643062"/></rdf:Description>
+<rdf:Description rdf:about="http://rhizomik.net/rhizomer/services/map/"><n0pred:hasOutput xmlns:n0pred="http://www.daml.org/services/owl-s/1.1/Process.owl#">text/html</n0pred:hasOutput></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/013681/"><dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2010</dc:date></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/book/978-84-934256.8-5/"><rdfs:label>Proceedings ORP&#39;2010 Creating Value Through Risk Prevention Management. VIII International conference on Occupational Risk Prevention</rdfs:label></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/215-Modelos_Metadatos_Contenidos_Multimedia/"><rdf:type rdf:resource="http://swrc.ontoware.org/ontology#Report"/></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/515-Interfaz_Generica_2/"><rdfs:label>5.1.5 – Interfaz Genérica 2.0</rdfs:label></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/015683/"><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://www.cretesos.udl.cat/person/GarciaR/"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/014413/"><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://www.cretesos.udl.cat/person/GimenoJM/"/></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/blog/2011/03/24/project_review"><rdfs:label>OMediaDis Review</rdfs:label></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/014413/"><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://www.cretesos.udl.cat/person/PerdrixF/"/></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/blog/2010/11/30/OMediaDis_publishes_Deliverable_516/"><n0pred:link xmlns:n0pred="http://purl.org/rss/1.0/">http://omediadis.udl.cat/html/blog/2010/11/30/OMediaDis_publishes_Deliverable_516/</n0pred:link></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/013173/"><n0pred:pages xmlns:n0pred="http://swrc.ontoware.org/ontology#">-242</n0pred:pages></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/journal/1751-8806/"><rdfs:label>Iet Software</rdfs:label></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/211-Sistemas_Gestion_Contenidos_Multimedia/"><n0pred:homepage xmlns:n0pred="http://swrc.ontoware.org/ontology#">http://omediadis.udl.cat/html/deliverables/211-Sistemas_Gestion_Contenidos_Multimedia/</n0pred:homepage></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/014413/"><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://www.cretesos.udl.cat/person/OlivaM/"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/journal/1135-3716/"><n0pred:issn xmlns:n0pred="http://swrc.ontoware.org/ontology#">1135-3716</n0pred:issn></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/journal/0965-9978/"><rdfs:label>Advances in Engineering Software</rdfs:label></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/323-Modulo_SemDRMS_1/"><dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2010-06-30</dc:date></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/014413/"><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://www.cretesos.udl.cat/person/PascualA/"/></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/411-Modulo_Carga_Conenidos/"><dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Entregable 4.1.1 - Módulo de Carga de Contenidos</dc:title></rdf:Description>
+<rdf:Description rdf:nodeID="b643071"><rdf:rest rdf:nodeID="b643070"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/015682/"><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://www.cretesos.udl.cat/person/GarciaR/"/></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/516-Evaluacion_Interfaz_Generica_2/"><dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2010-11-30</dc:date></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/015189/"><n0pred:homepage xmlns:n0pred="http://swrc.ontoware.org/ontology#">http://www.minas.medellin.unal.edu.co/index.php?option=com_docman&amp;amp;task=cat_view&amp;amp;gid=387&amp;amp;Itemid=285</n0pred:homepage></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/blog/2010/01/25/omediadis-first-prototype/"><rdf:type rdf:resource="http://purl.org/rss/1.0/item"/></rdf:Description>
+<rdf:Description rdf:nodeID="b643068"><rdf:rest rdf:nodeID="b643067"/></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/431-Ontologia_Usuarios/"><n0pred:homepage xmlns:n0pred="http://swrc.ontoware.org/ontology#">http://omediadis.udl.cat/html/deliverables/431-Ontologia_Usuarios/</n0pred:homepage></rdf:Description>
+<rdf:Description rdf:nodeID="b643069"><rdf:rest rdf:nodeID="b643068"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/journal/1867-5662/"><rdf:type rdf:resource="http://swrc.ontoware.org/ontology#Journal"/></rdf:Description>
+<rdf:Description rdf:nodeID="b643067"><rdf:rest rdf:nodeID="b643066"/></rdf:Description>
+<rdf:Description rdf:nodeID="b643064"><rdf:rest rdf:nodeID="b643063"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/013681/"><rdf:type rdf:resource="http://swrc.ontoware.org/ontology#InBook"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/013681/"><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://www.cretesos.udl.cat/person/CollazosC/"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/014413/"><n0pred:homepage xmlns:n0pred="http://swrc.ontoware.org/ontology#">http://dx.doi.org/10.1007/s11280-009-0076-2</n0pred:homepage></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/015682/"><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://www.cretesos.udl.cat/person/LopezJM/"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/journal/1657-7663/"><dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Avances en sistemas e informática</dc:title></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/book/978-958-44-7281-6/"><rdf:type rdf:resource="http://swrc.ontoware.org/ontology#Book"/></rdf:Description>
+<rdf:Description rdf:nodeID="b643066"><rdf:rest rdf:nodeID="b643065"/></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/217-Busqueda_Contenidos_Multimedia/"><dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Entregable 2.1.7 - Informe Sistemas de Búsqueda de Contenidos Multimedia</dc:title></rdf:Description>
+<rdf:Description rdf:nodeID="b643065"><rdf:rest rdf:nodeID="b643064"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/015681/"><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://www.cretesos.udl.cat/person/GimenoJM/"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/015189/"><dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2010</dc:date></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/215-Modelos_Metadatos_Contenidos_Multimedia/"><rdfs:label>2.1.5 - Informe Modelos Metadatos Contenidos Multimedia</rdfs:label></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/312-Analisis_Repositorios_Semanticos/"><rdfs:label>3.1.2 - Análisis Repositorios Semánticos</rdfs:label></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/014449/"><dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Evaluación de usabilidad y accesibilidad de un conjunto de dispositivos interactivos denominados Puntos de Información Ciudadana</dc:title></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/blog/2010/01/25/omediadis-first-prototype/"><rdfs:label>OMediaDis first prototype</rdfs:label></rdf:Description>
+<rdf:Description rdf:nodeID="b643097"><rdf:first rdf:resource="http://www.cretesos.udl.cat/person/MasipL/"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/book/978-958-44-7281-6/"><n0pred:isbn xmlns:n0pred="http://swrc.ontoware.org/ontology#">978-958-44-7281-6</n0pred:isbn></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/person/LarranagaM/"><rdfs:label>Larrañaga, M.</rdfs:label></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/015189/"><n0pred:authorList xmlns:n0pred="http://swrc.ontoware.org/ontology#" rdf:nodeID="b643060"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/016099/"><dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Multi-Purpose Infrastructure for Delivering and Supporting Mobile Context-Aware Applications</dc:title></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/013681/"><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://www.cretesos.udl.cat/person/MendezY/"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/journal/1386-145X/"><n0pred:issn xmlns:n0pred="http://swrc.ontoware.org/ontology#">1386-145X</n0pred:issn></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/person/LopezJ/"><rdfs:label>López, J.</rdfs:label></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/014449/"><dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2010</dc:date></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/016099/"><n0pred:volume xmlns:n0pred="http://swrc.ontoware.org/ontology#">16</n0pred:volume></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/blog/2010/11/30/OMediaDis_publishes_Deliverable_516/"><rdfs:label>OMediaDis publishes Deliverable 5.1.6</rdfs:label></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/journal/1386-6710/"><n0pred:issn xmlns:n0pred="http://swrc.ontoware.org/ontology#">1386-6710</n0pred:issn></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/432-Integracion_Metadatos_Usuarios/"><rdfs:label>4.3.2 – Integración de Metadatos de Usuario</rdfs:label></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/421-Modulo_Busqueda_Conenidos/"><dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2010-01-31</dc:date></rdf:Description>
+<rdf:Description rdf:nodeID="b643054"><rdf:rest rdf:nodeID="b643069"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/journal/0948-695X/"><n0pred:issn xmlns:n0pred="http://swrc.ontoware.org/ontology#">0948-695X</n0pred:issn></rdf:Description>
+<rdf:Description rdf:nodeID="b643055"><rdf:rest rdf:nodeID="b643071"/></rdf:Description>
+<rdf:Description rdf:nodeID="b1216624"><rdf:first rdf:resource="http://www.cretesos.udl.cat/person/MendezY/"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/012606/"><n0pred:isPartOf xmlns:n0pred="http://purl.org/dc/terms/" rdf:resource="http://www.cretesos.udl.cat/book/978-3-642-04408-3/"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/015681/"><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://www.cretesos.udl.cat/person/OlivaM/"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/012606/"><n0pred:volume xmlns:n0pred="http://swrc.ontoware.org/ontology#">1</n0pred:volume></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/411-Modulo_Carga_Conenidos/"><rdfs:label>4.1.1 - Módulo de Carga de Contenidos</rdfs:label></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/433-Modulo_Recomendacion/"><n0pred:homepage xmlns:n0pred="http://swrc.ontoware.org/ontology#">http://omediadis.udl.cat/html/deliverables/433-Modulo_Recomendacion/</n0pred:homepage></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/person/Navarro-MolinaC/"><rdfs:label>Navarro-Molina, C.</rdfs:label></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/014449/"><n0pred:authorList xmlns:n0pred="http://swrc.ontoware.org/ontology#" rdf:nodeID="b643061"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/015681/"><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://www.cretesos.udl.cat/person/PascualA/"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/journal/1752-6124/"><n0pred:issn xmlns:n0pred="http://swrc.ontoware.org/ontology#">1752-6124</n0pred:issn></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/215-Modelos_Metadatos_Contenidos_Multimedia/"><n0pred:homepage xmlns:n0pred="http://swrc.ontoware.org/ontology#">http://omediadis.udl.cat/html/deliverables/215-Modelos_Metadatos_Contenidos_Multimedia/</n0pred:homepage></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/015682/"><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://www.cretesos.udl.cat/person/Navarro-MolinaC/"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/book/978-958-44-7281-6/"><rdfs:label>Actas de la Conferencia LatinoAmericana de Medios Audiovisuales en Red</rdfs:label></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/216-Anotacion_Contenidos_Multimedia/"><rdfs:label>2.1.6 - Informe Anotación Contenidos Multimedia</rdfs:label></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/015682/"><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://www.cretesos.udl.cat/person/Aleixandre-BenaventR/"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/013720/"><n0pred:isPartOf xmlns:n0pred="http://purl.org/dc/terms/" rdf:resource="http://www.cretesos.udl.cat/book/978-84-693-1781-5/"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/013720/"><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://www.cretesos.udl.cat/person/LopezJ/"/></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/433-Modulo_Recomendacion/"><dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2010-06-30</dc:date></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/journal/1657-7663/"><n0pred:issn xmlns:n0pred="http://swrc.ontoware.org/ontology#">1657-7663</n0pred:issn></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/013720/"><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://www.cretesos.udl.cat/person/RiberaM/"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/013720/"><dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Guías de contenido digital accesible</dc:title></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/216-Anotacion_Contenidos_Multimedia/"><dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Entregable 2.1.6 - Informe Sistemas de Anotación de Contenidos Multimedia</dc:title></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/014449/"><n0pred:homepage xmlns:n0pred="http://swrc.ontoware.org/ontology#">http://ibersid.eu/ojs/index.php/scire/article/view/1535</n0pred:homepage></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/311-Seleccion_Esquemas_Metadatos/"><n0pred:homepage xmlns:n0pred="http://swrc.ontoware.org/ontology#">http://omediadis.udl.cat/html/deliverables/311-Seleccion_Esquemas_Metadatos/</n0pred:homepage></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/015683/"><rdf:type rdf:resource="http://swrc.ontoware.org/ontology#Article"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/015683/"><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://www.cretesos.udl.cat/person/MarcosMC/"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/book/978-84-693-1781-5/"><n0pred:isbn xmlns:n0pred="http://swrc.ontoware.org/ontology#">978-84-693-1781-5</n0pred:isbn></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/015683/"><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://www.cretesos.udl.cat/person/BotellaF/"/></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/323-Modulo_SemDRMS_1/"><n0pred:homepage xmlns:n0pred="http://swrc.ontoware.org/ontology#">http://omediadis.udl.cat/html/deliverables/323-Modulo_SemDRMS_1/</n0pred:homepage></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/015681/"><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://www.cretesos.udl.cat/person/GranollersT/"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/journal/1135-3716/"><rdfs:label>Scire: representación y organización del conocimiento</rdfs:label></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/217-Busqueda_Contenidos_Multimedia/"><n0pred:homepage xmlns:n0pred="http://swrc.ontoware.org/ontology#">http://omediadis.udl.cat/html/deliverables/217-Busqueda_Contenidos_Multimedia/</n0pred:homepage></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/321-Adaptacion_Ontologia_Copyright/"><n0pred:homepage xmlns:n0pred="http://swrc.ontoware.org/ontology#">http://omediadis.udl.cat/html/deliverables/321-Adaptacion_Ontologia_Copyright/</n0pred:homepage></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/015681/"><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://www.cretesos.udl.cat/person/LopezJM/"/></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/blog/2011/03/24/project_review"><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://rhizomik.net/~roberto/"/></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/blog/2010/11/30/OMediaDis_publishes_Deliverable_516/"><rdf:type rdf:resource="http://purl.org/rss/1.0/item"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/013769/"><dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2010</dc:date></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/015189/"><dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Estudio de la accesibilidad en software navegación web</dc:title></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/015682/"><rdf:type rdf:resource="http://swrc.ontoware.org/ontology#Article"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/013173/"><dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2010</dc:date></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/015681/"><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://www.cretesos.udl.cat/person/GarciaR/"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/015683/"><n0pred:pages xmlns:n0pred="http://swrc.ontoware.org/ontology#">339-347</n0pred:pages></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/212-Accesibilidad_Sistemas_Gestion_Contenidos_Multimedia/"><dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Entregable 2.1.2 - Informe Accesibilidad de Sistemas Gestión Contenidos Multimedia</dc:title></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/015681/"><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://www.cretesos.udl.cat/person/GilR/"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/person/ElorriagaJA/"><rdfs:label>Elorriaga, J.A.</rdfs:label></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/person/MasipL/"><rdfs:label>Masip, L.</rdfs:label></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/013681/"><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://www.cretesos.udl.cat/person/GranollersT/"/></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/321-Adaptacion_Ontologia_Copyright/"><dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2009-09-30</dc:date></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/016099/"><rdf:type rdf:resource="http://swrc.ontoware.org/ontology#Article"/></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/blog/2000/01/01/omediadis-kickoff/"><geo:long xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#">0.623323917388916</geo:long></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/212-Accesibilidad_Sistemas_Gestion_Contenidos_Multimedia/"><rdfs:label>2.1.2 - Informe Accesibilidad Sistemas Gestión Contenidos Multimedia</rdfs:label></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/013599/"><n0pred:isPartOf xmlns:n0pred="http://purl.org/dc/terms/" rdf:resource="http://www.cretesos.udl.cat/journal/0965-9978/"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/014413/"><dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Building a Usable and Accessible Semantic Web Interaction Platform</dc:title></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/219-Accesibilidad_y_Web_Semantica/"><rdfs:label>2.1.9 - Informe Accesibilidad y Web Semántica</rdfs:label></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/book/978-84-693-1781-5/"><rdfs:label>25 Años de Integración Escolar en España: Tecnología e Inclusión en el ámbito educativo, laboral y comunitario</rdfs:label></rdf:Description>
+<rdf:Description rdf:about="http://rhizomik.net/rhizomer/services/map/"><n0pred:endPoint xmlns:n0pred="http://rhizomik.net/rhizomer/services#">/services/map/map.jsp</n0pred:endPoint></rdf:Description>
+<rdf:Description rdf:about="http://rhizomik.net/rhizomer/services/timeline/"><n0pred:hasInput xmlns:n0pred="http://www.daml.org/services/owl-s/1.1/Process.owl#">
+	            PREFIX cal: &lt;http://www.w3.org/2002/12/cal/icaltzd#&gt;
+	            PREFIX dc: &lt;http://purl.org/dc/elements/1.1/&gt;
+	            ASK WHERE {
+	            {?r cal:dtsart ?start; cal:dtend ?end. FILTER(?r =&lt;[URI]&gt;) } UNION
+	            {?r dc:date ?date. FILTER(?r =&lt;[URI]&gt;) }}
+            </n0pred:hasInput></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/016099/"><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://www.cretesos.udl.cat/person/SendinM/"/></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/blog/2010/11/30/OMediaDis_publishes_Deliverable_516/"><n0pred:description xmlns:n0pred="http://purl.org/rss/1.0/">OMediaDis delivers the evaluation of the second version of the generic user interface.</n0pred:description></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/013681/"><n0pred:isPartOf xmlns:n0pred="http://purl.org/dc/terms/" rdf:resource="http://www.cretesos.udl.cat/book/978-958-44-7281-6/"/></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/blog/2000/01/01/omediadis-kickoff/"><rdfs:label>OMediaDis Kick-off</rdfs:label></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/014413/"><n0pred:isPartOf xmlns:n0pred="http://purl.org/dc/terms/" rdf:resource="http://www.cretesos.udl.cat/journal/1386-145X/"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/016099/"><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://www.cretesos.udl.cat/person/LopezJM/"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/person/AmanteB/"><rdfs:label>Amante, B.</rdfs:label></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/blog/2011/03/24/project_review"><n0pred:title xmlns:n0pred="http://purl.org/rss/1.0/">OMediaDis Project Review</n0pred:title></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/015683/"><n0pred:homepage xmlns:n0pred="http://swrc.ontoware.org/ontology#">http://dx.doi.org/10.3145/epi.2010.jul.02</n0pred:homepage></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/blog/2000/01/01/omediadis-kickoff/"><rdf:type rdf:resource="http://purl.org/rss/1.0/item"/></rdf:Description>
+<rdf:Description rdf:nodeID="b1216638"><rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/blog/2000/01/01/omediadis-kickoff/"><dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2009-01-01</dc:date></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/013768/"><n0pred:authorList xmlns:n0pred="http://swrc.ontoware.org/ontology#" rdf:nodeID="b1216626"/></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/214-Watermarking_y_Fingerprinting/"><n0pred:homepage xmlns:n0pred="http://swrc.ontoware.org/ontology#">http://omediadis.udl.cat/html/deliverables/214-Watermarking_y_Fingerprinting/</n0pred:homepage></rdf:Description>
+<rdf:Description rdf:nodeID="b1216633"><rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/015681/"><dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">A Semantic Wiki for Quality Management in Software Development Projects</dc:title></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/person/PascualA/"><rdfs:label>Pascual, A.</rdfs:label></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/journal/1135-3716/"><rdf:type rdf:resource="http://swrc.ontoware.org/ontology#Journal"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/015681/"><n0pred:isPartOf xmlns:n0pred="http://purl.org/dc/terms/" rdf:resource="http://www.cretesos.udl.cat/journal/1751-8806/"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/013768/"><n0pred:isPartOf xmlns:n0pred="http://purl.org/dc/terms/" rdf:resource="http://www.cretesos.udl.cat/book/978-1-4503-0014-8/"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/journal/0965-9978/"><dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Advances in Engineering Software</dc:title></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/321-Adaptacion_Ontologia_Copyright/"><dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Entregable 3.2.1 - Adaptación Ontología Copyright</dc:title></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/013768/"><n0pred:homepage xmlns:n0pred="http://swrc.ontoware.org/ontology#">http://doi.acm.org/10.1145/1839707.1839711</n0pred:homepage></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/016099/"><n0pred:isPartOf xmlns:n0pred="http://purl.org/dc/terms/" rdf:resource="http://www.cretesos.udl.cat/journal/0948-695X/"/></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/322-Ontologia_Creative_Commons/"><rdfs:label>3.2.2 - Ontología Creative Commons</rdfs:label></rdf:Description>
+<rdf:Description rdf:nodeID="b1216629"><rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/013173/"><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://www.cretesos.udl.cat/person/PonsaP/"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/journal/1386-6710/"><rdf:type rdf:resource="http://swrc.ontoware.org/ontology#Journal"/></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/211-Sistemas_Gestion_Contenidos_Multimedia/"><dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Entregable 2.1.1 - Informe Sistemas Gestión Contenidos Multimedia</dc:title></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/431-Ontologia_Usuarios/"><dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Entregable 4.3.1 – Ontología de Usuarios</dc:title></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/013768/"><rdf:type rdf:resource="http://swrc.ontoware.org/ontology#InBook"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/book/978-1-4503-0014-8/"><rdf:type rdf:resource="http://swrc.ontoware.org/ontology#Book"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/014449/"><n0pred:authors xmlns:n0pred="http://swrc.ontoware.org/ontology#">Oliva, M.; Masip, L.; Granollers, T.</n0pred:authors></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/2110-Interfaces_Basadas_Modelos_Semanticos/"><n0pred:homepage xmlns:n0pred="http://swrc.ontoware.org/ontology#">http://omediadis.udl.cat/html/deliverables/2110-Interfaces_Basadas_Modelos_Semanticos/</n0pred:homepage></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/013173/"><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://www.cretesos.udl.cat/person/AmanteB/"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/013173/"><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://www.cretesos.udl.cat/person/VilanovaR/"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/journal/1386-6710/"><rdfs:label>Profesional de la Informacion</rdfs:label></rdf:Description>
+<rdf:Description rdf:nodeID="b1216625"><rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/015681/"><rdf:type rdf:resource="http://swrc.ontoware.org/ontology#Article"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/book/978-1-4503-0014-8/"><n0pred:isbn xmlns:n0pred="http://swrc.ontoware.org/ontology#">978-1-4503-0014-8</n0pred:isbn></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/016099/"><n0pred:homepage xmlns:n0pred="http://swrc.ontoware.org/ontology#">http://www.jucs.org/jucs_16_15/multi_purpose_infrastructure_for</n0pred:homepage></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/person/IrigoyenE/"><rdfs:label>Irigoyen, E.</rdfs:label></rdf:Description>
+<rdf:Description rdf:nodeID="b1216627"><rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/journal/1867-5662/"><rdfs:label>Advances in Intelligent and Soft Computing</rdfs:label></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/blog/2010/01/25/omediadis-first-prototype/"><dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2010-01-25</dc:date></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/013768/"><n0pred:authors xmlns:n0pred="http://swrc.ontoware.org/ontology#">García, R.; Gil, R.</n0pred:authors></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/014413/"><dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2010</dc:date></rdf:Description>
+<rdf:Description rdf:nodeID="b1216623"><rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/2111-Patrones_Interaccion_Web_Semantica/"><dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Entregable 2.1.11 - Informe Patrones de Interacción en la Web Semántica</dc:title></rdf:Description>
+<rdf:Description rdf:nodeID="b1216631"><rdf:rest rdf:nodeID="b1216632"/></rdf:Description>
+<rdf:Description rdf:nodeID="b1216628"><rdf:rest rdf:nodeID="b1216629"/></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/411-Modulo_Carga_Conenidos/"><dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2009-12-31</dc:date></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/213-Web_Semantica_y_DRM/"><n0pred:homepage xmlns:n0pred="http://swrc.ontoware.org/ontology#">http://omediadis.udl.cat/html/deliverables/213-Web_Semantica_y_DRM/</n0pred:homepage></rdf:Description>
+<rdf:Description rdf:nodeID="b1216617"><rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/></rdf:Description>
+<rdf:Description rdf:nodeID="b1216630"><rdf:rest rdf:nodeID="b1216633"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/013173/"><rdfs:label>Towards human-centred design in industrial automation systems</rdfs:label></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/book/978-3-642-04408-3/"><n0pred:isbn xmlns:n0pred="http://swrc.ontoware.org/ontology#">978-3-642-04408-3</n0pred:isbn></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/322-Ontologia_Creative_Commons/"><dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2009-12-31</dc:date></rdf:Description>
+<rdf:Description rdf:nodeID="b1216619"><rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/></rdf:Description>
+<rdf:Description rdf:nodeID="b1216624"><rdf:rest rdf:nodeID="b1216630"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/person/RiberaM/"><rdfs:label>Ribera, M.</rdfs:label></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/2110-Interfaces_Basadas_Modelos_Semanticos/"><rdfs:label>2.1.10 - Informe Interfaces Basadas Modelos Semánticos</rdfs:label></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/016099/"><n0pred:authors xmlns:n0pred="http://swrc.ontoware.org/ontology#">Sendín, M.; López, J.M.</n0pred:authors></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/013769/"><dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Controlled Natural Language rendering of Copyright Ontology licenses</dc:title></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/013599/"><n0pred:volume xmlns:n0pred="http://swrc.ontoware.org/ontology#">40</n0pred:volume></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/journal/1657-7663/"><rdf:type rdf:resource="http://swrc.ontoware.org/ontology#Journal"/></rdf:Description>
+<rdf:Description rdf:nodeID="b1216626"><rdf:rest rdf:nodeID="b1216627"/></rdf:Description>
+<rdf:Description rdf:about="http://rhizomik.net/rhizomer/services/timeline/"><n0pred:endPoint xmlns:n0pred="http://rhizomik.net/rhizomer/services#">/services/timeline/timeline.jsp</n0pred:endPoint></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/516-Evaluacion_Interfaz_Generica_2/"><rdfs:label>5.1.6 – Evaluación Interfaz Genérica 2.0</rdfs:label></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/016099/"><n0pred:pages xmlns:n0pred="http://swrc.ontoware.org/ontology#">2081-2098</n0pred:pages></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/journal/1752-6124/"><rdfs:label>International Journal of Social and Humanistic Computing</rdfs:label></rdf:Description>
+<rdf:Description rdf:nodeID="b1216635"><rdf:rest rdf:nodeID="b1216620"/></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/219-Accesibilidad_y_Web_Semantica/"><rdf:type rdf:resource="http://swrc.ontoware.org/ontology#Report"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/013681/"><dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Formalización del proceso colaborativo de evaluación de usabilidad</dc:title></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/person/Garay-VitoriaN/"><rdfs:label>Garay-Vitoria, N.</rdfs:label></rdf:Description>
+<rdf:Description rdf:nodeID="b1216636"><rdf:rest rdf:nodeID="b1216637"/></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/433-Modulo_Recomendacion/"><dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Entregable 4.3.3 – Módulo de Recomendación 1.0</dc:title></rdf:Description>
+<rdf:Description rdf:nodeID="b1216637"><rdf:rest rdf:nodeID="b1216638"/></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/213-Web_Semantica_y_DRM/"><rdf:type rdf:resource="http://swrc.ontoware.org/ontology#Report"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/013768/"><dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Triplificating and linking XBRL financial data</dc:title></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/214-Watermarking_y_Fingerprinting/"><rdf:type rdf:resource="http://swrc.ontoware.org/ontology#Report"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/015681/"><n0pred:authors xmlns:n0pred="http://swrc.ontoware.org/ontology#">García, R.; Gil, R.; Gimeno, J.M.; Granollers, T.; López, J.M.; Oliva, M.; Pascual, A.</n0pred:authors></rdf:Description>
+<rdf:Description rdf:nodeID="b1216632"><rdf:rest rdf:nodeID="b1216628"/></rdf:Description>
+<rdf:Description rdf:nodeID="b1216623"><rdf:first rdf:resource="http://www.cretesos.udl.cat/person/GilR/"/></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/217-Busqueda_Contenidos_Multimedia/"><rdf:type rdf:resource="http://swrc.ontoware.org/ontology#Report"/></rdf:Description>
+<rdf:Description rdf:nodeID="b1216634"><rdf:rest rdf:nodeID="b1216635"/></rdf:Description>
+<rdf:Description rdf:nodeID="b1216622"><rdf:first rdf:resource="http://www.cretesos.udl.cat/person/GarciaR/"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/016099/"><n0pred:authorList xmlns:n0pred="http://swrc.ontoware.org/ontology#" rdf:nodeID="b1216616"/></rdf:Description>
+<rdf:Description rdf:nodeID="b1216634"><rdf:first rdf:resource="http://www.cretesos.udl.cat/person/PascualA/"/></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/421-Modulo_Busqueda_Conenidos/"><n0pred:homepage xmlns:n0pred="http://swrc.ontoware.org/ontology#">http://omediadis.udl.cat/html/deliverables/421-Modulo_Busqueda_Conenidos/</n0pred:homepage></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/211-Sistemas_Gestion_Contenidos_Multimedia/"><rdfs:label>2.1.1 - Informe Sistemas Gestión Contenidos Multimedia</rdfs:label></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/2110-Interfaces_Basadas_Modelos_Semanticos/"><rdf:type rdf:resource="http://swrc.ontoware.org/ontology#Report"/></rdf:Description>
+<rdf:Description rdf:nodeID="b643055"><rdf:first rdf:resource="http://www.cretesos.udl.cat/person/GarciaR/"/></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/blog/2011/03/24/project_review"><dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2011-03-24</dc:date></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/book/978-84-934256.8-5/"><dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Proceedings ORP&#39;2010 Creating Value Through Risk Prevention Management. VIII International conference on Occupational Risk Prevention</dc:title></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/015682/"><n0pred:authors xmlns:n0pred="http://swrc.ontoware.org/ontology#">López, J.M.; Navarro-Molina, C.; García, R.; Aleixandre-Benavent, R.</n0pred:authors></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/journal/1386-6710/"><dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Profesional de la Informacion</dc:title></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/216-Anotacion_Contenidos_Multimedia/"><rdf:type rdf:resource="http://swrc.ontoware.org/ontology#Report"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/book/978-84-693-1781-5/"><dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">25 Años de Integración Escolar en España: Tecnología e Inclusión en el ámbito educativo, laboral y comunitario</dc:title></rdf:Description>
+<rdf:Description rdf:nodeID="b1216637"><rdf:first rdf:resource="http://www.cretesos.udl.cat/person/PascualA/"/></rdf:Description>
+<rdf:Description rdf:about="http://rhizomik.net/rhizomer/services/map/"><n0pred:hasInput xmlns:n0pred="http://www.daml.org/services/owl-s/1.1/Process.owl#">
+	            PREFIX georss: &lt;http://www.georss.org/georss#&gt; 
+	            PREFIX wgs84_pos: &lt;http://www.w3.org/2003/01/geo/wgs84_pos#&gt;
+	            ASK WHERE {
+	            { ?r georss:point ?point. FILTER(?r =&lt;[URI]&gt;) } UNION 
+	            { ?r wgs84_pos:lat ?lat; wgs84_pos:long ?long. FILTER(?r =&lt;[URI]&gt;) } }
+            </n0pred:hasInput></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/013769/"><n0pred:pages xmlns:n0pred="http://swrc.ontoware.org/ontology#">61-76</n0pred:pages></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/431-Ontologia_Usuarios/"><rdfs:label>4.3.1 – Ontología de Usuarios</rdfs:label></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/013769/"><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://www.cretesos.udl.cat/person/GarciaR/"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/journal/1135-3716/"><dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Scire: representación y organización del conocimiento</dc:title></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/blog/2010/01/25/omediadis-first-prototype/"><n0pred:title xmlns:n0pred="http://purl.org/rss/1.0/">OMediaDis first prototype</n0pred:title></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/journal/1751-8806/"><dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Iet Software</dc:title></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/013769/"><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://www.cretesos.udl.cat/person/GilR/"/></rdf:Description>
+<rdf:Description rdf:nodeID="b1216619"><rdf:first rdf:resource="http://www.cretesos.udl.cat/person/LopezJM/"/></rdf:Description>
+<rdf:Description rdf:nodeID="b1216618"><rdf:first rdf:resource="http://www.cretesos.udl.cat/person/SendinM/"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/journal/0948-695X/"><dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Journal Of Universal Computer Science</dc:title></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/013681/"><n0pred:authors xmlns:n0pred="http://swrc.ontoware.org/ontology#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Méndez, Y.; Collazos, C.; Granollers, T.</n0pred:authors></rdf:Description>
+<rdf:Description rdf:nodeID="b1216630"><rdf:first rdf:resource="http://www.cretesos.udl.cat/person/CollazosC/"/></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/2111-Patrones_Interaccion_Web_Semantica/"><rdf:type rdf:resource="http://swrc.ontoware.org/ontology#Report"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/person/PerdrixF/"><rdfs:label>Perdrix, F.</rdfs:label></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/211-Sistemas_Gestion_Contenidos_Multimedia/"><rdf:type rdf:resource="http://swrc.ontoware.org/ontology#Report"/></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/312-Analisis_Repositorios_Semanticos/"><dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Entregable 3.1.2 - Análisis Repositorios Semánticos</dc:title></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/013599/"><n0pred:homepage xmlns:n0pred="http://swrc.ontoware.org/ontology#">http://dx.doi.org/10.1016/j.advengsoft.2009.01.022</n0pred:homepage></rdf:Description>
+<rdf:Description rdf:nodeID="b1216617"><rdf:first rdf:resource="http://www.cretesos.udl.cat/person/SendinM/"/></rdf:Description>
+<rdf:Description rdf:nodeID="b1216616"><rdf:first rdf:resource="http://www.cretesos.udl.cat/person/LopezJM/"/></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/blog/2010/01/25/omediadis-first-prototype/"><n0pred:link xmlns:n0pred="http://purl.org/rss/1.0/">http://omediadis.udl.cat/blog/2010/01/25/omediadis-first-prototype/</n0pred:link></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/015682/"><n0pred:volume xmlns:n0pred="http://swrc.ontoware.org/ontology#">19</n0pred:volume></rdf:Description>
+<rdf:Description rdf:nodeID="b1216621"><rdf:rest rdf:nodeID="b1216625"/></rdf:Description>
+<rdf:Description rdf:about="http://rhizomik.net/rhizomer/services/map/"><rdf:type rdf:resource="http://www.daml.org/services/owl-s/1.1/Process.owl#Process"/></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/212-Accesibilidad_Sistemas_Gestion_Contenidos_Multimedia/"><n0pred:homepage xmlns:n0pred="http://swrc.ontoware.org/ontology#">http://omediadis.udl.cat/html/deliverables/212-Accesibilidad_Sistemas_Gestion_Contenidos_Multimedia/</n0pred:homepage></rdf:Description>
+<rdf:Description rdf:nodeID="b1216618"><rdf:rest rdf:nodeID="b1216619"/></rdf:Description>
+<rdf:Description rdf:nodeID="b1216621"><rdf:first rdf:resource="http://www.cretesos.udl.cat/person/GranollersT/"/></rdf:Description>
+<rdf:Description rdf:about="http://rhizomik.net/rhizomer/services/timeline/"><rdf:type rdf:resource="http://www.daml.org/services/owl-s/1.1/Process.owl#Process"/></rdf:Description>
+<rdf:Description rdf:nodeID="b643054"><rdf:first rdf:resource="http://www.cretesos.udl.cat/person/CondeA/"/></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/blog/2010/11/30/OMediaDis_publishes_Deliverable_516/"><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://rhizomik.net/~roberto/"/></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/515-Interfaz_Generica_2/"><n0pred:homepage xmlns:n0pred="http://swrc.ontoware.org/ontology#">http://omediadis.udl.cat/html/deliverables/515-Interfaz_Generica_2/</n0pred:homepage></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/book/978-2-87037-682-9/"><dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Proceedings of the 8th International Workshop for Technical, Economic and Legal Aspects of Business Models for Virtual Goods</dc:title></rdf:Description>
+<rdf:Description rdf:nodeID="b1216616"><rdf:rest rdf:nodeID="b1216617"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/016099/"><dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2010</dc:date></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/015683/"><n0pred:volume xmlns:n0pred="http://swrc.ontoware.org/ontology#">19</n0pred:volume></rdf:Description>
+<rdf:Description rdf:nodeID="b1216622"><rdf:rest rdf:nodeID="b1216623"/></rdf:Description>
+<rdf:Description rdf:nodeID="b643070"><rdf:first rdf:resource="http://www.cretesos.udl.cat/person/MarcosMC/"/></rdf:Description>
+<rdf:Description rdf:nodeID="b643061"><rdf:first rdf:resource="http://www.cretesos.udl.cat/person/OlivaM/"/></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/219-Accesibilidad_y_Web_Semantica/"><dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Entregable 2.1.9 - Informe Accesibilidad y Web Semántica</dc:title></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/015189/"><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://www.cretesos.udl.cat/person/ComellaI/"/></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/blog/2011/03/24/project_review"><n0pred:description xmlns:n0pred="http://purl.org/rss/1.0/">OMediaDis undergoes its last year review.</n0pred:description></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/016099/"><rdfs:label>Multi-Purpose Infrastructure for Delivering and Supporting Mobile Context-Aware Applications</rdfs:label></rdf:Description>
+<rdf:Description rdf:nodeID="b643071"><rdf:first rdf:resource="http://www.cretesos.udl.cat/person/BotellaF/"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/014449/"><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://www.cretesos.udl.cat/person/MasipL/"/></rdf:Description>
+<rdf:Description rdf:nodeID="b1216620"><rdf:rest rdf:nodeID="b1216621"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/013769/"><n0pred:isPartOf xmlns:n0pred="http://purl.org/dc/terms/" rdf:resource="http://www.cretesos.udl.cat/book/978-2-87037-682-9/"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/013681/"><n0pred:authorList xmlns:n0pred="http://swrc.ontoware.org/ontology#" rdf:nodeID="b1216624"/></rdf:Description>
+<rdf:Description rdf:nodeID="b643062"><rdf:first rdf:resource="http://www.cretesos.udl.cat/person/RubioJ/"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/015160/"><n0pred:authorList xmlns:n0pred="http://swrc.ontoware.org/ontology#" rdf:nodeID="b643058"/></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/432-Integracion_Metadatos_Usuarios/"><n0pred:homepage xmlns:n0pred="http://swrc.ontoware.org/ontology#">http://omediadis.udl.cat/html/deliverables/432-Integracion_Metadatos_Usuarios/</n0pred:homepage></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/book/978-84-934256.8-5/"><n0pred:isbn xmlns:n0pred="http://swrc.ontoware.org/ontology#">978-84-934256.8-5</n0pred:isbn></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/person/RubioJ/"><rdfs:label>Rubio, J.</rdfs:label></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/person/GranollersT/"><rdfs:label>Granollers, T.</rdfs:label></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/blog/2000/01/01/omediadis-kickoff/"><n0pred:dtend xmlns:n0pred="http://www.w3.org/2002/12/cal/icaltzd#">2011-12-31</n0pred:dtend></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/431-Ontologia_Usuarios/"><rdf:type rdf:resource="http://swrc.ontoware.org/ontology#Report"/></rdf:Description>
+<rdf:Description rdf:nodeID="b643056"><rdf:first rdf:resource="http://www.cretesos.udl.cat/person/LopezJM/"/></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/blog/2000/01/01/omediadis-kickoff/"><n0pred:title xmlns:n0pred="http://purl.org/rss/1.0/">OMediaDis Kick-off</n0pred:title></rdf:Description>
+<rdf:Description rdf:nodeID="b643063"><rdf:first rdf:resource="http://www.cretesos.udl.cat/person/EzeizaA/"/></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/432-Integracion_Metadatos_Usuarios/"><rdf:type rdf:resource="http://swrc.ontoware.org/ontology#Report"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/015681/"><rdfs:label>A Semantic Wiki for Quality Management in Software Development Projects</rdfs:label></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/013599/"><dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2009</dc:date></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/433-Modulo_Recomendacion/"><rdf:type rdf:resource="http://swrc.ontoware.org/ontology#Report"/></rdf:Description>
+<rdf:Description rdf:nodeID="b1216632"><rdf:first rdf:resource="http://www.cretesos.udl.cat/person/GranollersT/"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/journal/1752-6124/"><dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">International Journal of Social and Humanistic Computing</dc:title></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/015682/"><dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2010</dc:date></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/516-Evaluacion_Interfaz_Generica_2/"><rdf:type rdf:resource="http://swrc.ontoware.org/ontology#Report"/></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/218-Sistemas_Recomendacion_Contenidos_Multimedia/"><rdf:type rdf:resource="http://swrc.ontoware.org/ontology#Report"/></rdf:Description>
+<rdf:Description rdf:nodeID="b1216633"><rdf:first rdf:resource="http://www.cretesos.udl.cat/person/GranollersT/"/></rdf:Description>
+<rdf:Description rdf:nodeID="b643058"><rdf:first rdf:resource="http://www.cretesos.udl.cat/person/CondeA/"/></rdf:Description>
+<rdf:Description rdf:nodeID="b643060"><rdf:first rdf:resource="http://www.cretesos.udl.cat/person/LopezJM/"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/013720/"><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://www.cretesos.udl.cat/person/PascualA/"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/015683/"><rdfs:label>Hacia la arquitectura de la información 3.0: pasado, presente y futuro</rdfs:label></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/journal/1867-5662/"><dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Advances in Intelligent and Soft Computing</dc:title></rdf:Description>
+<rdf:Description rdf:nodeID="b643069"><rdf:first rdf:resource="http://www.cretesos.udl.cat/person/LopezK/"/></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/411-Modulo_Carga_Conenidos/"><rdf:type rdf:resource="http://swrc.ontoware.org/ontology#Report"/></rdf:Description>
+<rdf:Description rdf:nodeID="b1216627"><rdf:first rdf:resource="http://www.cretesos.udl.cat/person/GilR/"/></rdf:Description>
+<rdf:Description rdf:nodeID="b643066"><rdf:first rdf:resource="http://www.cretesos.udl.cat/person/LopezJM/"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/015683/"><dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2010</dc:date></rdf:Description>
+<rdf:Description rdf:nodeID="b643060"><rdf:rest rdf:nodeID="b643095"/></rdf:Description>
+<rdf:Description rdf:nodeID="b643068"><rdf:first rdf:resource="http://www.cretesos.udl.cat/person/LarranagaM/"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/012606/"><dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Engineering Accessibility in Web Content Management System Environments</dc:title></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/421-Modulo_Busqueda_Conenidos/"><rdf:type rdf:resource="http://swrc.ontoware.org/ontology#Report"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/012606/"><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://www.cretesos.udl.cat/person/PascualA/"/></rdf:Description>
+<rdf:Description rdf:nodeID="b1216626"><rdf:first rdf:resource="http://www.cretesos.udl.cat/person/GarciaR/"/></rdf:Description>
+<rdf:Description rdf:nodeID="b643056"><rdf:rest rdf:nodeID="b643074"/></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/322-Ontologia_Creative_Commons/"><n0pred:homepage xmlns:n0pred="http://swrc.ontoware.org/ontology#">http://omediadis.udl.cat/html/deliverables/322-Ontologia_Creative_Commons/</n0pred:homepage></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/person/VilanovaR/"><rdfs:label>Vilanova, R.</rdfs:label></rdf:Description>
+<rdf:Description rdf:nodeID="b1216638"><rdf:first rdf:resource="http://www.cretesos.udl.cat/person/GranollersT/"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/book/978-1-4503-0014-8/"><dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Proceedings of the 6th International Conference on Semantic Systems, I-SEMANTICS&#39;10</dc:title></rdf:Description>
+<rdf:Description rdf:nodeID="b1216636"><rdf:first rdf:resource="http://www.cretesos.udl.cat/person/LopezJM/"/></rdf:Description>
+<rdf:Description rdf:nodeID="b643061"><rdf:rest rdf:nodeID="b643097"/></rdf:Description>
+<rdf:Description rdf:nodeID="b643057"><rdf:rest rdf:nodeID="b643081"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/012606/"><rdfs:label>Engineering Accessibility in Web Content Management System Environments</rdfs:label></rdf:Description>
+<rdf:Description rdf:nodeID="b643059"><rdf:first rdf:resource="http://www.cretesos.udl.cat/person/GarciaR/"/></rdf:Description>
+<rdf:Description rdf:nodeID="b643065"><rdf:first rdf:resource="http://www.cretesos.udl.cat/person/IrigoyenE/"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/015159/"><n0pred:authorList xmlns:n0pred="http://swrc.ontoware.org/ontology#" rdf:nodeID="b643054"/></rdf:Description>
+<rdf:Description rdf:nodeID="b643064"><rdf:first rdf:resource="http://www.cretesos.udl.cat/person/Garay-VitoriaN/"/></rdf:Description>
+<rdf:Description rdf:nodeID="b643067"><rdf:first rdf:resource="http://www.cretesos.udl.cat/person/ElorriagaJA/"/></rdf:Description>
+<rdf:Description rdf:nodeID="b643057"><rdf:first rdf:resource="http://www.cretesos.udl.cat/person/GarciaR/"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/person/LopezJM/"><rdfs:label>López, J.M.</rdfs:label></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/013173/"><n0pred:authors xmlns:n0pred="http://swrc.ontoware.org/ontology#">Ponsa, P.; Granollers, T.; Vilanova, R.; Amante, B.</n0pred:authors></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/012606/"><n0pred:authors xmlns:n0pred="http://swrc.ontoware.org/ontology#">López, J.M.; Pascual, A.; Granollers, T.</n0pred:authors></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/515-Interfaz_Generica_2/"><rdf:type rdf:resource="http://swrc.ontoware.org/ontology#Report"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/journal/1751-8806/"><n0pred:issn xmlns:n0pred="http://swrc.ontoware.org/ontology#">1751-8806</n0pred:issn></rdf:Description>
+<rdf:Description rdf:nodeID="b643059"><rdf:rest rdf:nodeID="b643094"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/014413/"><rdf:type rdf:resource="http://swrc.ontoware.org/ontology#Article"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/journal/0948-695X/"><rdf:type rdf:resource="http://swrc.ontoware.org/ontology#Journal"/></rdf:Description>
+<rdf:Description rdf:nodeID="b643058"><rdf:rest rdf:nodeID="b643088"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/014449/"><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://www.cretesos.udl.cat/person/OlivaM/"/></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/015681/"><dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2010</dc:date></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/312-Analisis_Repositorios_Semanticos/"><dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2009-10-31</dc:date></rdf:Description>
+<rdf:Description rdf:about="http://www.cretesos.udl.cat/pub/015683/"><dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Hacia la arquitectura de la información 3.0: pasado, presente y futuro</dc:title></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/311-Seleccion_Esquemas_Metadatos/"><dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2009-08-31</dc:date></rdf:Description>
+<rdf:Description rdf:about="http://omediadis.udl.cat/deliverables/214-Watermarking_y_Fingerprinting/"><dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Entregable 2.1.4 - Informe Watermarking y Fingerprinting</dc:title></rdf:Description>
+</rdf:RDF>
