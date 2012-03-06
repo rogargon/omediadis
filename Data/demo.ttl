@@ -1,0 +1,1031 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+<_:-4daa2fec:12eddfda085:-2a13>	rdf:type	owl:Class ;
+	owl:unionOf	<_:-4daa2fec:12eddfda085:-2a12> .
+@prefix ns2:	<http://rhizomik.net/ontologies/2009/09/copyrightonto.owl#> .
+<_:-4daa2fec:12eddfda085:-2a12>	rdf:first	ns2:Communicate ;
+	rdf:rest	<_:-4daa2fec:12eddfda085:-2a11> .
+<_:-4daa2fec:12eddfda085:-2a19>	rdf:type	owl:Class .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+<_:-4daa2fec:12eddfda085:-2a19>	rdfs:subClassOf	<_:-4daa2fec:12eddfda085:-2a13> ;
+	owl:equivalentClass	<_:-4daa2fec:12eddfda085:-2a0e> ;
+	ns2:condition	<_:-4daa2fec:12eddfda085:-2a18> .
+<_:-4daa2fec:12eddfda085:-2a0e>	rdf:type	owl:Restriction ;
+	owl:onProperty	ns2:theme ;
+	owl:someValuesFrom	<http://omediadis.udl.cat/segre/recording/bulletin/20112006-15/derivations/> .
+<_:-4daa2fec:12eddfda085:-2a18>	rdf:type	owl:Class ;
+	rdfs:subClassOf	ns2:Attribute ;
+	owl:intersectionOf	<_:-4daa2fec:12eddfda085:-2a16> .
+<_:-4daa2fec:12eddfda085:-2a0d>	rdf:type	owl:Class ;
+	rdfs:subClassOf	ns2:Derive ;
+	owl:equivalentClass	<_:-4daa2fec:12eddfda085:-2a0c> ,
+		<_:-4daa2fec:12eddfda085:-2a0b> .
+<_:-4daa2fec:12eddfda085:-2a0b>	rdf:type	owl:Restriction ;
+	owl:onProperty	ns2:result ;
+	owl:someValuesFrom	<http://omediadis.udl.cat/segre/recording/bulletin/20112006-15/derivations/> .
+<_:-4daa2fec:12eddfda085:-2a0c>	rdf:type	owl:Restriction ;
+	owl:onProperty	ns2:theme ;
+	owl:hasValue	<http://omediadis.udl.cat/segre/recording/bulletin/20112006-15/> .
+<_:-4daa2fec:12eddfda085:-2a0a>	rdf:type	owl:Restriction ;
+	owl:onProperty	ns2:isDerivationOf ;
+	owl:hasValue	<http://omediadis.udl.cat/segre/recording/bulletin/20112006-15/> .
+<_:-4daa2fec:12eddfda085:-2a22>	rdf:first	<_:-4daa2fec:12eddfda085:-2a23> ;
+	rdf:rest	<_:-4daa2fec:12eddfda085:-2a20> .
+<_:-4daa2fec:12eddfda085:-2a20>	rdf:first	<_:-4daa2fec:12eddfda085:-2a21> ;
+	rdf:rest	rdf:nil .
+<_:-4daa2fec:12eddfda085:-2a23>	rdf:type	owl:Restriction ;
+	owl:onProperty	ns2:theme ;
+	owl:hasValue	<http://omediadis.udl.cat/segre/recording/bulletin/20112006-15/> .
+<_:-4daa2fec:12eddfda085:-2a1c>	rdf:first	ns2:Distribute ;
+	rdf:rest	<_:-4daa2fec:12eddfda085:-2a1b> .
+<_:-4daa2fec:12eddfda085:-2a1b>	rdf:first	ns2:MakeAvailable ;
+	rdf:rest	rdf:nil .
+<_:-4daa2fec:12eddfda085:-2a11>	rdf:first	ns2:Copy ;
+	rdf:rest	<_:-4daa2fec:12eddfda085:-2a10> .
+<_:-4daa2fec:12eddfda085:-2a16>	rdf:first	<_:-4daa2fec:12eddfda085:-2a17> ;
+	rdf:rest	<_:-4daa2fec:12eddfda085:-2a14> .
+<_:-4daa2fec:12eddfda085:-2a21>	rdf:type	owl:Restriction ;
+	owl:onProperty	ns2:recipient ;
+	owl:hasValue	<http://www.segre.com> .
+<_:-4daa2fec:12eddfda085:-2a10>	rdf:first	ns2:Distribute ;
+	rdf:rest	<_:-4daa2fec:12eddfda085:-2a0f> .
+<_:-4daa2fec:12eddfda085:-2a17>	rdf:type	owl:Restriction ;
+	owl:onProperty	ns2:theme ;
+	owl:hasValue	<http://omediadis.udl.cat/segre/recording/bulletin/20112006-15/> .
+<_:-4daa2fec:12eddfda085:-2a1a>	rdf:type	owl:Restriction ;
+	owl:onProperty	ns2:theme ;
+	owl:hasValue	<http://omediadis.udl.cat/segre/recording/bulletin/20112006-15/> .
+<_:-4daa2fec:12eddfda085:-2a0f>	rdf:first	ns2:MakeAvailable ;
+	rdf:rest	rdf:nil .
+<_:-4daa2fec:12eddfda085:-2a14>	rdf:first	<_:-4daa2fec:12eddfda085:-2a15> ;
+	rdf:rest	rdf:nil .
+<_:-4daa2fec:12eddfda085:-2a25>	rdf:type	owl:Class ;
+	rdfs:subClassOf	<_:-4daa2fec:12eddfda085:-2a1f> ;
+	owl:equivalentClass	<_:-4daa2fec:12eddfda085:-2a1a> ;
+	ns2:condition	<_:-4daa2fec:12eddfda085:-2a24> .
+<_:-4daa2fec:12eddfda085:-2a1f>	rdf:type	owl:Class ;
+	owl:unionOf	<_:-4daa2fec:12eddfda085:-2a1e> .
+<_:-4daa2fec:12eddfda085:-2a24>	rdf:type	owl:Class ;
+	rdfs:subClassOf	ns2:Attribute ;
+	owl:intersectionOf	<_:-4daa2fec:12eddfda085:-2a22> .
+<_:-4daa2fec:12eddfda085:-2a1e>	rdf:first	ns2:Communicate ;
+	rdf:rest	<_:-4daa2fec:12eddfda085:-2a1d> .
+<_:-4daa2fec:12eddfda085:-2a15>	rdf:type	owl:Restriction ;
+	owl:onProperty	ns2:recipient ;
+	owl:hasValue	<http://www.segre.com> .
+<_:-4daa2fec:12eddfda085:-2a1d>	rdf:first	ns2:Copy ;
+	rdf:rest	<_:-4daa2fec:12eddfda085:-2a1c> .
+<_:5c199253:12ee3249c6f:-6d3e>	rdf:type	owl:Restriction ;
+	owl:onProperty	ns2:recipient ;
+	owl:hasValue	<http://www.segre.com> .
+<_:5c199253:12ee3249c6f:-6d34>	rdf:type	owl:Restriction ;
+	owl:onProperty	ns2:theme ;
+	owl:hasValue	<http://omediadis.udl.cat/segre/recording/bulletin/08012007-10/> .
+<_:5c199253:12ee3249c6f:-6d2e>	rdf:first	ns2:Copy ;
+	rdf:rest	<_:5c199253:12ee3249c6f:-6d2d> .
+<_:5c199253:12ee3249c6f:-6d2d>	rdf:first	ns2:Distribute ;
+	rdf:rest	<_:5c199253:12ee3249c6f:-6d2c> .
+<_:5c199253:12ee3249c6f:-6d3d>	rdf:first	<_:5c199253:12ee3249c6f:-6d3e> ;
+	rdf:rest	rdf:nil .
+<_:5c199253:12ee3249c6f:-6d33>	rdf:first	<_:5c199253:12ee3249c6f:-6d34> ;
+	rdf:rest	<_:5c199253:12ee3249c6f:-6d31> .
+<_:5c199253:12ee3249c6f:-6d31>	rdf:first	<_:5c199253:12ee3249c6f:-6d32> ;
+	rdf:rest	rdf:nil .
+<_:5c199253:12ee3249c6f:-6d39>	rdf:first	ns2:Distribute ;
+	rdf:rest	<_:5c199253:12ee3249c6f:-6d38> .
+<_:5c199253:12ee3249c6f:-6d38>	rdf:first	ns2:MakeAvailable ;
+	rdf:rest	rdf:nil .
+<_:5c199253:12ee3249c6f:-6d2c>	rdf:first	ns2:MakeAvailable ;
+	rdf:rest	rdf:nil .
+<_:5c199253:12ee3249c6f:-6d42>	rdf:type	owl:Class ;
+	rdfs:subClassOf	<_:5c199253:12ee3249c6f:-6d3c> ;
+	owl:equivalentClass	<_:5c199253:12ee3249c6f:-6d37> ;
+	ns2:condition	<_:5c199253:12ee3249c6f:-6d41> .
+<_:5c199253:12ee3249c6f:-6d37>	rdf:type	owl:Restriction ;
+	owl:onProperty	ns2:theme ;
+	owl:hasValue	<http://omediadis.udl.cat/segre/recording/bulletin/08012007-10/> .
+<_:5c199253:12ee3249c6f:-6d3c>	rdf:type	owl:Class ;
+	owl:unionOf	<_:5c199253:12ee3249c6f:-6d3b> .
+<_:5c199253:12ee3249c6f:-6d41>	rdf:type	owl:Class ;
+	rdfs:subClassOf	ns2:Attribute ;
+	owl:intersectionOf	<_:5c199253:12ee3249c6f:-6d3f> .
+<_:5c199253:12ee3249c6f:-6d3b>	rdf:first	ns2:Communicate ;
+	rdf:rest	<_:5c199253:12ee3249c6f:-6d3a> .
+<_:5c199253:12ee3249c6f:-6d29>	rdf:type	owl:Restriction ;
+	owl:onProperty	ns2:theme ;
+	owl:hasValue	<http://omediadis.udl.cat/segre/recording/bulletin/08012007-10/> .
+<_:5c199253:12ee3249c6f:-6d32>	rdf:type	owl:Restriction ;
+	owl:onProperty	ns2:recipient ;
+	owl:hasValue	<http://www.segre.com> .
+<_:5c199253:12ee3249c6f:-6d3f>	rdf:first	<_:5c199253:12ee3249c6f:-6d40> ;
+	rdf:rest	<_:5c199253:12ee3249c6f:-6d3d> .
+<_:5c199253:12ee3249c6f:-6d3a>	rdf:first	ns2:Copy ;
+	rdf:rest	<_:5c199253:12ee3249c6f:-6d39> .
+<_:5c199253:12ee3249c6f:-6d28>	rdf:type	owl:Restriction ;
+	owl:onProperty	ns2:result ;
+	owl:someValuesFrom	<http://omediadis.udl.cat/segre/recording/bulletin/08012007-10/derivations/> .
+<_:5c199253:12ee3249c6f:-6d2a>	rdf:type	owl:Class ;
+	rdfs:subClassOf	ns2:Derive ;
+	owl:equivalentClass	<_:5c199253:12ee3249c6f:-6d28> ,
+		<_:5c199253:12ee3249c6f:-6d29> .
+<_:5c199253:12ee3249c6f:-6d36>	rdf:type	owl:Class ;
+	rdfs:subClassOf	<_:5c199253:12ee3249c6f:-6d30> ;
+	owl:equivalentClass	<_:5c199253:12ee3249c6f:-6d2b> ;
+	ns2:condition	<_:5c199253:12ee3249c6f:-6d35> .
+<_:5c199253:12ee3249c6f:-6d2b>	rdf:type	owl:Restriction ;
+	owl:onProperty	ns2:theme ;
+	owl:someValuesFrom	<http://omediadis.udl.cat/segre/recording/bulletin/08012007-10/derivations/> .
+<_:5c199253:12ee3249c6f:-6d40>	rdf:type	owl:Restriction ;
+	owl:onProperty	ns2:theme ;
+	owl:hasValue	<http://omediadis.udl.cat/segre/recording/bulletin/08012007-10/> .
+<_:5c199253:12ee3249c6f:-6d27>	rdf:type	owl:Restriction ;
+	owl:onProperty	ns2:isDerivationOf ;
+	owl:hasValue	<http://omediadis.udl.cat/segre/recording/bulletin/08012007-10/> .
+<_:5c199253:12ee3249c6f:-6d30>	rdf:type	owl:Class ;
+	owl:unionOf	<_:5c199253:12ee3249c6f:-6d2f> .
+<_:5c199253:12ee3249c6f:-6d2f>	rdf:first	ns2:Communicate ;
+	rdf:rest	<_:5c199253:12ee3249c6f:-6d2e> .
+<_:5c199253:12ee3249c6f:-6d35>	rdf:type	owl:Class ;
+	rdfs:subClassOf	ns2:Attribute ;
+	owl:intersectionOf	<_:5c199253:12ee3249c6f:-6d33> .
+<_:5c199253:12ee3249c6f:-6be3>	rdf:first	<_:5c199253:12ee3249c6f:-6be4> ;
+	rdf:rest	rdf:nil .
+<_:5c199253:12ee3249c6f:-6be4>	rdf:type	owl:Restriction ;
+	owl:onProperty	ns2:recipient ;
+	owl:hasValue	<http://www.segre.com> .
+<_:5c199253:12ee3249c6f:-6be8>	rdf:type	owl:Restriction .
+@prefix ns4:	<http://purl.org/goodrelations/v1#> .
+<_:5c199253:12ee3249c6f:-6be8>	owl:onProperty	ns4:hasCurrencyValue ;
+	owl:hasValue	"3" .
+<_:5c199253:12ee3249c6f:-6beb>	rdf:type	owl:Restriction ;
+	owl:onProperty	ns2:theme ;
+	owl:someValuesFrom	<_:5c199253:12ee3249c6f:-6be9> .
+<_:5c199253:12ee3249c6f:-6be9>	rdf:type	owl:Class ;
+	rdfs:subClassOf	ns4:PriceSpecification ;
+	owl:intersectionOf	<_:5c199253:12ee3249c6f:-6be7> .
+<_:5c199253:12ee3249c6f:-6be1>	rdf:type	owl:Class ;
+	rdfs:subClassOf	ns2:Access ;
+	owl:equivalentClass	<_:5c199253:12ee3249c6f:-6be0> .
+<_:5c199253:12ee3249c6f:-6be0>	rdf:type	owl:Restriction ;
+	owl:onProperty	ns2:theme ;
+	owl:hasValue	<http://omediadis.udl.cat/segre/recording/bulletin/16042007-Migdia/> .
+<_:5c199253:12ee3249c6f:-6be6>	rdf:type	owl:Restriction ;
+	owl:onProperty	ns4:hasCurrency ;
+	owl:hasValue	"EUR" .
+<_:5c199253:12ee3249c6f:-6be7>	rdf:first	<_:5c199253:12ee3249c6f:-6be8> ;
+	rdf:rest	<_:5c199253:12ee3249c6f:-6be5> .
+<_:5c199253:12ee3249c6f:-6bec>	rdf:type	owl:Class ;
+	rdfs:subClassOf	ns2:Transfer ;
+	owl:intersectionOf	<_:5c199253:12ee3249c6f:-6bea> .
+<_:5c199253:12ee3249c6f:-6bea>	rdf:first	<_:5c199253:12ee3249c6f:-6beb> ;
+	rdf:rest	<_:5c199253:12ee3249c6f:-6be3> .
+<_:5c199253:12ee3249c6f:-6be2>	rdf:type	owl:Restriction ;
+	owl:onProperty	ns2:theme ;
+	owl:hasValue	<http://omediadis.udl.cat/segre/recording/bulletin/16042007-Migdia/> .
+<_:5c199253:12ee3249c6f:-6be5>	rdf:first	<_:5c199253:12ee3249c6f:-6be6> ;
+	rdf:rest	rdf:nil .
+<_:5c199253:12ee3249c6f:-6bed>	rdf:type	owl:Class ;
+	rdfs:subClassOf	ns2:Copy ;
+	owl:equivalentClass	<_:5c199253:12ee3249c6f:-6be2> ;
+	ns2:condition	<_:5c199253:12ee3249c6f:-6bec> .
+<_:5c199253:12ee3249c6f:-6ae7>	rdf:first	ns2:Copy ;
+	rdf:rest	<_:5c199253:12ee3249c6f:-6ae6> .
+<_:5c199253:12ee3249c6f:-6ae6>	rdf:first	ns2:Distribute ;
+	rdf:rest	<_:5c199253:12ee3249c6f:-6ae5> .
+<_:5c199253:12ee3249c6f:-6aea>	rdf:first	<_:5c199253:12ee3249c6f:-6aeb> ;
+	rdf:rest	rdf:nil .
+<_:5c199253:12ee3249c6f:-6aeb>	rdf:type	owl:Restriction ;
+	owl:onProperty	ns2:recipient ;
+	owl:hasValue	<http://www.segre.com> .
+<_:5c199253:12ee3249c6f:-6aef>	rdf:type	owl:Class ;
+	rdfs:subClassOf	<_:5c199253:12ee3249c6f:-6ae9> ;
+	owl:equivalentClass	<_:5c199253:12ee3249c6f:-6ae4> ;
+	ns2:condition	<_:5c199253:12ee3249c6f:-6aee> .
+<_:5c199253:12ee3249c6f:-6ae4>	rdf:type	owl:Restriction ;
+	owl:onProperty	ns2:theme ;
+	owl:hasValue	<http://omediadis.udl.cat/segre/recording/bulletin/13022007-Migdia/> .
+<_:5c199253:12ee3249c6f:-6ae9>	rdf:type	owl:Class ;
+	owl:unionOf	<_:5c199253:12ee3249c6f:-6ae8> .
+<_:5c199253:12ee3249c6f:-6aee>	rdf:type	owl:Class ;
+	rdfs:subClassOf	ns2:Attribute ;
+	owl:intersectionOf	<_:5c199253:12ee3249c6f:-6aec> .
+<_:5c199253:12ee3249c6f:-6ae5>	rdf:first	ns2:MakeAvailable ;
+	rdf:rest	rdf:nil .
+<_:5c199253:12ee3249c6f:-6aed>	rdf:type	owl:Restriction ;
+	owl:onProperty	ns2:theme ;
+	owl:hasValue	<http://omediadis.udl.cat/segre/recording/bulletin/13022007-Migdia/> .
+<_:5c199253:12ee3249c6f:-6ae8>	rdf:first	ns2:Communicate ;
+	rdf:rest	<_:5c199253:12ee3249c6f:-6ae7> .
+<_:5c199253:12ee3249c6f:-6aec>	rdf:first	<_:5c199253:12ee3249c6f:-6aed> ;
+	rdf:rest	<_:5c199253:12ee3249c6f:-6aea> .
+<_:5c199253:12ee3249c6f:-69e4>	rdf:first	ns2:Copy ;
+	rdf:rest	<_:5c199253:12ee3249c6f:-69e3> .
+<_:5c199253:12ee3249c6f:-69e3>	rdf:first	ns2:Distribute ;
+	rdf:rest	<_:5c199253:12ee3249c6f:-69e2> .
+<_:5c199253:12ee3249c6f:-69de>	rdf:type	owl:Restriction ;
+	owl:onProperty	ns2:result ;
+	owl:someValuesFrom	<http://omediadis.udl.cat/segre/recording/bulletin/06022007-Migdia/derivations/> .
+<_:5c199253:12ee3249c6f:-69e2>	rdf:first	ns2:MakeAvailable ;
+	rdf:rest	rdf:nil .
+<_:5c199253:12ee3249c6f:-69e9>	rdf:first	<_:5c199253:12ee3249c6f:-69ea> ;
+	rdf:rest	<_:5c199253:12ee3249c6f:-69e7> .
+<_:5c199253:12ee3249c6f:-69e7>	rdf:first	<_:5c199253:12ee3249c6f:-69e8> ;
+	rdf:rest	rdf:nil .
+<_:5c199253:12ee3249c6f:-69ea>	rdf:type	owl:Restriction ;
+	owl:onProperty	ns2:theme ;
+	owl:hasValue	<http://omediadis.udl.cat/segre/recording/bulletin/06022007-Migdia/> .
+<_:5c199253:12ee3249c6f:-69dd>	rdf:type	owl:Restriction ;
+	owl:onProperty	ns2:isDerivationOf ;
+	owl:hasValue	<http://omediadis.udl.cat/segre/recording/bulletin/06022007-Migdia/> .
+<_:5c199253:12ee3249c6f:-69e0>	rdf:type	owl:Class ;
+	rdfs:subClassOf	ns2:Derive ;
+	owl:equivalentClass	<_:5c199253:12ee3249c6f:-69de> ,
+		<_:5c199253:12ee3249c6f:-69df> .
+<_:5c199253:12ee3249c6f:-69ec>	rdf:type	owl:Class ;
+	rdfs:subClassOf	<_:5c199253:12ee3249c6f:-69e6> ;
+	owl:equivalentClass	<_:5c199253:12ee3249c6f:-69e1> ;
+	ns2:condition	<_:5c199253:12ee3249c6f:-69eb> .
+<_:5c199253:12ee3249c6f:-69e1>	rdf:type	owl:Restriction ;
+	owl:onProperty	ns2:theme ;
+	owl:hasValue	<http://omediadis.udl.cat/segre/recording/bulletin/06022007-Migdia/> .
+<_:5c199253:12ee3249c6f:-69e6>	rdf:type	owl:Class ;
+	owl:unionOf	<_:5c199253:12ee3249c6f:-69e5> .
+<_:5c199253:12ee3249c6f:-69eb>	rdf:type	owl:Class ;
+	rdfs:subClassOf	ns2:Attribute ;
+	owl:intersectionOf	<_:5c199253:12ee3249c6f:-69e9> .
+<_:5c199253:12ee3249c6f:-69e8>	rdf:type	owl:Restriction ;
+	owl:onProperty	ns2:recipient ;
+	owl:hasValue	<http://www.segre.com> .
+<_:5c199253:12ee3249c6f:-69df>	rdf:type	owl:Restriction ;
+	owl:onProperty	ns2:theme ;
+	owl:hasValue	<http://omediadis.udl.cat/segre/recording/bulletin/06022007-Migdia/> .
+<_:5c199253:12ee3249c6f:-69e5>	rdf:first	ns2:Communicate ;
+	rdf:rest	<_:5c199253:12ee3249c6f:-69e4> .
+@prefix ns5:	<http://purl.org/rss/1.0/> .
+<http://omediadis.udl.cat/blog/2010/01/25/omediadis-first-prototype/>	rdf:type	ns5:item ;
+	rdfs:label	"OMediaDis first prototype"@en .
+@prefix dc:	<http://purl.org/dc/elements/1.1/> .
+<http://omediadis.udl.cat/blog/2010/01/25/omediadis-first-prototype/>	dc:date	"2010-01-25"@en ;
+	ns5:link	"http://omediadis.udl.cat/blog/2010/01/25/omediadis-first-prototype/"@en ;
+	dc:creator	<http://rhizomik.net/~roberto/> ;
+	ns5:title	"OMediaDis first prototype"@en ;
+	ns5:description	"OMediaDis releases the first prototype of its web-based platform, which currently integrates a specialised view for audio content."@en .
+@prefix ns7:	<http://rhizomik.net/rhizomer/services/timeline/> .
+@prefix ns8:	<http://www.daml.org/services/owl-s/1.1/Process.owl#> .
+ns7:timeline	rdf:type	ns8:Process ;
+	rdfs:label	"TimeLine" .
+@prefix ns9:	<http://rhizomik.net/rhizomer/services#> .
+ns7:timeline	ns9:endPoint	"/services/timeline/timeline.jsp" ;
+	ns8:hasOutput	"text/html" ;
+	ns8:hasInput	"\n\t            PREFIX cal: <http://www.w3.org/2002/12/cal/icaltzd#>\n\t            PREFIX dc: <http://purl.org/dc/elements/1.1/>\n\t            ASK WHERE {\n\t            {?r cal:dtsart ?start; cal:dtend ?end. FILTER(?r =<[URI]>) } UNION\n\t            {?r dc:date ?date. FILTER(?r =<[URI]>) }}\n            " .
+@prefix ns10:	<http://rhizomik.net/rhizomer/services/map/> .
+ns10:map	rdf:type	ns8:Process ;
+	rdfs:label	"Map" ;
+	ns9:endPoint	"/services/map/map.jsp" ;
+	ns8:hasOutput	"text/html" ;
+	ns8:hasInput	"\n\t            PREFIX georss: <http://www.georss.org/georss#> \n\t            PREFIX wgs84_pos: <http://www.w3.org/2003/01/geo/wgs84_pos#>\n\t            PREFIX vcard: <http://www.w3.org/2006/vcard/ns#>\n\t            ASK WHERE {\n\t            { ?r georss:point ?point. FILTER(?r =<[URI]>) } UNION \n\t            { ?r wgs84_pos:lat ?lat; wgs84_pos:long ?long. FILTER(?r =<[URI]>) } UNION\n\t            { ?r vcard:geo ?geo. ?geo vcard:latitude ?lat; vcard:longitude ?long. FILTER(?r =<[URI]>) } }\n            " .
+<http://www.segre.com>	rdfs:label	"Segre" .
+<http://omediadis.udl.cat/segre/recording/bulletin/08012007-10/license/>	rdf:type	ns2:Agree ;
+	rdfs:label	"CC-BYSA License for Recording of Radio Bulletin 10h - January 8th 2007" ;
+	rdfs:comment	"Creative Commons Attribution-Share Alike license for Recording of Radio Bulletin 10h - January 8th 2007" ;
+	ns2:theme	<_:5c199253:12ee3249c6f:-6d36> ,
+		<_:5c199253:12ee3249c6f:-6d2a> ,
+		<_:5c199253:12ee3249c6f:-6d42> ;
+	ns2:agent	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/recording/bulletin/08012007-10/derivations/>	rdf:type	owl:Class ;
+	rdfs:label	"Derivations of Recording of Radio Bulletin 10h - January 8th 2007" ;
+	owl:equivalentClass	<_:5c199253:12ee3249c6f:-6d27> .
+<http://omediadis.udl.cat/segre/recording/bulletin/16042007-Migdia/license/>	rdf:type	ns2:Agree ;
+	rdfs:label	"Commercial license for Recording of Radio Bulletin 12h - April 16th 2007" ;
+	rdfs:comment	"Commercial license requiring 3 Euros for copy but free access for Recording of Radio Bulletin 12h - April 16th 2007" ;
+	ns2:theme	<_:5c199253:12ee3249c6f:-6bed> ,
+		<_:5c199253:12ee3249c6f:-6be1> ;
+	ns2:agent	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/recording/bulletin/13022007-Migdia/license/>	rdf:type	ns2:Agree ;
+	rdfs:label	"CC-BYND License for Recording of Radio Bulletin 12h - February 13th 2007"@en ;
+	rdfs:comment	"Creative Commons Attribution-No Derivative Works license for Recording of Radio Bulletin 12h - February 13th 2007"@en ;
+	ns2:theme	<_:5c199253:12ee3249c6f:-6aef> ;
+	ns2:agent	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/recording/bulletin/06022007-Migdia/derivations/>	rdf:type	owl:Class ;
+	rdfs:label	"Derivations of Recording of Radio Bulletin 12h - February 6th 2007" ;
+	rdfs:subClassOf	ns2:Work ;
+	owl:equivalentClass	<_:5c199253:12ee3249c6f:-69dd> .
+<http://omediadis.udl.cat/segre/recording/bulletin/06022007-Migdia/license/>	rdf:type	ns2:Agree ;
+	rdfs:label	"CC-BY License for Recording of Radio Bulletin 12h - February 6th 2007"@en ;
+	rdfs:comment	"Creative Commons Attribution license Recording of Radio Bulletin 12h - February 6th 2007"@en ;
+	ns2:theme	<_:5c199253:12ee3249c6f:-69ec> ,
+		<_:5c199253:12ee3249c6f:-69e0> ;
+	ns2:agent	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/recording/bulletin/20112006-15/license/>	rdf:type	ns2:Agree ;
+	rdfs:label	"CC-BYSA License for Recording of Radio Bulletin 15h - November 20th 2006" ;
+	rdfs:comment	"Creative Commons Attribution-Share Alike license for Recording of Radio Bulletin 15h - November 20th 2006" ;
+	ns2:theme	<_:-4daa2fec:12eddfda085:-2a25> ,
+		<_:-4daa2fec:12eddfda085:-2a19> ,
+		<_:-4daa2fec:12eddfda085:-2a0d> ;
+	ns2:agent	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/recording/bulletin/20112006-15/derivations/>	rdf:type	owl:Class ;
+	rdfs:label	"Derivations of Recording of Radio Bulletin 15h - November 20th 2006" ;
+	owl:equivalentClass	<_:-4daa2fec:12eddfda085:-2a0a> .
+@prefix ns11:	<http://rhizomik.net/rhizomer/services/read/> .
+ns11:read	rdf:type	ns8:Process ;
+	rdfs:label	"Read" ;
+	ns9:endPoint	"/services/read/read.jsp" ;
+	ns8:hasOutput	"text/html" ;
+	ns8:hasInput	"\n\t            PREFIX co: <http://rhizomik.net/ontologies/2009/09/copyrightonto.owl#>\n\t            ASK WHERE {\n\t            \t?r a co:Agree. FILTER(?r =<[URI]>) }\n            " .
+@prefix ns12:	<http://rhizomik.net/rhizomer/services/player/> .
+ns12:player	rdf:type	ns8:Process ;
+	rdfs:label	"Play" ;
+	ns9:endPoint	"/services/player/player.jsp" ;
+	ns8:hasOutput	"text/html" ;
+	ns8:hasInput	"\n\t            PREFIX co: <http://rhizomik.net/ontologies/2009/09/copyrightonto.owl#>\n\t            PREFIX ma: <http://www.w3.org/ns/ma-ont#>\n\t            ASK WHERE {\n\t            \t?r ma:hasAudioDescription ?transcript; co:hasInstance ?copy. FILTER(?r =<[URI]>) }\n            " .
+<http://omediadis.udl.cat/segre/radio/bulletin/01032007-Migdia/>	rdf:type	ns2:Communication ;
+	rdfs:label	"Radio Bulletin 12h - March 1st 2007" ;
+	dc:date	"2007" ;
+	dc:language	"ca" ;
+	dc:title	"Radio Bulletin 12h - March 1st 2007" ;
+	dc:creator	<http://www.segre.com> ;
+	ns2:hasRecording	<http://omediadis.udl.cat/segre/recording/bulletin/01032007-Migdia/> .
+<http://omediadis.udl.cat/segre/recording/bulletin/01032007-Migdia/>	rdf:type	ns2:Recording ;
+	rdfs:label	"Recording of Radio Bulletin 12h - March 1st 2007" .
+@prefix ns13:	<http://www.w3.org/ns/ma-ont#> .
+<http://omediadis.udl.cat/segre/recording/bulletin/01032007-Migdia/>	ns13:hasAudioDescription	<http://omediadis.udl.cat/segre/text/bulletin/01032007-Migdia.xml> ;
+	dc:language	"ca" ;
+	dc:title	"Recording of Radio Bulletin 12h - March 1st 2007" ;
+	dc:creator	<http://www.segre.com> ;
+	ns2:hasInstance	<http://omediadis.udl.cat/segre/audio/bulletin/01032007-Migdia.mp3> .
+<http://omediadis.udl.cat/segre/text/bulletin/01032007-Migdia.xml>	rdf:type	ns13:DataTrack ;
+	rdfs:label	"Transcript of Radio Bulletin 12h - March 1st 2007" ;
+	dc:language	"ca" ;
+	dc:title	"Transcript of Radio Bulletin 12h - March 1st 2007" ;
+	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/audio/bulletin/01032007-Migdia.mp3>	rdf:type	ns13:AudioTrack ;
+	rdfs:label	"MP3 Copy of Radio Bulletin 12h - March 1st 2007" ;
+	ns13:duration	"PT00:06:26" ;
+	dc:format	"audio/mpeg" ;
+	dc:language	"ca" ;
+	dc:title	"MP3 Copy of Radio Bulletin 12h - March 1st 2007" ;
+	dc:creator	<http://www.segre.com> ;
+	ns13:bitrate	"128" ;
+	ns13:samplingrate	"48000" .
+<http://omediadis.udl.cat/segre/radio/bulletin/06022007-Migdia/>	rdf:type	ns2:Communication ;
+	rdfs:label	"Radio Bulletin 12h - February 6th 2007" ;
+	dc:date	"2007" ;
+	dc:language	"ca" ;
+	dc:title	"Radio Bulletin 12h - February 6th 2007" ;
+	dc:creator	<http://www.segre.com> ;
+	ns2:hasRecording	<http://omediadis.udl.cat/segre/recording/bulletin/06022007-Migdia/> .
+<http://omediadis.udl.cat/segre/recording/bulletin/06022007-Migdia/>	rdf:type	ns2:Recording ;
+	rdfs:label	"Recording of Radio Bulletin 12h - February 6th 2007" ;
+	ns9:hasService	ns12:player ;
+	ns13:hasAudioDescription	<http://omediadis.udl.cat/segre/text/bulletin/06022007-Migdia.xml> ;
+	dc:rights	<http://omediadis.udl.cat/segre/recording/bulletin/06022007-Migdia/license/> ;
+	dc:language	"ca" ;
+	dc:title	"Recording of Radio Bulletin 12h - February 6th 2007" ;
+	dc:creator	<http://www.segre.com> ;
+	ns2:hasInstance	<http://omediadis.udl.cat/segre/audio/bulletin/06022007-Migdia.mp3> .
+<http://omediadis.udl.cat/segre/text/bulletin/06022007-Migdia.xml>	rdf:type	ns13:DataTrack ;
+	rdfs:label	"Transcript of Radio Bulletin 12h - February 6th 2007" ;
+	dc:language	"ca" ;
+	dc:title	"Transcript of Radio Bulletin 12h - February 6th 2007" ;
+	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/audio/bulletin/06022007-Migdia.mp3>	rdf:type	ns13:AudioTrack ;
+	rdfs:label	"MP3 Copy of Radio Bulletin 12h - February 6th 2007" ;
+	ns13:duration	"PT00:06:44" ;
+	dc:format	"audio/mpeg" ;
+	dc:language	"ca" ;
+	dc:title	"MP3 Copy of Radio Bulletin 12h - February 6th 2007" ;
+	dc:creator	<http://www.segre.com> ;
+	ns13:bitrate	"128" ;
+	ns13:samplingrate	"48000" .
+<http://omediadis.udl.cat/segre/radio/bulletin/08012007-10/>	rdf:type	ns2:Communication ;
+	rdfs:label	"Radio Bulletin 10h - January 8th 2007" ;
+	dc:date	"2007" ;
+	dc:language	"ca" ;
+	dc:title	"Radio Bulletin 10h - January 8th 2007" ;
+	dc:creator	<http://www.segre.com> ;
+	ns2:hasRecording	<http://omediadis.udl.cat/segre/recording/bulletin/08012007-10/> .
+<http://omediadis.udl.cat/segre/recording/bulletin/08012007-10/>	rdf:type	ns2:Recording ;
+	rdfs:label	"Recording of Radio Bulletin 10h - January 8th 2007" ;
+	ns9:hasService	ns12:player ;
+	ns13:hasAudioDescription	<http://omediadis.udl.cat/segre/text/bulletin/08012007-10.xml> ;
+	dc:rights	<http://omediadis.udl.cat/segre/recording/bulletin/08012007-10/license/> ;
+	dc:language	"ca" ;
+	dc:title	"Recording of Radio Bulletin 10h - January 8th 2007" ;
+	dc:creator	<http://www.segre.com> ;
+	ns2:hasInstance	<http://omediadis.udl.cat/segre/audio/bulletin/08012007-10.mp3> .
+<http://omediadis.udl.cat/segre/text/bulletin/08012007-10.xml>	rdf:type	ns13:DataTrack ;
+	rdfs:label	"Transcript of Radio Bulletin 10h - January 8th 2007" ;
+	dc:language	"ca" ;
+	dc:title	"Transcript of Radio Bulletin 10h - January 8th 2007" ;
+	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/audio/bulletin/08012007-10.mp3>	rdf:type	ns13:AudioTrack ;
+	rdfs:label	"MP3 Copy of Radio Bulletin 10h - January 8th 2007" ;
+	ns13:duration	"PT00:01:28" ;
+	dc:format	"audio/mpeg" ;
+	dc:language	"ca" ;
+	dc:title	"MP3 Copy of Radio Bulletin 10h - January 8th 2007" ;
+	dc:creator	<http://www.segre.com> ;
+	ns13:bitrate	"128" ;
+	ns13:samplingrate	"48000" .
+<http://omediadis.udl.cat/segre/radio/bulletin/08012007-9/>	rdf:type	ns2:Communication ;
+	rdfs:label	"Radio Bulletin 9h - January 8th 2007" ;
+	dc:date	"2007" ;
+	dc:language	"ca" ;
+	dc:title	"Radio Bulletin 9h - January 8th 2007" ;
+	dc:creator	<http://www.segre.com> ;
+	ns2:hasRecording	<http://omediadis.udl.cat/segre/recording/bulletin/08012007-9/> .
+<http://omediadis.udl.cat/segre/recording/bulletin/08012007-9/>	rdf:type	ns2:Recording ;
+	rdfs:label	"Recording of Radio Bulletin 9h - January 8th 2007" ;
+	ns13:hasAudioDescription	<http://omediadis.udl.cat/segre/text/bulletin/08012007-9.xml> ;
+	dc:language	"ca" ;
+	dc:title	"Recording of Radio Bulletin 9h - January 8th 2007" ;
+	dc:creator	<http://www.segre.com> ;
+	ns2:hasInstance	<http://omediadis.udl.cat/segre/audio/bulletin/08012007-9.mp3> .
+<http://omediadis.udl.cat/segre/text/bulletin/08012007-9.xml>	rdf:type	ns13:DataTrack ;
+	rdfs:label	"Transcript of Radio Bulletin 9h - January 8th 2007" ;
+	dc:language	"ca" ;
+	dc:title	"Transcript of Radio Bulletin 9h - January 8th 2007" ;
+	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/audio/bulletin/08012007-9.mp3>	rdf:type	ns13:AudioTrack ;
+	rdfs:label	"MP3 Copy of Radio Bulletin 9h - January 8th 2007" ;
+	ns13:duration	"PT00:01:25" ;
+	dc:format	"audio/mpeg" ;
+	dc:language	"ca" ;
+	dc:title	"MP3 Copy of Radio Bulletin 9h - January 8th 2007" ;
+	dc:creator	<http://www.segre.com> ;
+	ns13:bitrate	"128" ;
+	ns13:samplingrate	"48000" .
+<http://omediadis.udl.cat/segre/radio/bulletin/09012007-15/>	rdf:type	ns2:Communication ;
+	rdfs:label	"Radio Bulletin 15h - January 9th 2007" ;
+	dc:date	"2007" ;
+	dc:language	"ca" ;
+	dc:title	"Radio Bulletin 15h - January 9th 2007" ;
+	dc:creator	<http://www.segre.com> ;
+	ns2:hasRecording	<http://omediadis.udl.cat/segre/recording/bulletin/09012007-15/> .
+<http://omediadis.udl.cat/segre/recording/bulletin/09012007-15/>	rdf:type	ns2:Recording ;
+	rdfs:label	"Recording of Radio Bulletin 15h - January 9th 2007" ;
+	ns13:hasAudioDescription	<http://omediadis.udl.cat/segre/text/bulletin/09012007-15.xml> ;
+	dc:language	"ca" ;
+	dc:title	"Recording of Radio Bulletin 15h - January 9th 2007" ;
+	dc:creator	<http://www.segre.com> ;
+	ns2:hasInstance	<http://omediadis.udl.cat/segre/audio/bulletin/09012007-15.mp3> .
+<http://omediadis.udl.cat/segre/text/bulletin/09012007-15.xml>	rdf:type	ns13:DataTrack ;
+	rdfs:label	"Transcript of Radio Bulletin 15h - January 9th 2007" ;
+	dc:language	"ca" ;
+	dc:title	"Transcript of Radio Bulletin 15h - January 9th 2007" ;
+	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/audio/bulletin/09012007-15.mp3>	rdf:type	ns13:AudioTrack ;
+	rdfs:label	"MP3 Copy of Radio Bulletin 15h - January 9th 2007" ;
+	ns13:duration	"PT00:01:09" ;
+	dc:format	"audio/mpeg" ;
+	dc:language	"ca" ;
+	dc:title	"MP3 Copy of Radio Bulletin 15h - January 9th 2007" ;
+	dc:creator	<http://www.segre.com> ;
+	ns13:bitrate	"128" ;
+	ns13:samplingrate	"48000" .
+<http://omediadis.udl.cat/segre/radio/bulletin/09012007-16/>	rdf:type	ns2:Communication ;
+	rdfs:label	"Radio Bulletin 16h - January 9th 2007" ;
+	dc:date	"2007" ;
+	dc:language	"ca" ;
+	dc:title	"Radio Bulletin 16h - January 9th 2007" ;
+	dc:creator	<http://www.segre.com> ;
+	ns2:hasRecording	<http://omediadis.udl.cat/segre/recording/bulletin/09012007-16/> .
+<http://omediadis.udl.cat/segre/recording/bulletin/09012007-16/>	rdf:type	ns2:Recording ;
+	rdfs:label	"Recording of Radio Bulletin 16h - January 9th 2007" ;
+	ns13:hasAudioDescription	<http://omediadis.udl.cat/segre/text/bulletin/09012007-16.xml> ;
+	dc:language	"ca" ;
+	dc:title	"Recording of Radio Bulletin 16h - January 9th 2007" ;
+	dc:creator	<http://www.segre.com> ;
+	ns2:hasInstance	<http://omediadis.udl.cat/segre/audio/bulletin/09012007-16.mp3> .
+<http://omediadis.udl.cat/segre/text/bulletin/09012007-16.xml>	rdf:type	ns13:DataTrack ;
+	rdfs:label	"Transcript of Radio Bulletin 16h - January 9th 2007" ;
+	dc:language	"ca" ;
+	dc:title	"Transcript of Radio Bulletin 16h - January 9th 2007" ;
+	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/audio/bulletin/09012007-16.mp3>	rdf:type	ns13:AudioTrack ;
+	rdfs:label	"MP3 Copy of Radio Bulletin 16h - January 9th 2007" ;
+	ns13:duration	"PT00:01:15" ;
+	dc:format	"audio/mpeg" ;
+	dc:language	"ca" ;
+	dc:title	"MP3 Copy of Radio Bulletin 16h - January 9th 2007" ;
+	dc:creator	<http://www.segre.com> ;
+	ns13:bitrate	"128" ;
+	ns13:samplingrate	"48000" .
+<http://omediadis.udl.cat/segre/radio/bulletin/09012007-17/>	rdf:type	ns2:Communication ;
+	rdfs:label	"Radio Bulletin 17h - January 9th 2007" ;
+	dc:date	"2007" ;
+	dc:language	"ca" ;
+	dc:title	"Radio Bulletin 17h - January 9th 2007" ;
+	dc:creator	<http://www.segre.com> ;
+	ns2:hasRecording	<http://omediadis.udl.cat/segre/recording/bulletin/09012007-17/> .
+<http://omediadis.udl.cat/segre/recording/bulletin/09012007-17/>	rdf:type	ns2:Recording ;
+	rdfs:label	"Recording of Radio Bulletin 17h - January 9th 2007" ;
+	ns13:hasAudioDescription	<http://omediadis.udl.cat/segre/text/bulletin/09012007-17.xml> ;
+	dc:language	"ca" ;
+	dc:title	"Recording of Radio Bulletin 17h - January 9th 2007" ;
+	dc:creator	<http://www.segre.com> ;
+	ns2:hasInstance	<http://omediadis.udl.cat/segre/audio/bulletin/09012007-17.mp3> .
+<http://omediadis.udl.cat/segre/text/bulletin/09012007-17.xml>	rdf:type	ns13:DataTrack ;
+	rdfs:label	"Transcript of Radio Bulletin 17h - January 9th 2007" ;
+	dc:language	"ca" ;
+	dc:title	"Transcript of Radio Bulletin 17h - January 9th 2007" ;
+	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/audio/bulletin/09012007-17.mp3>	rdf:type	ns13:AudioTrack ;
+	rdfs:label	"MP3 Copy of Radio Bulletin 17h - January 9th 2007" ;
+	ns13:duration	"PT00:01:20" ;
+	dc:format	"audio/mpeg" ;
+	dc:language	"ca" ;
+	dc:title	"MP3 Copy of Radio Bulletin 17h - January 9th 2007" ;
+	dc:creator	<http://www.segre.com> ;
+	ns13:bitrate	"128" ;
+	ns13:samplingrate	"48000" .
+<http://omediadis.udl.cat/segre/radio/bulletin/11012007-Migdia/>	rdf:type	ns2:Communication ;
+	rdfs:label	"Radio Bulletin 12h - January 11th 2007" ;
+	dc:date	"2007" ;
+	dc:language	"ca" ;
+	dc:title	"Radio Bulletin 12h - January 11th 2007" ;
+	dc:creator	<http://www.segre.com> ;
+	ns2:hasRecording	<http://omediadis.udl.cat/segre/recording/bulletin/11012007-Migdia/> .
+<http://omediadis.udl.cat/segre/recording/bulletin/11012007-Migdia/>	rdf:type	ns2:Recording ;
+	rdfs:label	"Recording of Radio Bulletin 12h - January 11th 2007" ;
+	ns13:hasAudioDescription	<http://omediadis.udl.cat/segre/text/bulletin/11012007-Migdia.xml> ;
+	dc:language	"ca" ;
+	dc:title	"Recording of Radio Bulletin 12h - January 11th 2007" ;
+	dc:creator	<http://www.segre.com> ;
+	ns2:hasInstance	<http://omediadis.udl.cat/segre/audio/bulletin/11012007-Migdia.mp3> .
+<http://omediadis.udl.cat/segre/text/bulletin/11012007-Migdia.xml>	rdf:type	ns13:DataTrack ;
+	rdfs:label	"Transcript of Radio Bulletin 12h - January 11th 2007" ;
+	dc:language	"ca" ;
+	dc:title	"Transcript of Radio Bulletin 12h - January 11th 2007" ;
+	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/audio/bulletin/11012007-Migdia.mp3>	rdf:type	ns13:AudioTrack ;
+	rdfs:label	"MP3 Copy of Radio Bulletin 12h - January 11th 2007" ;
+	ns13:duration	"PT00:10:25" ;
+	dc:format	"audio/mpeg" ;
+	dc:language	"ca" ;
+	dc:title	"MP3 Copy of Radio Bulletin 12h - January 11th 2007" ;
+	dc:creator	<http://www.segre.com> ;
+	ns13:bitrate	"128" ;
+	ns13:samplingrate	"48000" .
+<http://omediadis.udl.cat/segre/radio/bulletin/13022007-Migdia/>	rdf:type	ns2:Communication ;
+	rdfs:label	"Radio Bulletin 12h - February 13th 2007" ;
+	dc:date	"2007" ;
+	dc:language	"ca" ;
+	dc:title	"Radio Bulletin 12h - February 13th 2007" ;
+	dc:creator	<http://www.segre.com> ;
+	ns2:hasRecording	<http://omediadis.udl.cat/segre/recording/bulletin/13022007-Migdia/> .
+<http://omediadis.udl.cat/segre/recording/bulletin/13022007-Migdia/>	rdf:type	ns2:Recording ;
+	rdfs:label	"Recording of Radio Bulletin 12h - February 13th 2007" ;
+	ns9:hasService	ns12:player ;
+	ns13:hasAudioDescription	<http://omediadis.udl.cat/segre/text/bulletin/13022007-Migdia.xml> ;
+	dc:rights	<http://omediadis.udl.cat/segre/recording/bulletin/13022007-Migdia/license/> ;
+	dc:language	"ca" ;
+	dc:title	"Recording of Radio Bulletin 12h - February 13th 2007" ;
+	dc:creator	<http://www.segre.com> ;
+	ns2:hasInstance	<http://omediadis.udl.cat/segre/audio/bulletin/13022007-Migdia.mp3> .
+<http://omediadis.udl.cat/segre/text/bulletin/13022007-Migdia.xml>	rdf:type	ns13:DataTrack ;
+	rdfs:label	"Transcript of Radio Bulletin 12h - February 13th 2007" ;
+	dc:language	"ca" ;
+	dc:title	"Transcript of Radio Bulletin 12h - February 13th 2007" ;
+	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/audio/bulletin/13022007-Migdia.mp3>	rdf:type	ns13:AudioTrack ;
+	rdfs:label	"MP3 Copy of Radio Bulletin 12h - February 13th 2007" ;
+	ns13:duration	"PT00:07:25" ;
+	dc:format	"audio/mpeg" ;
+	dc:language	"ca" ;
+	dc:title	"MP3 Copy of Radio Bulletin 12h - February 13th 2007" ;
+	dc:creator	<http://www.segre.com> ;
+	ns13:bitrate	"128" ;
+	ns13:samplingrate	"48000" .
+<http://omediadis.udl.cat/segre/radio/bulletin/16042007-Migdia/>	rdf:type	ns2:Communication ;
+	rdfs:label	"Radio Bulletin 12h - April 16th 2007" ;
+	dc:date	"2007" ;
+	dc:language	"ca" ;
+	dc:title	"Radio Bulletin 12h - April 16th 2007" ;
+	dc:creator	<http://www.segre.com> ;
+	ns2:hasRecording	<http://omediadis.udl.cat/segre/recording/bulletin/16042007-Migdia/> .
+<http://omediadis.udl.cat/segre/recording/bulletin/16042007-Migdia/>	rdf:type	ns2:Recording ;
+	rdfs:label	"Recording of Radio Bulletin 12h - April 16th 2007" ;
+	ns9:hasService	ns12:player ;
+	ns13:hasAudioDescription	<http://omediadis.udl.cat/segre/text/bulletin/16042007-Migdia.xml> ;
+	dc:rights	<http://omediadis.udl.cat/segre/recording/bulletin/16042007-Migdia/license/> ;
+	dc:language	"ca" ;
+	dc:title	"Recording of Radio Bulletin 12h - April 16th 2007" ;
+	dc:creator	<http://www.segre.com> ;
+	ns2:hasInstance	<http://omediadis.udl.cat/segre/audio/bulletin/16042007-Migdia.mp3> .
+<http://omediadis.udl.cat/segre/text/bulletin/16042007-Migdia.xml>	rdf:type	ns13:DataTrack ;
+	rdfs:label	"Transcript of Radio Bulletin 12h - April 16th 2007" ;
+	dc:language	"ca" ;
+	dc:title	"Transcript of Radio Bulletin 12h - April 16th 2007" ;
+	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/audio/bulletin/16042007-Migdia.mp3>	rdf:type	ns13:AudioTrack ;
+	rdfs:label	"MP3 Copy of Radio Bulletin 12h - April 16th 2007" ;
+	ns13:duration	"PT00:07:43" ;
+	dc:format	"audio/mpeg" ;
+	dc:language	"ca" ;
+	dc:title	"MP3 Copy of Radio Bulletin 12h - April 16th 2007" ;
+	dc:creator	<http://www.segre.com> ;
+	ns13:bitrate	"128" ;
+	ns13:samplingrate	"48000" .
+<http://omediadis.udl.cat/segre/radio/bulletin/17012007-Migdia/>	rdf:type	ns2:Communication ;
+	rdfs:label	"Radio Bulletin 12h - January 17th 2007" ;
+	dc:date	"2007" ;
+	dc:language	"ca" ;
+	dc:title	"Radio Bulletin 12h - January 17th 2007" ;
+	dc:creator	<http://www.segre.com> ;
+	ns2:hasRecording	<http://omediadis.udl.cat/segre/recording/bulletin/17012007-Migdia/> .
+<http://omediadis.udl.cat/segre/recording/bulletin/17012007-Migdia/>	rdf:type	ns2:Recording ;
+	rdfs:label	"Recording of Radio Bulletin 12h - January 17th 2007" ;
+	ns13:hasAudioDescription	<http://omediadis.udl.cat/segre/text/bulletin/17012007-Migdia.xml> ;
+	dc:language	"ca" ;
+	dc:title	"Recording of Radio Bulletin 12h - January 17th 2007" ;
+	dc:creator	<http://www.segre.com> ;
+	ns2:hasInstance	<http://omediadis.udl.cat/segre/audio/bulletin/17012007-Migdia.mp3> .
+<http://omediadis.udl.cat/segre/text/bulletin/17012007-Migdia.xml>	rdf:type	ns13:DataTrack ;
+	rdfs:label	"Transcript of Radio Bulletin 12h - January 17th 2007" ;
+	dc:language	"ca" ;
+	dc:title	"Transcript of Radio Bulletin 12h - January 17th 2007" ;
+	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/audio/bulletin/17012007-Migdia.mp3>	rdf:type	ns13:AudioTrack ;
+	rdfs:label	"MP3 Copy of Radio Bulletin 12h - January 17th 2007" ;
+	ns13:duration	"PT00:11:10" ;
+	dc:format	"audio/mpeg" ;
+	dc:language	"ca" ;
+	dc:title	"MP3 Copy of Radio Bulletin 12h - January 17th 2007" ;
+	dc:creator	<http://www.segre.com> ;
+	ns13:bitrate	"128" ;
+	ns13:samplingrate	"48000" .
+<http://omediadis.udl.cat/segre/radio/bulletin/18012007-Migdia/>	rdf:type	ns2:Communication ;
+	rdfs:label	"Radio Bulletin 12h - January 18th 2007" ;
+	dc:date	"2007" ;
+	dc:language	"ca" ;
+	dc:title	"Radio Bulletin 12h - January 18th 2007" ;
+	dc:creator	<http://www.segre.com> ;
+	ns2:hasRecording	<http://omediadis.udl.cat/segre/recording/bulletin/18012007-Migdia/> .
+<http://omediadis.udl.cat/segre/recording/bulletin/18012007-Migdia/>	rdf:type	ns2:Recording ;
+	rdfs:label	"Recording of Radio Bulletin 12h - January 18th 2007" ;
+	ns13:hasAudioDescription	<http://omediadis.udl.cat/segre/text/bulletin/18012007-Migdia.xml> ;
+	dc:language	"ca" ;
+	dc:title	"Recording of Radio Bulletin 12h - January 18th 2007" ;
+	dc:creator	<http://www.segre.com> ;
+	ns2:hasInstance	<http://omediadis.udl.cat/segre/audio/bulletin/18012007-Migdia.mp3> .
+<http://omediadis.udl.cat/segre/text/bulletin/18012007-Migdia.xml>	rdf:type	ns13:DataTrack ;
+	rdfs:label	"Transcript of Radio Bulletin 12h - January 18th 2007" ;
+	dc:language	"ca" ;
+	dc:title	"Transcript of Radio Bulletin 12h - January 18th 2007" ;
+	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/audio/bulletin/18012007-Migdia.mp3>	rdf:type	ns13:AudioTrack ;
+	rdfs:label	"MP3 Copy of Radio Bulletin 12h - January 18th 2007" ;
+	ns13:duration	"PT00:12:04" ;
+	dc:format	"audio/mpeg" ;
+	dc:language	"ca" ;
+	dc:title	"MP3 Copy of Radio Bulletin 12h - January 18th 2007" ;
+	dc:creator	<http://www.segre.com> ;
+	ns13:bitrate	"128" ;
+	ns13:samplingrate	"48000" .
+<http://omediadis.udl.cat/segre/radio/bulletin/20022007-Migdia/>	rdf:type	ns2:Communication ;
+	rdfs:label	"Radio Bulletin 12h - February 20th 2007" ;
+	dc:date	"2007" ;
+	dc:language	"ca" ;
+	dc:title	"Radio Bulletin 12h - February 20th 2007" ;
+	dc:creator	<http://www.segre.com> ;
+	ns2:hasRecording	<http://omediadis.udl.cat/segre/recording/bulletin/20022007-Migdia/> .
+<http://omediadis.udl.cat/segre/recording/bulletin/20022007-Migdia/>	rdf:type	ns2:Recording ;
+	rdfs:label	"Recording of Radio Bulletin 12h - February 20th 2007" ;
+	ns13:hasAudioDescription	<http://omediadis.udl.cat/segre/text/bulletin/20022007-Migdia.xml> ;
+	dc:language	"ca" ;
+	dc:title	"Recording of Radio Bulletin 12h - February 20th 2007" ;
+	dc:creator	<http://www.segre.com> ;
+	ns2:hasInstance	<http://omediadis.udl.cat/segre/audio/bulletin/20022007-Migdia.mp3> .
+<http://omediadis.udl.cat/segre/text/bulletin/20022007-Migdia.xml>	rdf:type	ns13:DataTrack ;
+	rdfs:label	"Transcript of Radio Bulletin 12h - February 20th 2007" ;
+	dc:language	"ca" ;
+	dc:title	"Transcript of Radio Bulletin 12h - February 20th 2007" ;
+	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/audio/bulletin/20022007-Migdia.mp3>	rdf:type	ns13:AudioTrack ;
+	rdfs:label	"MP3 Copy of Radio Bulletin 12h - February 20th 2007" ;
+	ns13:duration	"PT00:08:55" ;
+	dc:format	"audio/mpeg" ;
+	dc:language	"ca" ;
+	dc:title	"MP3 Copy of Radio Bulletin 12h - February 20th 2007" ;
+	dc:creator	<http://www.segre.com> ;
+	ns13:bitrate	"128" ;
+	ns13:samplingrate	"48000" .
+<http://omediadis.udl.cat/segre/radio/bulletin/20112006-15/>	rdf:type	ns2:Communication ;
+	rdfs:label	"Radio Bulletin 15h - November 20th 2006" ;
+	dc:date	"2006" ;
+	dc:language	"ca" ;
+	dc:title	"Radio Bulletin 15h - November 20th 2006" ;
+	dc:creator	<http://www.segre.com> ;
+	ns2:hasRecording	<http://omediadis.udl.cat/segre/recording/bulletin/20112006-15/> .
+<http://omediadis.udl.cat/segre/recording/bulletin/20112006-15/>	rdf:type	ns2:Recording ;
+	rdfs:label	"Recording of Radio Bulletin 15h - November 20th 2006" ;
+	ns9:hasService	ns12:player ;
+	ns13:hasAudioDescription	<http://omediadis.udl.cat/segre/text/bulletin/20112006-15.xml> ;
+	dc:rights	<http://omediadis.udl.cat/segre/recording/bulletin/20112006-15/license/> ;
+	dc:language	"ca" ;
+	dc:title	"Recording of Radio Bulletin 15h - November 20th 2006" ;
+	dc:creator	<http://www.segre.com> ;
+	ns2:hasInstance	<http://omediadis.udl.cat/segre/audio/bulletin/20112006-15.mp3> .
+<http://omediadis.udl.cat/segre/text/bulletin/20112006-15.xml>	rdf:type	ns13:DataTrack ;
+	rdfs:label	"Transcript of Radio Bulletin 15h - November 20th 2006" ;
+	dc:language	"ca" ;
+	dc:title	"Transcript of Radio Bulletin 15h - November 20th 2006" ;
+	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/audio/bulletin/20112006-15.mp3>	rdf:type	ns13:AudioTrack ;
+	rdfs:label	"MP3 Copy of Radio Bulletin 15h - November 20th 2006" ;
+	ns13:duration	"PT00:01:42" ;
+	dc:format	"audio/mpeg" ;
+	dc:language	"ca" ;
+	dc:title	"MP3 Copy of Radio Bulletin 15h - November 20th 2006" ;
+	dc:creator	<http://www.segre.com> ;
+	ns13:bitrate	"128" ;
+	ns13:samplingrate	"48000" .
+<http://omediadis.udl.cat/segre/radio/bulletin/20112006-16/>	rdf:type	ns2:Communication ;
+	rdfs:label	"Radio Bulletin 16h - November 20th 2006" ;
+	dc:date	"2006" ;
+	dc:language	"ca" ;
+	dc:title	"Radio Bulletin 16h - November 20th 2006" ;
+	dc:creator	<http://www.segre.com> ;
+	ns2:hasRecording	<http://omediadis.udl.cat/segre/recording/bulletin/20112006-16/> .
+<http://omediadis.udl.cat/segre/recording/bulletin/20112006-16/>	rdf:type	ns2:Recording ;
+	rdfs:label	"Recording of Radio Bulletin 16h - November 20th 2006" ;
+	ns13:hasAudioDescription	<http://omediadis.udl.cat/segre/text/bulletin/20112006-16.xml> ;
+	dc:language	"ca" ;
+	dc:title	"Recording of Radio Bulletin 16h - November 20th 2006" ;
+	dc:creator	<http://www.segre.com> ;
+	ns2:hasInstance	<http://omediadis.udl.cat/segre/audio/bulletin/20112006-16.mp3> .
+<http://omediadis.udl.cat/segre/text/bulletin/20112006-16.xml>	rdf:type	ns13:DataTrack ;
+	rdfs:label	"Transcript of Radio Bulletin 16h - November 20th 2006" ;
+	dc:language	"ca" ;
+	dc:title	"Transcript of Radio Bulletin 16h - November 20th 2006" ;
+	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/audio/bulletin/20112006-16.mp3>	rdf:type	ns13:AudioTrack ;
+	rdfs:label	"MP3 Copy of Radio Bulletin 16h - November 20th 2006" ;
+	ns13:duration	"PT00:01:46" ;
+	dc:format	"audio/mpeg" ;
+	dc:language	"ca" ;
+	dc:title	"MP3 Copy of Radio Bulletin 16h - November 20th 2006" ;
+	dc:creator	<http://www.segre.com> ;
+	ns13:bitrate	"128" ;
+	ns13:samplingrate	"48000" .
+<http://omediadis.udl.cat/segre/radio/bulletin/20112006-21/>	rdf:type	ns2:Communication ;
+	rdfs:label	"Radio Bulletin 21h - November 20th 2006" ;
+	dc:date	"2006" ;
+	dc:language	"ca" ;
+	dc:title	"Radio Bulletin 21h - November 20th 2006" ;
+	dc:creator	<http://www.segre.com> ;
+	ns2:hasRecording	<http://omediadis.udl.cat/segre/recording/bulletin/20112006-21/> .
+<http://omediadis.udl.cat/segre/recording/bulletin/20112006-21/>	rdf:type	ns2:Recording ;
+	rdfs:label	"Recording of Radio Bulletin 21h - November 20th 2006" ;
+	ns13:hasAudioDescription	<http://omediadis.udl.cat/segre/text/bulletin/20112006-21.xml> ;
+	dc:language	"ca" ;
+	dc:title	"Recording of Radio Bulletin 21h - November 20th 2006" ;
+	dc:creator	<http://www.segre.com> ;
+	ns2:hasInstance	<http://omediadis.udl.cat/segre/audio/bulletin/20112006-21.mp3> .
+<http://omediadis.udl.cat/segre/text/bulletin/20112006-21.xml>	rdf:type	ns13:DataTrack ;
+	rdfs:label	"Transcript of Radio Bulletin 21h - November 20th 2006" ;
+	dc:language	"ca" ;
+	dc:title	"Transcript of Radio Bulletin 21h - November 20th 2006" ;
+	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/audio/bulletin/20112006-21.mp3>	rdf:type	ns13:AudioTrack ;
+	rdfs:label	"MP3 Copy of Radio Bulletin 21h - November 20th 2006" ;
+	ns13:duration	"PT00:01:27" ;
+	dc:format	"audio/mpeg" ;
+	dc:language	"ca" ;
+	dc:title	"MP3 Copy of Radio Bulletin 21h - November 20th 2006" ;
+	dc:creator	<http://www.segre.com> ;
+	ns13:bitrate	"128" ;
+	ns13:samplingrate	"48000" .
+<http://omediadis.udl.cat/segre/radio/bulletin/20112006-22/>	rdf:type	ns2:Communication ;
+	rdfs:label	"Radio Bulletin 22h - November 20th 2006" ;
+	dc:date	"2006" ;
+	dc:language	"ca" ;
+	dc:title	"Radio Bulletin 22h - November 20th 2006" ;
+	dc:creator	<http://www.segre.com> ;
+	ns2:hasRecording	<http://omediadis.udl.cat/segre/recording/bulletin/20112006-22/> .
+<http://omediadis.udl.cat/segre/recording/bulletin/20112006-22/>	rdf:type	ns2:Recording ;
+	rdfs:label	"Recording of Radio Bulletin 22h - November 20th 2006" ;
+	ns13:hasAudioDescription	<http://omediadis.udl.cat/segre/text/bulletin/20112006-22.xml> ;
+	dc:language	"ca" ;
+	dc:title	"Recording of Radio Bulletin 22h - November 20th 2006" ;
+	dc:creator	<http://www.segre.com> ;
+	ns2:hasInstance	<http://omediadis.udl.cat/segre/audio/bulletin/20112006-22.mp3> .
+<http://omediadis.udl.cat/segre/text/bulletin/20112006-22.xml>	rdf:type	ns13:DataTrack ;
+	rdfs:label	"Transcript of Radio Bulletin 22h - November 20th 2006" ;
+	dc:language	"ca" ;
+	dc:title	"Transcript of Radio Bulletin 22h - November 20th 2006" ;
+	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/audio/bulletin/20112006-22.mp3>	rdf:type	ns13:AudioTrack ;
+	rdfs:label	"MP3 Copy of Radio Bulletin 22h - November 20th 2006" ;
+	ns13:duration	"PT00:01:24" ;
+	dc:format	"audio/mpeg" ;
+	dc:language	"ca" ;
+	dc:title	"MP3 Copy of Radio Bulletin 22h - November 20th 2006" ;
+	dc:creator	<http://www.segre.com> ;
+	ns13:bitrate	"128" ;
+	ns13:samplingrate	"48000" .
+<http://omediadis.udl.cat/segre/radio/bulletin/21022907-Migdia/>	rdf:type	ns2:Communication ;
+	rdfs:label	"Radio Bulletin 12h - February 21th 2007" ;
+	dc:date	"2007" ;
+	dc:language	"ca" ;
+	dc:title	"Radio Bulletin 12h - February 21th 2007" ;
+	dc:creator	<http://www.segre.com> ;
+	ns2:hasRecording	<http://omediadis.udl.cat/segre/recording/bulletin/21022907-Migdia/> .
+<http://omediadis.udl.cat/segre/recording/bulletin/21022907-Migdia/>	rdf:type	ns2:Recording ;
+	rdfs:label	"Recording of Radio Bulletin 12h - February 21th 2007" ;
+	ns13:hasAudioDescription	<http://omediadis.udl.cat/segre/text/bulletin/21022907-Migdia.xml> ;
+	dc:language	"ca" ;
+	dc:title	"Recording of Radio Bulletin 12h - February 21th 2007" ;
+	dc:creator	<http://www.segre.com> ;
+	ns2:hasInstance	<http://omediadis.udl.cat/segre/audio/bulletin/21022907-Migdia.mp3> .
+<http://omediadis.udl.cat/segre/text/bulletin/21022907-Migdia.xml>	rdf:type	ns13:DataTrack ;
+	rdfs:label	"Transcript of Radio Bulletin 12h - February 21th 2007" ;
+	dc:language	"ca" ;
+	dc:title	"Transcript of Radio Bulletin 12h - February 21th 2007" ;
+	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/audio/bulletin/21022907-Migdia.mp3>	rdf:type	ns13:AudioTrack ;
+	rdfs:label	"MP3 Copy of Radio Bulletin 12h - February 21th 2007" ;
+	ns13:duration	"PT00:07:43" ;
+	dc:format	"audio/mpeg" ;
+	dc:language	"ca" ;
+	dc:title	"MP3 Copy of Radio Bulletin 12h - February 21th 2007" ;
+	dc:creator	<http://www.segre.com> ;
+	ns13:bitrate	"128" ;
+	ns13:samplingrate	"48000" .
+<http://omediadis.udl.cat/segre/radio/bulletin/22012007-Migdia/>	rdf:type	ns2:Communication ;
+	rdfs:label	"Radio Bulletin 12h - January 22th 2007" ;
+	dc:date	"2007" ;
+	dc:language	"ca" ;
+	dc:title	"Radio Bulletin 12h - January 22th 2007" ;
+	dc:creator	<http://www.segre.com> ;
+	ns2:hasRecording	<http://omediadis.udl.cat/segre/recording/bulletin/22012007-Migdia/> .
+<http://omediadis.udl.cat/segre/recording/bulletin/22012007-Migdia/>	rdf:type	ns2:Recording ;
+	rdfs:label	"Recording of Radio Bulletin 12h - January 22th 2007" ;
+	ns13:hasAudioDescription	<http://omediadis.udl.cat/segre/text/bulletin/22012007-Migdia.xml> ;
+	dc:language	"ca" ;
+	dc:title	"Recording of Radio Bulletin 12h - January 22th 2007" ;
+	dc:creator	<http://www.segre.com> ;
+	ns2:hasInstance	<http://omediadis.udl.cat/segre/audio/bulletin/22012007-Migdia.mp3> .
+<http://omediadis.udl.cat/segre/text/bulletin/22012007-Migdia.xml>	rdf:type	ns13:DataTrack ;
+	rdfs:label	"Transcript of Radio Bulletin 12h - January 22th 2007" ;
+	dc:language	"ca" ;
+	dc:title	"Transcript of Radio Bulletin 12h - January 22th 2007" ;
+	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/audio/bulletin/22012007-Migdia.mp3>	rdf:type	ns13:AudioTrack ;
+	rdfs:label	"MP3 Copy of Radio Bulletin 12h - January 22th 2007" ;
+	ns13:duration	"PT00:07:32" ;
+	dc:format	"audio/mpeg" ;
+	dc:language	"ca" ;
+	dc:title	"MP3 Copy of Radio Bulletin 12h - January 22th 2007" ;
+	dc:creator	<http://www.segre.com> ;
+	ns13:bitrate	"128" ;
+	ns13:samplingrate	"48000" .
+<http://omediadis.udl.cat/segre/radio/bulletin/23012007-Migdia/>	rdf:type	ns2:Communication ;
+	rdfs:label	"Radio Bulletin 12h - January 23th 2007" ;
+	dc:date	"2007" ;
+	dc:language	"ca" ;
+	dc:title	"Radio Bulletin 12h - January 23th 2007" ;
+	dc:creator	<http://www.segre.com> ;
+	ns2:hasRecording	<http://omediadis.udl.cat/segre/recording/bulletin/23012007-Migdia/> .
+<http://omediadis.udl.cat/segre/recording/bulletin/23012007-Migdia/>	rdf:type	ns2:Recording ;
+	rdfs:label	"Recording of Radio Bulletin 12h - January 23th 2007" ;
+	ns13:hasAudioDescription	<http://omediadis.udl.cat/segre/text/bulletin/23012007-Migdia.xml> ;
+	dc:language	"ca" ;
+	dc:title	"Recording of Radio Bulletin 12h - January 23th 2007" ;
+	dc:creator	<http://www.segre.com> ;
+	ns2:hasInstance	<http://omediadis.udl.cat/segre/audio/bulletin/23012007-Migdia.mp3> .
+<http://omediadis.udl.cat/segre/text/bulletin/23012007-Migdia.xml>	rdf:type	ns13:DataTrack ;
+	rdfs:label	"Transcript of Radio Bulletin 12h - January 23th 2007" ;
+	dc:language	"ca" ;
+	dc:title	"Transcript of Radio Bulletin 12h - January 23th 2007" ;
+	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/audio/bulletin/23012007-Migdia.mp3>	rdf:type	ns13:AudioTrack ;
+	rdfs:label	"MP3 Copy of Radio Bulletin 12h - January 23th 2007" ;
+	ns13:duration	"PT00:06:20" ;
+	dc:format	"audio/mpeg" ;
+	dc:language	"ca" ;
+	dc:title	"MP3 Copy of Radio Bulletin 12h - January 23th 2007" ;
+	dc:creator	<http://www.segre.com> ;
+	ns13:bitrate	"128" ;
+	ns13:samplingrate	"48000" .
+<http://omediadis.udl.cat/segre/radio/bulletin/23022007-Migdia/>	rdf:type	ns2:Communication ;
+	rdfs:label	"Radio Bulletin 12h - February 23th 2007" ;
+	dc:date	"2007" ;
+	dc:language	"ca" ;
+	dc:title	"Radio Bulletin 12h - February 23th 2007" ;
+	dc:creator	<http://www.segre.com> ;
+	ns2:hasRecording	<http://omediadis.udl.cat/segre/recording/bulletin/23022007-Migdia/> .
+<http://omediadis.udl.cat/segre/recording/bulletin/23022007-Migdia/>	rdf:type	ns2:Recording ;
+	rdfs:label	"Recording of Radio Bulletin 12h - February 23th 2007" ;
+	ns13:hasAudioDescription	<http://omediadis.udl.cat/segre/text/bulletin/23022007-Migdia.xml> ;
+	dc:language	"ca" ;
+	dc:title	"Recording of Radio Bulletin 12h - February 23th 2007" ;
+	dc:creator	<http://www.segre.com> ;
+	ns2:hasInstance	<http://omediadis.udl.cat/segre/audio/bulletin/23022007-Migdia.mp3> .
+<http://omediadis.udl.cat/segre/text/bulletin/23022007-Migdia.xml>	rdf:type	ns13:DataTrack ;
+	rdfs:label	"Transcript of Radio Bulletin 12h - February 23th 2007" ;
+	dc:language	"ca" ;
+	dc:title	"Transcript of Radio Bulletin 12h - February 23th 2007" ;
+	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/audio/bulletin/23022007-Migdia.mp3>	rdf:type	ns13:AudioTrack ;
+	rdfs:label	"MP3 Copy of Radio Bulletin 12h - February 23th 2007" ;
+	ns13:duration	"PT00:10:34" ;
+	dc:format	"audio/mpeg" ;
+	dc:language	"ca" ;
+	dc:title	"MP3 Copy of Radio Bulletin 12h - February 23th 2007" ;
+	dc:creator	<http://www.segre.com> ;
+	ns13:bitrate	"128" ;
+	ns13:samplingrate	"48000" .
+<http://omediadis.udl.cat/segre/radio/bulletin/24012007-Migdia/>	rdf:type	ns2:Communication ;
+	rdfs:label	"Radio Bulletin 12h - January 24th 2007" ;
+	dc:date	"2007" ;
+	dc:language	"ca" ;
+	dc:title	"Radio Bulletin 12h - January 24th 2007" ;
+	dc:creator	<http://www.segre.com> ;
+	ns2:hasRecording	<http://omediadis.udl.cat/segre/recording/bulletin/24012007-Migdia/> .
+<http://omediadis.udl.cat/segre/recording/bulletin/24012007-Migdia/>	rdf:type	ns2:Recording ;
+	rdfs:label	"Recording of Radio Bulletin 12h - January 24th 2007" ;
+	ns13:hasAudioDescription	<http://omediadis.udl.cat/segre/text/bulletin/24012007-Migdia.xml> ;
+	dc:language	"ca" ;
+	dc:title	"Recording of Radio Bulletin 12h - January 24th 2007" ;
+	dc:creator	<http://www.segre.com> ;
+	ns2:hasInstance	<http://omediadis.udl.cat/segre/audio/bulletin/24012007-Migdia.mp3> .
+<http://omediadis.udl.cat/segre/text/bulletin/24012007-Migdia.xml>	rdf:type	ns13:DataTrack ;
+	rdfs:label	"Transcript of Radio Bulletin 12h - January 24th 2007" ;
+	dc:language	"ca" ;
+	dc:title	"Transcript of Radio Bulletin 12h - January 24th 2007" ;
+	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/audio/bulletin/24012007-Migdia.mp3>	rdf:type	ns13:AudioTrack ;
+	rdfs:label	"MP3 Copy of Radio Bulletin 12h - January 24th 2007" ;
+	ns13:duration	"PT00:12:11" ;
+	dc:format	"audio/mpeg" ;
+	dc:language	"ca" ;
+	dc:title	"MP3 Copy of Radio Bulletin 12h - January 24th 2007" ;
+	dc:creator	<http://www.segre.com> ;
+	ns13:bitrate	"128" ;
+	ns13:samplingrate	"48000" .
+<http://omediadis.udl.cat/segre/radio/bulletin/28022007-Migdia/>	rdf:type	ns2:Communication ;
+	rdfs:label	"Radio Bulletin 12h - February 28th 2007" ;
+	dc:date	"2007" ;
+	dc:language	"ca" ;
+	dc:title	"Radio Bulletin 12h - February 28th 2007" ;
+	dc:creator	<http://www.segre.com> ;
+	ns2:hasRecording	<http://omediadis.udl.cat/segre/recording/bulletin/28022007-Migdia/> .
+<http://omediadis.udl.cat/segre/recording/bulletin/28022007-Migdia/>	rdf:type	ns2:Recording ;
+	rdfs:label	"Recording of Radio Bulletin 12h - February 28th 2007" ;
+	ns13:hasAudioDescription	<http://omediadis.udl.cat/segre/text/bulletin/28022007-Migdia.xml> ;
+	dc:language	"ca" ;
+	dc:title	"Recording of Radio Bulletin 12h - February 28th 2007" ;
+	dc:creator	<http://www.segre.com> ;
+	ns2:hasInstance	<http://omediadis.udl.cat/segre/audio/bulletin/28022007-Migdia.mp3> .
+<http://omediadis.udl.cat/segre/text/bulletin/28022007-Migdia.xml>	rdf:type	ns13:DataTrack ;
+	rdfs:label	"Transcript of Radio Bulletin 12h - February 28th 2007" ;
+	dc:language	"ca" ;
+	dc:title	"Transcript of Radio Bulletin 12h - February 28th 2007" ;
+	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/audio/bulletin/28022007-Migdia.mp3>	rdf:type	ns13:AudioTrack ;
+	rdfs:label	"MP3 Copy of Radio Bulletin 12h - February 28th 2007" ;
+	ns13:duration	"PT00:06:27" ;
+	dc:format	"audio/mpeg" ;
+	dc:language	"ca" ;
+	dc:title	"MP3 Copy of Radio Bulletin 12h - February 28th 2007" ;
+	dc:creator	<http://www.segre.com> ;
+	ns13:bitrate	"128" ;
+	ns13:samplingrate	"48000" .
+<http://omediadis.udl.cat/segre/radio/bulletin/29032007-Migdia/>	rdf:type	ns2:Communication ;
+	rdfs:label	"Radio Bulletin 12h - March 29th 2007" ;
+	dc:date	"2007" ;
+	dc:language	"ca" ;
+	dc:title	"Radio Bulletin 12h - March 29th 2007" ;
+	dc:creator	<http://www.segre.com> ;
+	ns2:hasRecording	<http://omediadis.udl.cat/segre/recording/bulletin/29032007-Migdia/> .
+<http://omediadis.udl.cat/segre/recording/bulletin/29032007-Migdia/>	rdf:type	ns2:Recording ;
+	rdfs:label	"Recording of Radio Bulletin 12h - March 29th 2007" ;
+	ns13:hasAudioDescription	<http://omediadis.udl.cat/segre/text/bulletin/29032007-Migdia.xml> ;
+	dc:language	"ca" ;
+	dc:title	"Recording of Radio Bulletin 12h - March 29th 2007" ;
+	dc:creator	<http://www.segre.com> ;
+	ns2:hasInstance	<http://omediadis.udl.cat/segre/audio/bulletin/29032007-Migdia.mp3> .
+<http://omediadis.udl.cat/segre/text/bulletin/29032007-Migdia.xml>	rdf:type	ns13:DataTrack ;
+	rdfs:label	"Transcript of Radio Bulletin 12h - March 29th 2007" ;
+	dc:language	"ca" ;
+	dc:title	"Transcript of Radio Bulletin 12h - March 29th 2007" ;
+	dc:creator	<http://www.segre.com> .
+<http://omediadis.udl.cat/segre/audio/bulletin/29032007-Migdia.mp3>	rdf:type	ns13:AudioTrack ;
+	rdfs:label	"MP3 Copy of Radio Bulletin 12h - March 29th 2007" ;
+	ns13:duration	"PT00:06:03" ;
+	dc:format	"audio/mpeg" ;
+	dc:language	"ca" ;
+	dc:title	"MP3 Copy of Radio Bulletin 12h - March 29th 2007" ;
+	dc:creator	<http://www.segre.com> ;
+	ns13:bitrate	"128" ;
+	ns13:samplingrate	"48000" .
+ns2:Distribute	rdfs:label	"distribute\\s" .
+ns2:MakeAvailable	rdfs:label	"make\\s available" .
+ns2:Communicate	rdfs:label	"communicate\\s" .
+ns2:Attribute	rdfs:label	"attribute\\s" .
+ns2:Copy	rdfs:label	"copy\\ies" .
+ns2:Access	rdfs:label	"access\\es" .
+ns2:Agree	rdfs:label	"agree\\s" .
+ns2:Derive	rdfs:label	"derive\\s" .
